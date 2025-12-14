@@ -1,6 +1,5 @@
 # README（arXiv Recommender：每日arXiv推荐器）
 
-```markdown
 # arXiv Recommender（基于研究兴趣的每日匹配推荐）
 
 
