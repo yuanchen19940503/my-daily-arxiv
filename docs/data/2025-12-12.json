@@ -1,6 +1,6 @@
 [
   {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.09978",
     "title": "Gravitational-wave parameter estimation to the Moon and back: massive binaries and the case of GW231123",
     "authors": [
@@ -10,23 +10,10 @@
       "Emanuele Berti"
     ],
     "link": "https://arxiv.org/abs/2512.09978",
-    "score": 0.5762280225753784
+    "score": 0.5763192772865295
   },
   {
-    "source": "astro-ph",
-    "arxiv_id": "2512.09978",
-    "title": "Gravitational-wave parameter estimation to the Moon and back: massive binaries and the case of GW231123",
-    "authors": [
-      "Francesco Iacovelli",
-      "Jacopo Tissino",
-      "Jan Harms",
-      "Emanuele Berti"
-    ],
-    "link": "https://arxiv.org/abs/2512.09978",
-    "score": 0.5761522054672241
-  },
-  {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.10539",
     "title": "BinaryGFH-v2: Improved method to search for gravitational waves from sub-solar-mass, ultra-compact binaries using the Generalized Frequency-Hough Transform",
     "authors": [
@@ -34,18 +21,7 @@
       "Lorenzo Pierini"
     ],
     "link": "https://arxiv.org/abs/2512.10539",
-    "score": 0.5725629925727844
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.10539",
-    "title": "BinaryGFH-v2: Improved method to search for gravitational waves from sub-solar-mass, ultra-compact binaries using the Generalized Frequency-Hough Transform",
-    "authors": [
-      "Andrew L. Miller",
-      "Lorenzo Pierini"
-    ],
-    "link": "https://arxiv.org/abs/2512.10539",
-    "score": 0.5725629925727844
+    "score": 0.5726425647735596
   },
   {
     "source": "astro-ph",
@@ -56,10 +32,10 @@
       "Kai Liao"
     ],
     "link": "https://arxiv.org/abs/2512.10344",
-    "score": 0.5646015405654907
+    "score": 0.5647575855255127
   },
   {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.10729",
     "title": "Efficient pulsar distance measurement with multiple nanohertz gravitational-wave sources",
     "authors": [
@@ -71,22 +47,7 @@
       "Xin Zhang"
     ],
     "link": "https://arxiv.org/abs/2512.10729",
-    "score": 0.5522067546844482
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.10729",
-    "title": "Efficient pulsar distance measurement with multiple nanohertz gravitational-wave sources",
-    "authors": [
-      "Si-Ren Xiao",
-      "Ji-Yu Song",
-      "Yue Shao",
-      "Ling-Feng Wang",
-      "Jing-Fei Zhang",
-      "Xin Zhang"
-    ],
-    "link": "https://arxiv.org/abs/2512.10729",
-    "score": 0.5521754026412964
+    "score": 0.5521665811538696
   },
   {
     "source": "astro-ph",
@@ -96,10 +57,10 @@
       "Andrei E. Egorov"
     ],
     "link": "https://arxiv.org/abs/2512.10923",
-    "score": 0.5433425307273865
+    "score": 0.5434122085571289
   },
   {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.10648",
     "title": "Subtracting compact binary foregrounds utilizing anisotropic statistic for third-generation gravitational-wave detectors",
     "authors": [
@@ -108,19 +69,7 @@
       "Lorenzo Valbusa Dall'Armi"
     ],
     "link": "https://arxiv.org/abs/2512.10648",
-    "score": 0.539215087890625
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.10648",
-    "title": "Subtracting compact binary foregrounds utilizing anisotropic statistic for third-generation gravitational-wave detectors",
-    "authors": [
-      "Soichiro Kuwahara",
-      "Atsushi Nishizawa",
-      "Lorenzo Valbusa Dall'Armi"
-    ],
-    "link": "https://arxiv.org/abs/2512.10648",
-    "score": 0.539215087890625
+    "score": 0.5393548011779785
   },
   {
     "source": "gr-qc",
@@ -133,10 +82,10 @@
       "Geraint Pratten"
     ],
     "link": "https://arxiv.org/abs/2512.10803",
-    "score": 0.5276300311088562
+    "score": 0.5276163816452026
   },
   {
-    "source": "astro-ph",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.10707",
     "title": "Constraints on the Population of Common Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of the LIGO and Virgo Detectors",
     "authors": [
@@ -145,19 +94,7 @@
       "Albert Zhang"
     ],
     "link": "https://arxiv.org/abs/2512.10707",
-    "score": 0.5002400875091553
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2512.10707",
-    "title": "Constraints on the Population of Common Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of the LIGO and Virgo Detectors",
-    "authors": [
-      "Doğa Veske",
-      "Zsuzsa Márka",
-      "Albert Zhang"
-    ],
-    "link": "https://arxiv.org/abs/2512.10707",
-    "score": 0.5002215504646301
+    "score": 0.5004373788833618
   },
   {
     "source": "astro-ph",
@@ -169,7 +106,7 @@
       "Ue-Li Pen"
     ],
     "link": "https://arxiv.org/abs/2512.10795",
-    "score": 0.4979917109012604
+    "score": 0.49786755442619324
   },
   {
     "source": "astro-ph",
@@ -179,7 +116,7 @@
       "Ziad Sakr"
     ],
     "link": "https://arxiv.org/abs/2512.10742",
-    "score": 0.4949030578136444
+    "score": 0.49496352672576904
   },
   {
     "source": "astro-ph",
@@ -199,7 +136,7 @@
       "V. Venkatraman Krishnan"
     ],
     "link": "https://arxiv.org/abs/2512.10489",
-    "score": 0.4924413859844208
+    "score": 0.4924648106098175
   },
   {
     "source": "astro-ph",
@@ -212,7 +149,7 @@
       "Matthew R. Buckley"
     ],
     "link": "https://arxiv.org/abs/2512.09989",
-    "score": 0.4869881868362427
+    "score": 0.4868911802768707
   },
   {
     "source": "astro-ph",
@@ -225,10 +162,10 @@
       "Rakesh Kumar SivaKumar"
     ],
     "link": "https://arxiv.org/abs/2512.09997",
-    "score": 0.485735148191452
+    "score": 0.4858064651489258
   },
   {
-    "source": "astro-ph",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.09985",
     "title": "Dark matter mounds from the collapse of supermassive stars: a general-relativistic analysis",
     "authors": [
@@ -240,22 +177,7 @@
       "Daniele Gaggero"
     ],
     "link": "https://arxiv.org/abs/2512.09985",
-    "score": 0.4848145842552185
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2512.09985",
-    "title": "Dark matter mounds from the collapse of supermassive stars: a general-relativistic analysis",
-    "authors": [
-      "Roberto Caiozzo",
-      "Gianfranco Bertone",
-      "Piero Ullio",
-      "Rodrigo Vicente",
-      "Bradley J. Kavanagh",
-      "Daniele Gaggero"
-    ],
-    "link": "https://arxiv.org/abs/2512.09985",
-    "score": 0.48472169041633606
+    "score": 0.48461154103279114
   },
   {
     "source": "astro-ph",
@@ -269,10 +191,10 @@
       "May G. Pedersen"
     ],
     "link": "https://arxiv.org/abs/2512.10019",
-    "score": 0.4832783341407776
+    "score": 0.4832124710083008
   },
   {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.09980",
     "title": "UV Luminosity Functions from HST and JWST: A Possible Resolution to the High-Redshift Galaxy Abundance Puzzle and Implications for Cosmic Strings",
     "authors": [
@@ -283,21 +205,7 @@
       "Bryce Cyr"
     ],
     "link": "https://arxiv.org/abs/2512.09980",
-    "score": 0.4826403558254242
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.09980",
-    "title": "UV Luminosity Functions from HST and JWST: A Possible Resolution to the High-Redshift Galaxy Abundance Puzzle and Implications for Cosmic Strings",
-    "authors": [
-      "Mattéo Blamart",
-      "Adrian Liu",
-      "Robert Brandenberger",
-      "Julian B. Muñoz",
-      "Bryce Cyr"
-    ],
-    "link": "https://arxiv.org/abs/2512.09980",
-    "score": 0.4826403558254242
+    "score": 0.4826802611351013
   },
   {
     "source": "astro-ph",
@@ -310,10 +218,10 @@
       "Angelo Ricciardone"
     ],
     "link": "https://arxiv.org/abs/2512.10896",
-    "score": 0.47648483514785767
+    "score": 0.47643086314201355
   },
   {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.09966",
     "title": "Blandford-Znajek Jets and the Total Angular Momentum Evolution of a Black Hole Connected to a Cosmic String",
     "authors": [
@@ -321,18 +229,7 @@
       "Deobrat Singh"
     ],
     "link": "https://arxiv.org/abs/2512.09966",
-    "score": 0.4757991433143616
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.09966",
-    "title": "Blandford-Znajek Jets and the Total Angular Momentum Evolution of a Black Hole Connected to a Cosmic String",
-    "authors": [
-      "Ishan Swamy",
-      "Deobrat Singh"
-    ],
-    "link": "https://arxiv.org/abs/2512.09966",
-    "score": 0.4757991433143616
+    "score": 0.4757258892059326
   },
   {
     "source": "astro-ph",
@@ -360,7 +257,7 @@
       "Jonathan Menu"
     ],
     "link": "https://arxiv.org/abs/2512.10893",
-    "score": 0.47312337160110474
+    "score": 0.4731549620628357
   },
   {
     "source": "gr-qc",
@@ -371,7 +268,7 @@
       "Anna Tokareva"
     ],
     "link": "https://arxiv.org/abs/2512.10890",
-    "score": 0.4710672199726105
+    "score": 0.4711589217185974
   },
   {
     "source": "astro-ph",
@@ -381,7 +278,7 @@
       "Ziad Sakr"
     ],
     "link": "https://arxiv.org/abs/2512.10763",
-    "score": 0.46555447578430176
+    "score": 0.46559351682662964
   },
   {
     "source": "astro-ph",
@@ -393,10 +290,10 @@
       "Jason A. S. Hunt"
     ],
     "link": "https://arxiv.org/abs/2512.10883",
-    "score": 0.46408811211586
+    "score": 0.46404922008514404
   },
   {
-    "source": "gr-qc",
+    "source": "astro-ph, gr-qc",
     "arxiv_id": "2512.10855",
     "title": "Measuring the neutron star equation of state from EMRIs in dark matter environments with LISA",
     "authors": [
@@ -404,18 +301,7 @@
       "Gianfranco Bertone"
     ],
     "link": "https://arxiv.org/abs/2512.10855",
-    "score": 0.46231117844581604
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.10855",
-    "title": "Measuring the neutron star equation of state from EMRIs in dark matter environments with LISA",
-    "authors": [
-      "Theophanes K. Karydas",
-      "Gianfranco Bertone"
-    ],
-    "link": "https://arxiv.org/abs/2512.10855",
-    "score": 0.46231117844581604
+    "score": 0.46234068274497986
   },
   {
     "source": "gr-qc",
@@ -428,7 +314,7 @@
       "Carlos F. Sopuerta"
     ],
     "link": "https://arxiv.org/abs/2512.10664",
-    "score": 0.45557349920272827
+    "score": 0.45549651980400085
   },
   {
     "source": "astro-ph",
@@ -438,7 +324,7 @@
       "Qing-Yang Wang"
     ],
     "link": "https://arxiv.org/abs/2512.10862",
-    "score": 0.4548760652542114
+    "score": 0.45461997389793396
   },
   {
     "source": "astro-ph",
@@ -448,7 +334,7 @@
       "Jérôme Pétri"
     ],
     "link": "https://arxiv.org/abs/2512.10479",
-    "score": 0.4514978229999542
+    "score": 0.45148804783821106
   },
   {
     "source": "astro-ph",
@@ -478,19 +364,7 @@
       "Sandra Zamora"
     ],
     "link": "https://arxiv.org/abs/2512.09996",
-    "score": 0.4485899806022644
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.10417",
-    "title": "A Systematic Study of Magnetic Fields Impacts on Neutrino Transport in Core-Collapse Supernovae",
-    "authors": [
-      "Yudong Luo",
-      "Shuai Zha",
-      "Toshitaka Kajino"
-    ],
-    "link": "https://arxiv.org/abs/2512.10417",
-    "score": 0.44312915205955505
+    "score": 0.4486068785190582
   },
   {
     "source": "astro-ph",
@@ -506,7 +380,19 @@
       "A. Miglio"
     ],
     "link": "https://arxiv.org/abs/2512.10474",
-    "score": 0.44288888573646545
+    "score": 0.4428524672985077
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10417",
+    "title": "A Systematic Study of Magnetic Fields Impacts on Neutrino Transport in Core-Collapse Supernovae",
+    "authors": [
+      "Yudong Luo",
+      "Shuai Zha",
+      "Toshitaka Kajino"
+    ],
+    "link": "https://arxiv.org/abs/2512.10417",
+    "score": 0.44277453422546387
   },
   {
     "source": "gr-qc",
@@ -518,7 +404,7 @@
       "Andrés Mínguez-Sánchez"
     ],
     "link": "https://arxiv.org/abs/2512.10692",
-    "score": 0.44260236620903015
+    "score": 0.44252538681030273
   },
   {
     "source": "astro-ph",
@@ -528,6 +414,231 @@
       "Sophia R. Flury"
     ],
     "link": "https://arxiv.org/abs/2512.10650",
-    "score": 0.44077375531196594
+    "score": 0.4406907558441162
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.09993",
+    "title": "Characterizing the Roman Grism Redshift Efficiency of Type Ia Supernova Host Galaxies for the High-Latitude Time-Domain Survey",
+    "authors": [
+      "R. C. Chen",
+      "Z. Guo",
+      "D. Scolnic",
+      "B. Joshi",
+      "R. Kessler",
+      "L. Galbany",
+      "R. Hounsell",
+      "D. M. Markoff",
+      "B. M. Rose",
+      "D. Rubin",
+      "Roman Supernova Cosmology Project Infrastructure team"
+    ],
+    "link": "https://arxiv.org/abs/2512.09993",
+    "score": 0.44019126892089844
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.10008",
+    "title": "Formation of extremal Reissner-Nordström black holes: insights from numerics",
+    "authors": [
+      "Maxime Gadioux",
+      "Harvey S. Reall",
+      "Jorge E. Santos"
+    ],
+    "link": "https://arxiv.org/abs/2512.10008",
+    "score": 0.43951180577278137
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.10526",
+    "title": "Nonlinear evolution of the ergoregion instability: Turbulence, bursts of radiation, and black hole formation",
+    "authors": [
+      "Nils Siemonsen",
+      "William E. East"
+    ],
+    "link": "https://arxiv.org/abs/2512.10526",
+    "score": 0.4387787878513336
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.10557",
+    "title": "Neutrino oscillations in a Kalb-Ramond black hole background",
+    "authors": [
+      "Yuxuan Shi",
+      "A. A. Araújo Filho",
+      "K. E. L. de Farias",
+      "V. B. Bezerra",
+      "Amilcar R. Queiroz"
+    ],
+    "link": "https://arxiv.org/abs/2512.10557",
+    "score": 0.4385330080986023
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10239",
+    "title": "EP250827b/SN 2025wkm: An X-ray Flash-Supernova Powered by a Central Engine and Circumstellar Interaction",
+    "authors": [
+      "Gokul P. Srinivasaragavan",
+      "Dongyue Li",
+      "Xander J. Hall",
+      "Ore Gottlieb",
+      "Genevieve Schroeder",
+      "Heyang Liu",
+      "Brendan O'Connor",
+      "Chichuan Jin",
+      "Mansi Kasliwal",
+      "Tomás Ahumada",
+      "Qinyu Wu",
+      "Christopher L. Fryer",
+      "Annabelle E. Niblett",
+      "Dong Xu",
+      "Maria Edvige Ravasio",
+      "Grace Daja",
+      "Wenxiong Li",
+      "Shreya Anand",
+      "Anna Y. Q. Ho",
+      "Hui Sun",
+      "Daniel A. Perley",
+      "Lin Yan",
+      "Eric Burns",
+      "S. Bradley Cenko",
+      "Jesper Sollerman",
+      "Nikhil Sarin",
+      "Anthony L. Piro",
+      "Amar Aryan",
+      "M. Coleman Miller",
+      "Jie An",
+      "Tao An",
+      "Moira Andrews",
+      "Jule Augustin",
+      "Eric C. Bellm",
+      "Aleksandra Bochenek",
+      "Malte Busmann",
+      "Krittapas Chanchaiworawit",
+      "Huaqing Chen",
+      "Alberto J. Castro-Tirado",
+      "Ali Esamdin",
+      "Jennifer Faba-Moreno",
+      "Joseph Farah",
+      "Shaoyu Fu",
+      "Johan P.U. Fynbo",
+      "Julius Gassert",
+      "Estefania Padilla Gonzalez",
+      "Matthew Graham",
+      "Daniel Gruen",
+      "D. Andrew Howell",
+      "Linbo He",
+      "Jingwei Hu",
+      "Abdusamatjan Iskandar",
+      "Joahan Castaneda Jaims",
+      "Ji-An Jiang",
+      "Ning Jiang",
+      "Shuaijiao Jiang",
+      "Runduo Liang",
+      "Zhixing Ling",
+      "Jialian Liu",
+      "Xing Liu",
+      "Yuan Liu",
+      "Frank J. Masci",
+      "Curtis McCully",
+      "Megan Newsome",
+      "Kanthanakorn Noysena",
+      "Kangrui Ni",
+      "Antonella Palmese",
+      "Han-Long Peng",
+      "Josiah Purdum",
+      "Yu-Jing Qin",
+      "Sam Rose",
+      "Ben Rusholme",
+      "Cassie Sevilla",
+      "Roger Smith",
+      "Yujia Song",
+      "Niharika Sravan",
+      "Robert Stein",
+      "Constantin Tabor",
+      "Giacomo Terreran",
+      "Samaporn Tinyanont",
+      "Pablo Vega",
+      "Letian Wang",
+      "Tinggu Wang",
+      "Xiaofeng Wang",
+      "Xuefeng Wu",
+      "Kathryn Wynn",
+      "Yunfei Xu",
+      "Shengyu Yan",
+      "Weimin Yuan",
+      "Binbin Zhang",
+      "Chen Zhang",
+      "Zipei Zhu",
+      "Xiaoxiong Zuo",
+      "Gursimran Bhullar"
+    ],
+    "link": "https://arxiv.org/abs/2512.10239",
+    "score": 0.4376840889453888
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10222",
+    "title": "Galaxy Phase-Space and Field-Level Cosmology: The Strength of Semi-Analytic Models",
+    "authors": [
+      "Natalí S. M. de Santi",
+      "Francisco Villaescusa-Navarro",
+      "Pablo Araya-Araya",
+      "Gabriella De Lucia",
+      "Fabio Fontanot",
+      "Lucia A. Perez",
+      "Manuel Arnés-Curto",
+      "Violeta Gonzalez-Perez",
+      "Ángel Chandro-Gómez",
+      "Rachel S. Somerville",
+      "Tiago Castro"
+    ],
+    "link": "https://arxiv.org/abs/2512.10222",
+    "score": 0.43693122267723083
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10023",
+    "title": "Classification of a New X-ray Catalog of Likely Counterparts to 4FGL-DR4 Unassociated Gamma-ray Sources Using a Neural Network",
+    "authors": [
+      "Kyle D. Neumann",
+      "Abraham D. Falcone",
+      "Stephen DiKerby",
+      "Sierra Deppe",
+      "Elizabeth C. Ferrara",
+      "Jamie A. Kennea",
+      "Brad Cenko",
+      "Eric Grove"
+    ],
+    "link": "https://arxiv.org/abs/2512.10023",
+    "score": 0.43674808740615845
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.10381",
+    "title": "5D Rotating Black Holes as dark matter in Dark Dimension Scenario: Hawking Radiation versus the Memory Burden Effect",
+    "authors": [
+      "George K. Leontaris",
+      "George Prampromis"
+    ],
+    "link": "https://arxiv.org/abs/2512.10381",
+    "score": 0.43624743819236755
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.10811",
+    "title": "A remarkable Gaia-assisted discovery of a temporally varying, triple-lensed quasar at z=2.67",
+    "authors": [
+      "Charlie Lind-Thomsen",
+      "Kasper E. Heintz",
+      "Albert Sneppen",
+      "Kostas Valeckas",
+      "Stefan Geier",
+      "Jens-Kristian Krogager",
+      "Johan Richard",
+      "Johan P.U. Fynbo"
+    ],
+    "link": "https://arxiv.org/abs/2512.10811",
+    "score": 0.43550950288772583
   }
 ]
