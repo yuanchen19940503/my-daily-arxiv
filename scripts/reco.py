@@ -10,13 +10,13 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
-# 你可以先从较小范围开始，避免 astro-ph 全站太大导致调用次数上升
+# 我只关心gr-qc和astro-ph的论文，如果想增加来源，比如hep-th的论文，就在这个地方添加
 LIST_PAGES = {
     "gr-qc": "https://arxiv.org/list/gr-qc/new",
     "astro-ph": "https://arxiv.org/list/astro-ph/new",
 }
 
-EMBED_MODEL = "text-embedding-3-small"  # 第一版建议用 small，便宜且足够好
+EMBED_MODEL = "text-embedding-3-small"   # 便宜且足够好
 TOP_N = 40                               # 页面展示/归档的 Top-N
 MAX_CHARS_PER_PAPER = 6000               # 避免过长文本（embedding 有 token 上限）:contentReference[oaicite:2]{index=2}
 
@@ -79,7 +79,6 @@ def parse_all_entries(soup: BeautifulSoup) -> List[Dict[str, Any]]:
             auth_div = dd.find("div", class_=re.compile(r"list-authors"))
             authors = [a.get_text(" ", strip=True) for a in auth_div.find_all("a")] if auth_div else []
 
-            # /new 页面里“摘要”没有固定 blockquote 标签，最稳是用 dd 全文文本
             fulltext = dd.get_text(" ", strip=True)
 
             out.append({
@@ -209,6 +208,29 @@ def main():
         if day != latest_day:
             continue
         candidates.extend(items)
+    # 去重：同一 arXiv_id 可能同时出现在多个 /new 页面
+    by_id = {}
+    for it in candidates:
+        k = it.get("arxiv_id", "")
+        if not k:
+            continue
+        if k not in by_id:
+            by_id[k] = dict(it)
+            by_id[k]["_sourceset"] = {it.get("source", "")} if it.get("source") else set()
+        else:
+            if it.get("source"):
+                by_id[k]["_sourceset"].add(it["source"])
+            # 如果不同来源抓到的 fulltext 长度不同，保留更长的（更有信息量）
+            if len(it.get("fulltext", "")) > len(by_id[k].get("fulltext", "")):
+                keep_set = by_id[k]["_sourceset"]
+                by_id[k] = dict(it)
+                by_id[k]["_sourceset"] = keep_set
+
+    candidates = []
+    for _, it in by_id.items():
+        sources = sorted(list(it.pop("_sourceset", set())))
+        it["source"] = ", ".join([s for s in sources if s])
+        candidates.append(it)
 
     # 为 embedding 组装文本（尽量包含摘要段落信息）
     paper_texts = []
