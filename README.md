@@ -2,12 +2,14 @@
 
 # arXiv Recommender（基于研究兴趣的每日匹配推荐）
 
+每日arXiv论文推荐见：https://yuanchen19940503.github.io/my-daily-arxiv/
+当前已按照我的研究兴趣设置（引力波，原初黑洞暗物质）
 
 ## 中文说明
 
 ### 1. 项目简介
-每天抓取指定 arXiv 分区的 `/new` 列表（我这里使用了 `gr-qc/new` 与 `astro-ph/new`），将每篇论文的标题/作者/摘要文本与仓库中的 `profile.md`进行匹配，计算语义相似度并排序，生成：
-- 当天批次 Top-N 推荐列表（网页展示）
+每天抓取指定 arXiv 分区的 /new 列表（我这里使用了 `gr-qc/new` 与 `astro-ph/new`），将每篇论文的标题/作者/摘要文本与仓库中的 `profile.md`进行匹配，计算语义相似度并排序，生成：
+- 当天批次 Top-40 推荐列表（网页展示）
 - 当天批次 JSON 归档（永久保存）
 
 匹配方法采用 OpenAI Embeddings（向量化）+ cosine similarity（余弦相似度）。需要在 GitHub Secrets 中配置 `OPENAI_API_KEY`，根据我的测试，每次成本小于0.01美元，充个10美元应该就可以用很久了。
