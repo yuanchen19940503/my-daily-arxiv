@@ -1,0 +1,584 @@
+[
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20592",
+    "title": "Signatures of High-Frequency Gravitational Waves in Electromagnetic Cavities",
+    "authors": [
+      "Sebastian Schenk",
+      "Kristof Schmieden",
+      "Pedro Schwaller"
+    ],
+    "link": "https://arxiv.org/abs/2512.20592",
+    "score": 0.5963250398635864
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20037",
+    "title": "Microlensing Black Hole Shadows-II: Constraining Primordial Black Hole Dark Matter using the photon rings of M87 and Sgr A*",
+    "authors": [
+      "Himanshu Verma",
+      "Priyanka Sarmah",
+      "Joseph Silk",
+      "Kingman Cheung"
+    ],
+    "link": "https://arxiv.org/abs/2512.20037",
+    "score": 0.5650073885917664
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20060",
+    "title": "Measuring Eccentricity and Addressing Waveform Systematics in GW231123",
+    "authors": [
+      "Aasim Jan",
+      "Sophia Nicolella",
+      "Deirdre Shoemaker",
+      "Richard O'Shaughnessy"
+    ],
+    "link": "https://arxiv.org/abs/2512.20060",
+    "score": 0.5628908276557922
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20265",
+    "title": "Super-Eddington Accretion through a Multiwavelength Lens: Searching for Counterparts of Ultraluminous X-ray Sources",
+    "authors": [
+      "R. Amato",
+      "M. Bachetti",
+      "R. Soria",
+      "A. Gúrpide",
+      "M. Imbrogno",
+      "C. Salvaggio",
+      "R. Salvaterra",
+      "M. Del Santo",
+      "S. Scaringi",
+      "P. Casella",
+      "A. Wolter"
+    ],
+    "link": "https://arxiv.org/abs/2512.20265",
+    "score": 0.494679719209671
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20054",
+    "title": "Stable mass transfer in massive binaries leading to merging black holes",
+    "authors": [
+      "Xiao-Tian Xu",
+      "Norbert Langer",
+      "Jakub Klencki",
+      "Chen Wang",
+      "Xiang-Dong Li"
+    ],
+    "link": "https://arxiv.org/abs/2512.20054",
+    "score": 0.4812939763069153
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.19828",
+    "title": "Gauge-invariant Bardeen variables for plane waves and their relation to Cartan and Killing invariants",
+    "authors": [
+      "R. Radhakrishnan",
+      "D. McNutt",
+      "D. Mirfendereski",
+      "E. Davis",
+      "W. Julius",
+      "G. Cleaver"
+    ],
+    "link": "https://arxiv.org/abs/2512.19828",
+    "score": 0.47976958751678467
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20579",
+    "title": "Spin-induced quadrupole moment based test for eccentric binaries",
+    "authors": [
+      "N. V. Krishnendu"
+    ],
+    "link": "https://arxiv.org/abs/2512.20579",
+    "score": 0.4776075482368469
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20445",
+    "title": "Black hole solutions with a linear equation of state in Hořava gravity and Einstein-Aether theory",
+    "authors": [
+      "Milko Estrada"
+    ],
+    "link": "https://arxiv.org/abs/2512.20445",
+    "score": 0.46720096468925476
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20429",
+    "title": "Exploring the nature of gravity with quantum information methods",
+    "authors": [
+      "Bruna Sahdo",
+      "Natália Salomé Móller"
+    ],
+    "link": "https://arxiv.org/abs/2512.20429",
+    "score": 0.464234322309494
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19907",
+    "title": "Astrophysical constraints on the cold equation of state of the strongly interacting matter",
+    "authors": [
+      "Gábor Kasza",
+      "János Takátsy",
+      "György Wolf"
+    ],
+    "link": "https://arxiv.org/abs/2512.19907",
+    "score": 0.4526282846927643
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.19888",
+    "title": "Observational constraints on early time non-phantom behaviour of dynamical dark energy",
+    "authors": [
+      "Sk. Sohail",
+      "Sonej Alam",
+      "Md. Wali Hossain"
+    ],
+    "link": "https://arxiv.org/abs/2512.19888",
+    "score": 0.45199331641197205
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20379",
+    "title": "The impact of selection criteria on the properties of green valley galaxies",
+    "authors": [
+      "Beatrice Nyiransengiyumva",
+      "Mirjana Povic",
+      "Pheneas Nkundabakura",
+      "Tom Mutabazi",
+      "Antoine Mahoro"
+    ],
+    "link": "https://arxiv.org/abs/2512.20379",
+    "score": 0.45138058066368103
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20455",
+    "title": "The Indian Pulsar Timing Array Data Release 2: II. Customised Single-Pulsar Noise Analysis and Noise Budget",
+    "authors": [
+      "K. Nobleson",
+      "Churchil Dwivedi",
+      "Shantanu Desai",
+      "Bhal Chandra Joshi",
+      "Himanshu Grover",
+      "Debabrata Deb",
+      "Vaishnavi Vyasraj",
+      "Kunjal Vara",
+      "Hemanga Tahbildar",
+      "Abhimanyu Susobhanan",
+      "Mayuresh Surnis",
+      "Aman Srivastava",
+      "Shubhit Sardana",
+      "Keitaro Takahashi",
+      "Amarnath",
+      "P. Arumugam",
+      "Manjari Bagchi",
+      "Neelam Dhanda Batra",
+      "Manoneeta Chakraborty",
+      "Shaswata Chowdhury",
+      "Shebin Jose Jacob",
+      "Jibin Jose",
+      "Shubham Kala",
+      "Ryo Kato",
+      "M. A. Krishnakumar",
+      "Kuldeep Meena",
+      "Avinash Kumar Paladi",
+      "Arul Pandian",
+      "Kaustubh Rai",
+      "Prerna Rana",
+      "Manpreet Singh",
+      "Jaikhomba Singha",
+      "Adya Shukla",
+      "Pratik Tarafdar",
+      "Prabu Thiagraj",
+      "Zenia Zuraiq"
+    ],
+    "link": "https://arxiv.org/abs/2512.20455",
+    "score": 0.4507628381252289
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.19796",
+    "title": "Buchdahl limits in theories with regular black holes",
+    "authors": [
+      "Pablo Bueno",
+      "Robie A. Hennigar",
+      "Ángel J. Murcia",
+      "Aitor Vicente-Cano"
+    ],
+    "link": "https://arxiv.org/abs/2512.19796",
+    "score": 0.45056653022766113
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20320",
+    "title": "Nonsingular hairy black holes by gravitational decoupling",
+    "authors": [
+      "Yaobin Hua",
+      "Rong-Jia Yang"
+    ],
+    "link": "https://arxiv.org/abs/2512.20320",
+    "score": 0.4496399164199829
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20383",
+    "title": "A Spectrum of Cosmological Rips and Their Observational Signatures",
+    "authors": [
+      "Mikel Artola",
+      "Ruth Lazkoz",
+      "Vincenzo Salzano"
+    ],
+    "link": "https://arxiv.org/abs/2512.20383",
+    "score": 0.44878649711608887
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.19793",
+    "title": "Time-dependent flux backgrounds in type IIB supergravity",
+    "authors": [
+      "Ahmed Rakin Kamal",
+      "Ratul Mahanta"
+    ],
+    "link": "https://arxiv.org/abs/2512.19793",
+    "score": 0.44461533427238464
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20331",
+    "title": "Supertranslation in the bulk for generic spacetime",
+    "authors": [
+      "Pujian Mao"
+    ],
+    "link": "https://arxiv.org/abs/2512.20331",
+    "score": 0.44338130950927734
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20521",
+    "title": "Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes",
+    "authors": [
+      "Amedeo M. Favitta"
+    ],
+    "link": "https://arxiv.org/abs/2512.20521",
+    "score": 0.4432913661003113
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20337",
+    "title": "Electromagnetic Sources Teleparallel Robertson--Walker $F(T)$-Gravity Solutions",
+    "authors": [
+      "Alexandre Landry"
+    ],
+    "link": "https://arxiv.org/abs/2512.20337",
+    "score": 0.4419945180416107
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.11966",
+    "title": "Random matrix product state models of gravitationally prepared states",
+    "authors": [
+      "Sunghoon Jung",
+      "Sungjung Kim",
+      "Jiwoo Park",
+      "Seokhyeon Song"
+    ],
+    "link": "https://arxiv.org/abs/2512.11966",
+    "score": 0.43862366676330566
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19876",
+    "title": "Double-hump spectrum, pulse profile dip, and pulsed fraction spectra from the low-accretion regime in the X-ray pulsar MAXI J0655-013",
+    "authors": [
+      "C. Malacaria",
+      "S. N. Pike",
+      "A. D'Aì",
+      "G. L. Israel",
+      "L. Ducci",
+      "R. E. Rothschild",
+      "L. Stella",
+      "R. Amato",
+      "E. Ambrosi",
+      "J. B. Coley",
+      "F. Fürst",
+      "M. Imbrogno",
+      "P. Kretschmar",
+      "D. K. Maniadakis",
+      "A. Papitto",
+      "P. Pradhan",
+      "A. Rouco Escorial",
+      "A. Simongini",
+      "J. Stierhof",
+      "B. F. West",
+      "N. Zalot"
+    ],
+    "link": "https://arxiv.org/abs/2512.19876",
+    "score": 0.43707412481307983
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20616",
+    "title": "Dynamical Dark Energy models in light of the latest observations",
+    "authors": [
+      "Javier de Cruz Pérez",
+      "Adrià Gómez-Valent",
+      "Joan Solà Peracaula"
+    ],
+    "link": "https://arxiv.org/abs/2512.20616",
+    "score": 0.4367764890193939
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.19923",
+    "title": "Synthesis of a high intensity, superthermal muonium beam for gravity and laser spectroscopy experiments",
+    "authors": [
+      "Jesse Zhang",
+      "Aldo Antognini",
+      "Marek Bartkowiak",
+      "Klaus Kirch",
+      "Andreas Knecht",
+      "Damian Goeldi",
+      "David Taqqu",
+      "Robert Waddy",
+      "Frederik Wauters",
+      "Paul Wegmann",
+      "Anna Soter"
+    ],
+    "link": "https://arxiv.org/abs/2512.19923",
+    "score": 0.43641898036003113
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19892",
+    "title": "Superluminal Wave Activation at Relativistic Magnetized Shocks",
+    "authors": [
+      "Jens F. Mahlmann",
+      "Logan Eskildsen",
+      "Arno Vanthieghem",
+      "Dawei Dai",
+      "Lorenzo Sironi"
+    ],
+    "link": "https://arxiv.org/abs/2512.19892",
+    "score": 0.4355163276195526
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19792",
+    "title": "A multiwavelength study of an early galaxy group merger in COSMOS revealed by two tailed radio galaxies at z = 0.35",
+    "authors": [
+      "Paula Vulić",
+      "Vernesa Smolčić",
+      "Ghassem Gozaliasl",
+      "Ivan Delvecchio",
+      "Alexis Finoguenov"
+    ],
+    "link": "https://arxiv.org/abs/2512.19792",
+    "score": 0.4351779818534851
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20193",
+    "title": "Decay of $f(R)$ quintessence into dark matter: mitigating the Hubble tension?",
+    "authors": [
+      "Giovanni Montani",
+      "Luis A. Escamilla",
+      "Nakia Carlevaro",
+      "Eleonora Di Valentino"
+    ],
+    "link": "https://arxiv.org/abs/2512.20193",
+    "score": 0.4351513683795929
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20474",
+    "title": "Cosmological consequences of spontaneous symmetry breaking",
+    "authors": [
+      "Giacomo Ferrante"
+    ],
+    "link": "https://arxiv.org/abs/2512.20474",
+    "score": 0.4307664632797241
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.19812",
+    "title": "Mass and entropy of asymptotically flat eternal quantum black holes in 2D",
+    "authors": [
+      "Jean Alexandre",
+      "Eleni-Alexandra Kontou",
+      "Diego Pardo Santos",
+      "Silvia Pla",
+      "Andrew Svesko"
+    ],
+    "link": "https://arxiv.org/abs/2512.19812",
+    "score": 0.4305543899536133
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20087",
+    "title": "Detection of dark companions via the combination of eclipse timing variation, Hipparcos and/or Gaia astrometry: the cases of V Puppis and CY Ari",
+    "authors": [
+      "Guang-Yao Xiao",
+      "Fabo Feng",
+      "Song Wang",
+      "Kai Li",
+      "Yicheng Rui",
+      "Xiao-Wei Duan"
+    ],
+    "link": "https://arxiv.org/abs/2512.20087",
+    "score": 0.42927971482276917
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19800",
+    "title": "New and updated timing models for seven young energetic X-ray pulsars, including the Big Glitcher PSR J0537-6910",
+    "authors": [
+      "Wynn C. G. Ho",
+      "Lucien Kuiper",
+      "Cristobal M. Espinoza",
+      "Timothy Leon",
+      "Bennett Waybright",
+      "Sebastien Guillot",
+      "Zaven Arzoumanian",
+      "Slavko Bogdanov",
+      "Alice K. Harding"
+    ],
+    "link": "https://arxiv.org/abs/2512.19800",
+    "score": 0.4286191761493683
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19783",
+    "title": "SN 2025ogs: A Spectroscopically-Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution",
+    "authors": [
+      "M. R. Siebert",
+      "J. D. R. Pierel",
+      "M. Engesser",
+      "D. A. Coulter",
+      "C. Decoursey",
+      "O. D. Fox",
+      "A. Rest",
+      "W. Chen",
+      "J. M. Derkacy",
+      "E. Egami",
+      "R. J. Foley",
+      "D. O. Jones",
+      "A. M. Koekemoer",
+      "C. Larison",
+      "D. C. Leonard",
+      "T. J. Moriya",
+      "R. M. Quimby",
+      "K. Shukawa",
+      "L. G. Strolger",
+      "Yossef Zenati"
+    ],
+    "link": "https://arxiv.org/abs/2512.19783",
+    "score": 0.42494794726371765
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20500",
+    "title": "Large D charged black hole as a Jackiw-Teitelboim gravity weakly coupled to the thermal graviton background",
+    "authors": [
+      "Oleg O. Novikov",
+      "Andrey A. Shavrin"
+    ],
+    "link": "https://arxiv.org/abs/2512.20500",
+    "score": 0.42462173104286194
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20594",
+    "title": "The Sensitivity of PUEO to Cosmogenic Neutrinos and Exotic Physics Scenarios",
+    "authors": [
+      "Angelina Sherman",
+      "Ke Fang",
+      "Dan Hooper"
+    ],
+    "link": "https://arxiv.org/abs/2512.20594",
+    "score": 0.4224364161491394
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20601",
+    "title": "Squeezed States in Gravity",
+    "authors": [
+      "Arunima Das",
+      "Maulik Parikh",
+      "Frank Wilczek",
+      "Raphaela Wutte"
+    ],
+    "link": "https://arxiv.org/abs/2512.20601",
+    "score": 0.42211320996284485
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.20555",
+    "title": "A Manifestly Causal Approach to Quantum Field Theory",
+    "authors": [
+      "Ross Jenkinson"
+    ],
+    "link": "https://arxiv.org/abs/2512.20555",
+    "score": 0.4200661778450012
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2512.20171",
+    "title": "Abundance of cosmic voids in EFT of dark energy",
+    "authors": [
+      "Toshiki Takadera",
+      "Shin'ichi Hirano",
+      "Tsutomu Kobayashi"
+    ],
+    "link": "https://arxiv.org/abs/2512.20171",
+    "score": 0.4166240394115448
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.19763",
+    "title": "Breakthrough Listen Observations of 3I/ATLAS with the Green Bank Telescope at 1-12 GHz",
+    "authors": [
+      "Ben Jacobson-Bell",
+      "Steve Croft",
+      "Ellie White",
+      "Andrew P. V. Siemion",
+      "Matthew Lebofsky",
+      "David H. E. MacMahon"
+    ],
+    "link": "https://arxiv.org/abs/2512.19763",
+    "score": 0.4143974483013153
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2512.20241",
+    "title": "How Mergers and Flybys Shape Azimuthal Age Patterns in Spiral Galaxies",
+    "authors": [
+      "Qian-Hui Chen",
+      "Alex M. Garcia",
+      "Zefeng Li",
+      "Kathryn Grasha",
+      "Emily Wisnioski",
+      "Paul Torrey",
+      "Rhea-Silvia Remus",
+      "Lucas C. Kimmig",
+      "Andrew J. Battisti",
+      "Sven Buder"
+    ],
+    "link": "https://arxiv.org/abs/2512.20241",
+    "score": 0.4119203984737396
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2512.19837",
+    "title": "A Closer Look at Natário's Zero-Expansion Warp Drive",
+    "authors": [
+      "José Rodal"
+    ],
+    "link": "https://arxiv.org/abs/2512.19837",
+    "score": 0.4086276590824127
+  }
+]
