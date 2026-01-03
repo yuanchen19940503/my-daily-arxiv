@@ -48,7 +48,7 @@
       "Jing Ren"
     ],
     "link": "https://arxiv.org/abs/2512.24730",
-    "score": 0.5537542104721069
+    "score": 0.5540211796760559
   },
   {
     "source": "gr-qc",
@@ -93,7 +93,7 @@
       "Hongguang Liu"
     ],
     "link": "https://arxiv.org/abs/2512.24960",
-    "score": 0.5054066181182861
+    "score": 0.5053934454917908
   },
   {
     "source": "astro-ph",
@@ -104,7 +104,7 @@
       "Shuailiang Ge"
     ],
     "link": "https://arxiv.org/abs/2512.24188",
-    "score": 0.5005233883857727
+    "score": 0.5004622340202332
   },
   {
     "source": "gr-qc",
@@ -138,7 +138,7 @@
       "István Csabai"
     ],
     "link": "https://arxiv.org/abs/2512.24369",
-    "score": 0.48913270235061646
+    "score": 0.4891325533390045
   },
   {
     "source": "astro-ph",
@@ -158,7 +158,7 @@
       "Anthony J. Brady"
     ],
     "link": "https://arxiv.org/abs/2512.24344",
-    "score": 0.48399150371551514
+    "score": 0.4839900732040405
   },
   {
     "source": "astro-ph",
@@ -170,7 +170,7 @@
       "Ritam Mallick"
     ],
     "link": "https://arxiv.org/abs/2512.24729",
-    "score": 0.4789758324623108
+    "score": 0.47873589396476746
   },
   {
     "source": "astro-ph",
@@ -185,7 +185,7 @@
       "Swayamtrupta Panda"
     ],
     "link": "https://arxiv.org/abs/2512.24187",
-    "score": 0.4769915044307709
+    "score": 0.47698935866355896
   },
   {
     "source": "astro-ph, gr-qc",
@@ -207,7 +207,7 @@
       "Vladimir Karas"
     ],
     "link": "https://arxiv.org/abs/2512.23826",
-    "score": 0.467669278383255
+    "score": 0.4675918221473694
   },
   {
     "source": "gr-qc",
@@ -241,7 +241,7 @@
       "Zhuang Li"
     ],
     "link": "https://arxiv.org/abs/2512.23783",
-    "score": 0.46258363127708435
+    "score": 0.4625886380672455
   },
   {
     "source": "astro-ph, gr-qc",
@@ -277,7 +277,7 @@
       "En-Wei Liang"
     ],
     "link": "https://arxiv.org/abs/2512.24563",
-    "score": 0.45688703656196594
+    "score": 0.4568513035774231
   },
   {
     "source": "gr-qc",
@@ -305,7 +305,7 @@
       "Xin Zhang"
     ],
     "link": "https://arxiv.org/abs/2512.24893",
-    "score": 0.4532575309276581
+    "score": 0.4532613754272461
   },
   {
     "source": "astro-ph",
@@ -318,7 +318,7 @@
       "Seong Chan Park"
     ],
     "link": "https://arxiv.org/abs/2512.24662",
-    "score": 0.4530350863933563
+    "score": 0.45307040214538574
   },
   {
     "source": "gr-qc",
@@ -329,7 +329,7 @@
       "Ali Seraj"
     ],
     "link": "https://arxiv.org/abs/2512.24429",
-    "score": 0.4508417546749115
+    "score": 0.450845330953598
   },
   {
     "source": "gr-qc",
@@ -345,7 +345,7 @@
       "Alexey Kavokin"
     ],
     "link": "https://arxiv.org/abs/2512.23744",
-    "score": 0.450631707906723
+    "score": 0.45067334175109863
   },
   {
     "source": "gr-qc",
@@ -356,7 +356,7 @@
       "Alvaro Torres-Caballeros"
     ],
     "link": "https://arxiv.org/abs/2512.24396",
-    "score": 0.4490963816642761
+    "score": 0.44904595613479614
   },
   {
     "source": "gr-qc",
@@ -388,7 +388,7 @@
       "Masami Ouchi"
     ],
     "link": "https://arxiv.org/abs/2512.24966",
-    "score": 0.44496777653694153
+    "score": 0.44496336579322815
   },
   {
     "source": "gr-qc",
@@ -438,6 +438,16 @@
   },
   {
     "source": "astro-ph",
+    "arxiv_id": "2512.25002",
+    "title": "Distributions of wide binary stars in theory and in Gaia data: III. Orbital momenta, masses, and manifestations of MOND",
+    "authors": [
+      "Valeri V. Makarov"
+    ],
+    "link": "https://arxiv.org/abs/2512.25002",
+    "score": 0.44081369042396545
+  },
+  {
+    "source": "astro-ph",
     "arxiv_id": "2512.23815",
     "title": "COBIPLANE: A Systematic Search for Compact Binary Millisecond Pulsars at Low Galactic Latitudes",
     "authors": [
@@ -449,16 +459,6 @@
     ],
     "link": "https://arxiv.org/abs/2512.23815",
     "score": 0.4405948221683502
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2512.25002",
-    "title": "Distributions of wide binary stars in theory and in Gaia data: III. Orbital momenta, masses, and manifestations of MOND",
-    "authors": [
-      "Valeri V. Makarov"
-    ],
-    "link": "https://arxiv.org/abs/2512.25002",
-    "score": 0.4405883550643921
   },
   {
     "source": "astro-ph",
@@ -492,6 +492,6 @@
       "Shoucheng Wang"
     ],
     "link": "https://arxiv.org/abs/2512.24213",
-    "score": 0.4341546297073364
+    "score": 0.43360090255737305
   }
 ]
