@@ -20,7 +20,7 @@
       "Atrideb Chatterjee"
     ],
     "link": "https://arxiv.org/abs/2601.10304",
-    "score": 0.5708801746368408
+    "score": 0.5708591341972351
   },
   {
     "source": "gr-qc",
@@ -41,7 +41,7 @@
       "José P. S. Lemos"
     ],
     "link": "https://arxiv.org/abs/2512.22679",
-    "score": 0.5388689041137695
+    "score": 0.5391194224357605
   },
   {
     "source": "astro-ph",
@@ -176,7 +176,7 @@
       "M. Junaid"
     ],
     "link": "https://arxiv.org/abs/2601.10145",
-    "score": 0.4627956748008728
+    "score": 0.46277397871017456
   },
   {
     "source": "gr-qc",
@@ -200,7 +200,7 @@
       "Chris Willott"
     ],
     "link": "https://arxiv.org/abs/2601.10573",
-    "score": 0.4565996527671814
+    "score": 0.4566629230976105
   },
   {
     "source": "gr-qc",
@@ -227,6 +227,18 @@
   },
   {
     "source": "astro-ph",
+    "arxiv_id": "2601.10393",
+    "title": "Long Period Transients (LPTs): a comprehensive review",
+    "authors": [
+      "Nanda Rea",
+      "Natasha Hurley-Walker",
+      "Manisha Caleb"
+    ],
+    "link": "https://arxiv.org/abs/2601.10393",
+    "score": 0.4443093240261078
+  },
+  {
+    "source": "astro-ph",
     "arxiv_id": "2601.09799",
     "title": "Stellar-wind Fueled Accretion onto Sagittarius A* in the Presence of a Nuclear Star Cluster",
     "authors": [
@@ -238,18 +250,6 @@
     ],
     "link": "https://arxiv.org/abs/2601.09799",
     "score": 0.44416698813438416
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2601.10393",
-    "title": "Long Period Transients (LPTs): a comprehensive review",
-    "authors": [
-      "Nanda Rea",
-      "Natasha Hurley-Walker",
-      "Manisha Caleb"
-    ],
-    "link": "https://arxiv.org/abs/2601.10393",
-    "score": 0.44415283203125
   },
   {
     "source": "astro-ph",
@@ -266,7 +266,7 @@
       "D. Bevacqua"
     ],
     "link": "https://arxiv.org/abs/2601.09789",
-    "score": 0.44267594814300537
+    "score": 0.44268953800201416
   },
   {
     "source": "astro-ph",
@@ -361,7 +361,19 @@
       "Yinuo Zhang"
     ],
     "link": "https://arxiv.org/abs/2601.10121",
-    "score": 0.43661513924598694
+    "score": 0.43652668595314026
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.09843",
+    "title": "The formation of periodic three-body orbits for Newtonian systems",
+    "authors": [
+      "Simon Portegies Zwart",
+      "Arjen Doelman",
+      "Jelmer Sein"
+    ],
+    "link": "https://arxiv.org/abs/2601.09843",
+    "score": 0.43540677428245544
   },
   {
     "source": "astro-ph",
@@ -386,19 +398,7 @@
       "L. Wang"
     ],
     "link": "https://arxiv.org/abs/2601.09810",
-    "score": 0.43545445799827576
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2601.09843",
-    "title": "The formation of periodic three-body orbits for Newtonian systems",
-    "authors": [
-      "Simon Portegies Zwart",
-      "Arjen Doelman",
-      "Jelmer Sein"
-    ],
-    "link": "https://arxiv.org/abs/2601.09843",
-    "score": 0.43540677428245544
+    "score": 0.43503615260124207
   },
   {
     "source": "gr-qc",
@@ -460,7 +460,7 @@
       "Gianfranco De Zotti"
     ],
     "link": "https://arxiv.org/abs/2601.09780",
-    "score": 0.426550954580307
+    "score": 0.42659568786621094
   },
   {
     "source": "astro-ph",
@@ -510,7 +510,7 @@
       "Fabrizio Vitali"
     ],
     "link": "https://arxiv.org/abs/2601.10404",
-    "score": 0.42284998297691345
+    "score": 0.42301076650619507
   },
   {
     "source": "astro-ph",
@@ -542,7 +542,7 @@
       "L. Zapelli"
     ],
     "link": "https://arxiv.org/abs/2601.10640",
-    "score": 0.4207055866718292
+    "score": 0.42076513171195984
   },
   {
     "source": "astro-ph",
@@ -604,6 +604,6 @@
       "Jonathan J. Heckman"
     ],
     "link": "https://arxiv.org/abs/2601.09781",
-    "score": 0.4170170724391937
+    "score": 0.4170391261577606
   }
 ]
