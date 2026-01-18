@@ -20,7 +20,7 @@
       "Atrideb Chatterjee"
     ],
     "link": "https://arxiv.org/abs/2601.10304",
-    "score": 0.5708591341972351
+    "score": 0.570951521396637
   },
   {
     "source": "gr-qc",
@@ -41,7 +41,7 @@
       "José P. S. Lemos"
     ],
     "link": "https://arxiv.org/abs/2512.22679",
-    "score": 0.5391194224357605
+    "score": 0.5391470789909363
   },
   {
     "source": "astro-ph",
@@ -98,7 +98,7 @@
       "George N. Wong"
     ],
     "link": "https://arxiv.org/abs/2601.10612",
-    "score": 0.4805724024772644
+    "score": 0.4805942475795746
   },
   {
     "source": "astro-ph",
@@ -227,18 +227,6 @@
   },
   {
     "source": "astro-ph",
-    "arxiv_id": "2601.10393",
-    "title": "Long Period Transients (LPTs): a comprehensive review",
-    "authors": [
-      "Nanda Rea",
-      "Natasha Hurley-Walker",
-      "Manisha Caleb"
-    ],
-    "link": "https://arxiv.org/abs/2601.10393",
-    "score": 0.4443093240261078
-  },
-  {
-    "source": "astro-ph",
     "arxiv_id": "2601.09799",
     "title": "Stellar-wind Fueled Accretion onto Sagittarius A* in the Presence of a Nuclear Star Cluster",
     "authors": [
@@ -250,6 +238,18 @@
     ],
     "link": "https://arxiv.org/abs/2601.09799",
     "score": 0.44416698813438416
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.10393",
+    "title": "Long Period Transients (LPTs): a comprehensive review",
+    "authors": [
+      "Nanda Rea",
+      "Natasha Hurley-Walker",
+      "Manisha Caleb"
+    ],
+    "link": "https://arxiv.org/abs/2601.10393",
+    "score": 0.44408586621284485
   },
   {
     "source": "astro-ph",
@@ -266,7 +266,7 @@
       "D. Bevacqua"
     ],
     "link": "https://arxiv.org/abs/2601.09789",
-    "score": 0.44268953800201416
+    "score": 0.44267594814300537
   },
   {
     "source": "astro-ph",
@@ -279,7 +279,7 @@
       "B. Theodore Zhang"
     ],
     "link": "https://arxiv.org/abs/2601.10317",
-    "score": 0.4421525299549103
+    "score": 0.44211283326148987
   },
   {
     "source": "astro-ph",
@@ -302,7 +302,7 @@
       "Edmar C. Gurjão"
     ],
     "link": "https://arxiv.org/abs/2601.10152",
-    "score": 0.4415835440158844
+    "score": 0.4415915608406067
   },
   {
     "source": "astro-ph, gr-qc",
@@ -361,19 +361,7 @@
       "Yinuo Zhang"
     ],
     "link": "https://arxiv.org/abs/2601.10121",
-    "score": 0.43652668595314026
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2601.09843",
-    "title": "The formation of periodic three-body orbits for Newtonian systems",
-    "authors": [
-      "Simon Portegies Zwart",
-      "Arjen Doelman",
-      "Jelmer Sein"
-    ],
-    "link": "https://arxiv.org/abs/2601.09843",
-    "score": 0.43540677428245544
+    "score": 0.43661513924598694
   },
   {
     "source": "astro-ph",
@@ -398,7 +386,19 @@
       "L. Wang"
     ],
     "link": "https://arxiv.org/abs/2601.09810",
-    "score": 0.43503615260124207
+    "score": 0.43545445799827576
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.09843",
+    "title": "The formation of periodic three-body orbits for Newtonian systems",
+    "authors": [
+      "Simon Portegies Zwart",
+      "Arjen Doelman",
+      "Jelmer Sein"
+    ],
+    "link": "https://arxiv.org/abs/2601.09843",
+    "score": 0.43540677428245544
   },
   {
     "source": "gr-qc",
@@ -410,7 +410,7 @@
       "Kalyan Bhuyan"
     ],
     "link": "https://arxiv.org/abs/2601.10627",
-    "score": 0.43134811520576477
+    "score": 0.4313914179801941
   },
   {
     "source": "astro-ph, gr-qc",
@@ -460,7 +460,7 @@
       "Gianfranco De Zotti"
     ],
     "link": "https://arxiv.org/abs/2601.09780",
-    "score": 0.42659568786621094
+    "score": 0.426550954580307
   },
   {
     "source": "astro-ph",
@@ -510,7 +510,7 @@
       "Fabrizio Vitali"
     ],
     "link": "https://arxiv.org/abs/2601.10404",
-    "score": 0.42301076650619507
+    "score": 0.4227893054485321
   },
   {
     "source": "astro-ph",
@@ -542,7 +542,7 @@
       "L. Zapelli"
     ],
     "link": "https://arxiv.org/abs/2601.10640",
-    "score": 0.42076513171195984
+    "score": 0.42075207829475403
   },
   {
     "source": "astro-ph",
@@ -604,6 +604,6 @@
       "Jonathan J. Heckman"
     ],
     "link": "https://arxiv.org/abs/2601.09781",
-    "score": 0.4170391261577606
+    "score": 0.4170170724391937
   }
 ]
