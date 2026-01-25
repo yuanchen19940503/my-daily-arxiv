@@ -84,7 +84,7 @@
       "Christina C. Williams"
     ],
     "link": "https://arxiv.org/abs/2601.15962",
-    "score": 0.4804956614971161
+    "score": 0.48052817583084106
   },
   {
     "source": "astro-ph",
@@ -215,7 +215,7 @@
       "Pratick Sarkar"
     ],
     "link": "https://arxiv.org/abs/2601.15985",
-    "score": 0.4540177285671234
+    "score": 0.45401301980018616
   },
   {
     "source": "gr-qc",
@@ -260,7 +260,7 @@
       "Yongda Zhu"
     ],
     "link": "https://arxiv.org/abs/2601.15961",
-    "score": 0.4496646225452423
+    "score": 0.4496861398220062
   },
   {
     "source": "astro-ph, gr-qc",
@@ -288,7 +288,7 @@
       "D. Williams-Baldwin"
     ],
     "link": "https://arxiv.org/abs/2601.15991",
-    "score": 0.4463444650173187
+    "score": 0.44632312655448914
   },
   {
     "source": "astro-ph",
@@ -311,7 +311,7 @@
       "David B. Sanders"
     ],
     "link": "https://arxiv.org/abs/2601.16057",
-    "score": 0.44587573409080505
+    "score": 0.4457612931728363
   },
   {
     "source": "astro-ph",
@@ -324,7 +324,7 @@
       "D. Mattolini"
     ],
     "link": "https://arxiv.org/abs/2601.16019",
-    "score": 0.4401910603046417
+    "score": 0.4401969313621521
   },
   {
     "source": "astro-ph",
@@ -339,7 +339,7 @@
       "Oliver H. E. Philcox"
     ],
     "link": "https://arxiv.org/abs/2601.16165",
-    "score": 0.4400041401386261
+    "score": 0.44008669257164
   },
   {
     "source": "gr-qc",
@@ -402,7 +402,7 @@
       "Rolf Kuiper"
     ],
     "link": "https://arxiv.org/abs/2601.16100",
-    "score": 0.4343729019165039
+    "score": 0.4344530701637268
   },
   {
     "source": "astro-ph",
@@ -455,7 +455,7 @@
       "Vanessa Graber"
     ],
     "link": "https://arxiv.org/abs/2601.16159",
-    "score": 0.4275951087474823
+    "score": 0.42752423882484436
   },
   {
     "source": "astro-ph",
@@ -487,7 +487,7 @@
       "Joris Witstok"
     ],
     "link": "https://arxiv.org/abs/2601.15960",
-    "score": 0.42453864216804504
+    "score": 0.4245445430278778
   },
   {
     "source": "gr-qc",
@@ -509,7 +509,7 @@
       "A. Tursunov"
     ],
     "link": "https://arxiv.org/abs/2601.15910",
-    "score": 0.41953718662261963
+    "score": 0.41989439725875854
   },
   {
     "source": "gr-qc",
@@ -546,7 +546,7 @@
       "Michele Cappellari"
     ],
     "link": "https://arxiv.org/abs/2601.16179",
-    "score": 0.4138517677783966
+    "score": 0.41378432512283325
   },
   {
     "source": "astro-ph",
@@ -592,7 +592,7 @@
       "Joris Witstok"
     ],
     "link": "https://arxiv.org/abs/2601.15959",
-    "score": 0.4126937687397003
+    "score": 0.41266438364982605
   },
   {
     "source": "astro-ph",
@@ -604,25 +604,6 @@
     ],
     "link": "https://arxiv.org/abs/2601.15425",
     "score": 0.4126112163066864
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2601.15979",
-    "title": "Extreme line profile variations in the repeating changing-look active galactic nucleus IRAS23226-3843",
-    "authors": [
-      "Wolfram Kollatschny",
-      "Dirk Grupe",
-      "Hartmut Winkler",
-      "Malte A. Probst",
-      "Martin W. Ochmann",
-      "Amon Poenitzsch",
-      "Norbert Schartel",
-      "Salem Wolsing",
-      "Stefanie Komossa",
-      "Stephen B. Potter"
-    ],
-    "link": "https://arxiv.org/abs/2601.15979",
-    "score": 0.4114099442958832
   },
   {
     "source": "astro-ph, gr-qc",
@@ -642,6 +623,25 @@
     ],
     "link": "https://arxiv.org/abs/2601.16048",
     "score": 0.4113948941230774
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2601.15979",
+    "title": "Extreme line profile variations in the repeating changing-look active galactic nucleus IRAS23226-3843",
+    "authors": [
+      "Wolfram Kollatschny",
+      "Dirk Grupe",
+      "Hartmut Winkler",
+      "Malte A. Probst",
+      "Martin W. Ochmann",
+      "Amon Poenitzsch",
+      "Norbert Schartel",
+      "Salem Wolsing",
+      "Stefanie Komossa",
+      "Stephen B. Potter"
+    ],
+    "link": "https://arxiv.org/abs/2601.15979",
+    "score": 0.4113864600658417
   },
   {
     "source": "astro-ph",
