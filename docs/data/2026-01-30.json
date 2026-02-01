@@ -32,7 +32,7 @@
       "Jun Zhang"
     ],
     "link": "https://arxiv.org/abs/2601.21820",
-    "score": 0.5536492466926575
+    "score": 0.5536304116249084
   },
   {
     "source": "astro-ph, gr-qc",
@@ -98,7 +98,7 @@
       "Anupreeta More"
     ],
     "link": "https://arxiv.org/abs/2601.22138",
-    "score": 0.5251976251602173
+    "score": 0.5251885652542114
   },
   {
     "source": "astro-ph",
@@ -125,7 +125,7 @@
       "Jae-Weon Lee"
     ],
     "link": "https://arxiv.org/abs/2601.21676",
-    "score": 0.5073623061180115
+    "score": 0.5073074698448181
   },
   {
     "source": "astro-ph",
@@ -135,7 +135,7 @@
       "Agnibha De Sarkar"
     ],
     "link": "https://arxiv.org/abs/2601.21689",
-    "score": 0.5037473440170288
+    "score": 0.5037385821342468
   },
   {
     "source": "astro-ph, gr-qc",
@@ -227,7 +227,7 @@
       "Rong-Gen Cai"
     ],
     "link": "https://arxiv.org/abs/2601.21693",
-    "score": 0.4784431755542755
+    "score": 0.47848737239837646
   },
   {
     "source": "astro-ph",
@@ -336,7 +336,7 @@
       "K. Pedersen"
     ],
     "link": "https://arxiv.org/abs/2601.21111",
-    "score": 0.47816598415374756
+    "score": 0.47818151116371155
   },
   {
     "source": "astro-ph, gr-qc",
@@ -349,7 +349,7 @@
       "Yuhsin Tsai"
     ],
     "link": "https://arxiv.org/abs/2601.20967",
-    "score": 0.46831896901130676
+    "score": 0.46829360723495483
   },
   {
     "source": "astro-ph",
@@ -371,7 +371,7 @@
       "Ruo-Yu Liu"
     ],
     "link": "https://arxiv.org/abs/2601.21411",
-    "score": 0.46728959679603577
+    "score": 0.46730563044548035
   },
   {
     "source": "gr-qc",
@@ -394,7 +394,7 @@
       "Shane W. Davis"
     ],
     "link": "https://arxiv.org/abs/2601.21995",
-    "score": 0.4646752178668976
+    "score": 0.4646207392215729
   },
   {
     "source": "astro-ph",
@@ -409,7 +409,7 @@
       "Johanna Müller-Horn"
     ],
     "link": "https://arxiv.org/abs/2601.22071",
-    "score": 0.46315473318099976
+    "score": 0.46309977769851685
   },
   {
     "source": "gr-qc",
@@ -446,7 +446,7 @@
       "Giancarlo Ghirlanda"
     ],
     "link": "https://arxiv.org/abs/2601.21827",
-    "score": 0.4540019929409027
+    "score": 0.45394089818000793
   },
   {
     "source": "astro-ph",
@@ -491,6 +491,18 @@
     "score": 0.4525873363018036
   },
   {
+    "source": "gr-qc",
+    "arxiv_id": "2601.21075",
+    "title": "Dynamical Casimir effect under the action of gravitational waves",
+    "authors": [
+      "Gustavo de Oliveira",
+      "Thiago Henrique Moreira",
+      "Lucas Chibebe Céleri"
+    ],
+    "link": "https://arxiv.org/abs/2601.21075",
+    "score": 0.45135337114334106
+  },
+  {
     "source": "astro-ph",
     "arxiv_id": "2601.21727",
     "title": "Detection of hot subdwarf binaries and sdB stars using machine learning methods and a large sample of Gaia XP spectra",
@@ -510,19 +522,7 @@
       "V. Šatas"
     ],
     "link": "https://arxiv.org/abs/2601.21727",
-    "score": 0.4515949785709381
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2601.21075",
-    "title": "Dynamical Casimir effect under the action of gravitational waves",
-    "authors": [
-      "Gustavo de Oliveira",
-      "Thiago Henrique Moreira",
-      "Lucas Chibebe Céleri"
-    ],
-    "link": "https://arxiv.org/abs/2601.21075",
-    "score": 0.4513774812221527
+    "score": 0.45129886269569397
   },
   {
     "source": "astro-ph",
@@ -714,6 +714,6 @@
       "H. Zou"
     ],
     "link": "https://arxiv.org/abs/2601.21432",
-    "score": 0.43474411964416504
+    "score": 0.4347618520259857
   }
 ]
