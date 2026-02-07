@@ -26,7 +26,7 @@
       "Nozomu Tominaga"
     ],
     "link": "https://arxiv.org/abs/2602.05840",
-    "score": 0.5275388956069946
+    "score": 0.5274866223335266
   },
   {
     "source": "gr-qc",
@@ -74,7 +74,7 @@
       "Remo Ruffini"
     ],
     "link": "https://arxiv.org/abs/2602.05135",
-    "score": 0.5169922709465027
+    "score": 0.5169526934623718
   },
   {
     "source": "astro-ph",
@@ -183,7 +183,7 @@
       "X. Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05955",
-    "score": 0.5154795050621033
+    "score": 0.5154915452003479
   },
   {
     "source": "astro-ph, gr-qc",
@@ -295,7 +295,7 @@
       "Fa-Yin Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05587",
-    "score": 0.48977339267730713
+    "score": 0.48973608016967773
   },
   {
     "source": "astro-ph",
@@ -308,7 +308,7 @@
       "Rachel S. Somerville"
     ],
     "link": "https://arxiv.org/abs/2602.04987",
-    "score": 0.4859983026981354
+    "score": 0.4860025644302368
   },
   {
     "source": "astro-ph",
@@ -320,7 +320,7 @@
       "Thor Tepper-Garcia"
     ],
     "link": "https://arxiv.org/abs/2602.05296",
-    "score": 0.4764001667499542
+    "score": 0.4764116704463959
   },
   {
     "source": "astro-ph",
@@ -413,7 +413,7 @@
       "Siwei Zou"
     ],
     "link": "https://arxiv.org/abs/2602.04979",
-    "score": 0.4729137420654297
+    "score": 0.4729366600513458
   },
   {
     "source": "astro-ph",
@@ -521,7 +521,7 @@
       "Wei-Min Gu"
     ],
     "link": "https://arxiv.org/abs/2602.05421",
-    "score": 0.4549295902252197
+    "score": 0.4552275240421295
   },
   {
     "source": "astro-ph, gr-qc",
@@ -582,7 +582,7 @@
       "Ting-Gui Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05222",
-    "score": 0.45171645283699036
+    "score": 0.4517032504081726
   },
   {
     "source": "astro-ph",
@@ -610,7 +610,7 @@
       "Samuel R. Ward"
     ],
     "link": "https://arxiv.org/abs/2602.05954",
-    "score": 0.4474012851715088
+    "score": 0.44694024324417114
   },
   {
     "source": "astro-ph, gr-qc",
@@ -636,7 +636,20 @@
       "Farkhodjon Khamrakulov"
     ],
     "link": "https://arxiv.org/abs/2602.05260",
-    "score": 0.44622698426246643
+    "score": 0.44623881578445435
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.05278",
+    "title": "An Accretion-Modulated Internal Shock Model for Long GRBs",
+    "authors": [
+      "R. Moradi",
+      "C. W. Wang",
+      "E. S. Yorgancioglu",
+      "S. N. Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2602.05278",
+    "score": 0.4452504813671112
   },
   {
     "source": "gr-qc",
@@ -666,7 +679,7 @@
       "M. Celeste Artale"
     ],
     "link": "https://arxiv.org/abs/2602.05881",
-    "score": 0.4434378147125244
+    "score": 0.4434221684932709
   },
   {
     "source": "astro-ph",
@@ -680,7 +693,7 @@
       "J. S. Alcaniz"
     ],
     "link": "https://arxiv.org/abs/2602.06027",
-    "score": 0.4430547058582306
+    "score": 0.44314053654670715
   },
   {
     "source": "gr-qc",
@@ -693,18 +706,6 @@
     ],
     "link": "https://arxiv.org/abs/2602.04956",
     "score": 0.4420197606086731
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2602.05278",
-    "title": "An Accretion-Modulated Internal Shock Model for Long GRBs",
-    "authors": [
-      "R. Moradi",
-      "C.W. Wang",
-      "E.S. Yorgancioglu"
-    ],
-    "link": "https://arxiv.org/abs/2602.05278",
-    "score": 0.4419328272342682
   },
   {
     "source": "astro-ph",
@@ -725,6 +726,6 @@
       "Y. Y. Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05947",
-    "score": 0.4418843388557434
+    "score": 0.44186440110206604
   }
 ]
