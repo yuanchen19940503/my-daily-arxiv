@@ -26,7 +26,7 @@
       "Nozomu Tominaga"
     ],
     "link": "https://arxiv.org/abs/2602.05840",
-    "score": 0.5274866223335266
+    "score": 0.5274948477745056
   },
   {
     "source": "gr-qc",
@@ -183,7 +183,7 @@
       "X. Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05955",
-    "score": 0.5154915452003479
+    "score": 0.5155260562896729
   },
   {
     "source": "astro-ph, gr-qc",
@@ -295,7 +295,7 @@
       "Fa-Yin Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05587",
-    "score": 0.48973608016967773
+    "score": 0.4897400736808777
   },
   {
     "source": "astro-ph",
@@ -308,7 +308,7 @@
       "Rachel S. Somerville"
     ],
     "link": "https://arxiv.org/abs/2602.04987",
-    "score": 0.4860025644302368
+    "score": 0.4859983026981354
   },
   {
     "source": "astro-ph",
@@ -320,7 +320,7 @@
       "Thor Tepper-Garcia"
     ],
     "link": "https://arxiv.org/abs/2602.05296",
-    "score": 0.4764116704463959
+    "score": 0.4764001667499542
   },
   {
     "source": "astro-ph",
@@ -342,7 +342,7 @@
       "M. Bourne"
     ],
     "link": "https://arxiv.org/abs/2602.05609",
-    "score": 0.47530677914619446
+    "score": 0.4751577377319336
   },
   {
     "source": "astro-ph",
@@ -413,7 +413,7 @@
       "Siwei Zou"
     ],
     "link": "https://arxiv.org/abs/2602.04979",
-    "score": 0.4729366600513458
+    "score": 0.4729137420654297
   },
   {
     "source": "astro-ph",
@@ -521,7 +521,7 @@
       "Wei-Min Gu"
     ],
     "link": "https://arxiv.org/abs/2602.05421",
-    "score": 0.4552275240421295
+    "score": 0.4552147090435028
   },
   {
     "source": "astro-ph, gr-qc",
@@ -610,7 +610,7 @@
       "Samuel R. Ward"
     ],
     "link": "https://arxiv.org/abs/2602.05954",
-    "score": 0.44694024324417114
+    "score": 0.4469573497772217
   },
   {
     "source": "astro-ph, gr-qc",
@@ -636,7 +636,7 @@
       "Farkhodjon Khamrakulov"
     ],
     "link": "https://arxiv.org/abs/2602.05260",
-    "score": 0.44623881578445435
+    "score": 0.44622698426246643
   },
   {
     "source": "astro-ph",
@@ -649,7 +649,7 @@
       "S. N. Zhang"
     ],
     "link": "https://arxiv.org/abs/2602.05278",
-    "score": 0.4452504813671112
+    "score": 0.44542965292930603
   },
   {
     "source": "gr-qc",
@@ -679,7 +679,7 @@
       "M. Celeste Artale"
     ],
     "link": "https://arxiv.org/abs/2602.05881",
-    "score": 0.4434221684932709
+    "score": 0.4434378147125244
   },
   {
     "source": "astro-ph",
@@ -693,7 +693,7 @@
       "J. S. Alcaniz"
     ],
     "link": "https://arxiv.org/abs/2602.06027",
-    "score": 0.44314053654670715
+    "score": 0.44305095076560974
   },
   {
     "source": "gr-qc",
@@ -726,6 +726,6 @@
       "Y. Y. Wang"
     ],
     "link": "https://arxiv.org/abs/2602.05947",
-    "score": 0.44186440110206604
+    "score": 0.4419712722301483
   }
 ]
