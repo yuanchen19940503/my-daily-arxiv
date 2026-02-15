@@ -185,7 +185,7 @@
       "Robert Reischke"
     ],
     "link": "https://arxiv.org/abs/2602.12174",
-    "score": 0.5040276646614075
+    "score": 0.5040344595909119
   },
   {
     "source": "astro-ph",
@@ -196,7 +196,7 @@
       "Daniel E. Holz"
     ],
     "link": "https://arxiv.org/abs/2602.12195",
-    "score": 0.499871164560318
+    "score": 0.4998945891857147
   },
   {
     "source": "astro-ph",
@@ -210,7 +210,7 @@
       "M. Armas Padilla"
     ],
     "link": "https://arxiv.org/abs/2602.12282",
-    "score": 0.4823073446750641
+    "score": 0.48163652420043945
   },
   {
     "source": "astro-ph",
@@ -248,7 +248,7 @@
       "Mahboobe Moeen Moghaddas"
     ],
     "link": "https://arxiv.org/abs/2602.12165",
-    "score": 0.4811764657497406
+    "score": 0.48113009333610535
   },
   {
     "source": "astro-ph",
@@ -271,7 +271,7 @@
       "R. Wainscoat"
     ],
     "link": "https://arxiv.org/abs/2602.12272",
-    "score": 0.4794263243675232
+    "score": 0.4793180227279663
   },
   {
     "source": "astro-ph",
@@ -337,7 +337,7 @@
       "Özgür Akarsu"
     ],
     "link": "https://arxiv.org/abs/2602.11936",
-    "score": 0.47194796800613403
+    "score": 0.47201505303382874
   },
   {
     "source": "astro-ph",
@@ -427,7 +427,7 @@
       "Takehiro Yoshioka"
     ],
     "link": "https://arxiv.org/abs/2602.11736",
-    "score": 0.45934098958969116
+    "score": 0.4600012004375458
   },
   {
     "source": "gr-qc",
@@ -533,7 +533,7 @@
       "Carlo Baccigalupi"
     ],
     "link": "https://arxiv.org/abs/2602.12019",
-    "score": 0.44489535689353943
+    "score": 0.44501426815986633
   },
   {
     "source": "astro-ph",
@@ -571,7 +571,7 @@
       "Vlatko Vedral"
     ],
     "link": "https://arxiv.org/abs/2602.12266",
-    "score": 0.43844008445739746
+    "score": 0.4384966790676117
   },
   {
     "source": "astro-ph",
@@ -641,111 +641,14 @@
   },
   {
     "source": "astro-ph",
-    "arxiv_id": "2602.11279",
-    "title": "SPT-3G D1: Compton-$y$ maps using data from the SPT-3G and Planck surveys",
+    "arxiv_id": "2602.11884",
+    "title": "Signatures of Damping Nonlinear Oscillations by KHI-induced Turbulence in Synthetic Observations",
     "authors": [
-      "A. S. Maniyar",
-      "F. Bianchini",
-      "W. L. K. Wu",
-      "S. Raghunathan",
-      "A. J. Anderson",
-      "B. Ansarinejad",
-      "M. Archipley",
-      "L. Balkenhol",
-      "D. R. Barron",
-      "P. S. Barry",
-      "K. Benabed",
-      "A. N. Bender",
-      "B. A. Benson",
-      "L. E. Bleem",
-      "S. Bocquet",
-      "F. R. Bouchet",
-      "L. Bryant",
-      "E. Camphuis",
-      "M. G. Campitiello",
-      "J. E. Carlstrom",
-      "J. Carron",
-      "C. L. Chang",
-      "P. Chaubal",
-      "P. M. Chichura",
-      "A. Chokshi",
-      "T.-L. Chou",
-      "A. Coerver",
-      "T. M. Crawford",
-      "C. Daley",
-      "T. de Haan",
-      "K. R. Dibert",
-      "M. A. Dobbs",
-      "M. Doohan",
-      "A. Doussot",
-      "D. Dutcher",
-      "W. Everett",
-      "C. Feng",
-      "K. R. Ferguson",
-      "N. C. Ferree",
-      "K. Fichman",
-      "A. Foster",
-      "S. Galli",
-      "A. E. Gambrel",
-      "A. K. Gao",
-      "R. W. Gardner",
-      "F. Ge",
-      "N. Goeckner-Wald",
-      "R. Gualtieri",
-      "F. Guidi",
-      "S. Guns",
-      "N. W. Halverson",
-      "E. Hivon",
-      "A. Y. Q. Ho",
-      "G. P. Holder",
-      "W. L. Holzapfel",
-      "J. C. Hood",
-      "A. Hryciuk",
-      "N. Huang",
-      "T. Jhaveri",
-      "F. Kéruzoré",
-      "A. R. Khalife",
-      "L. Knox",
-      "M. Korman",
-      "K. Kornoelje",
-      "C.-L. Kuo",
-      "K. Levy",
-      "Y. Li",
-      "A. E. Lowitz",
-      "C. Lu",
-      "G. P. Lynch",
-      "T. J. Maccarone",
-      "E. S. Martsen",
-      "F. Menanteau",
-      "M. Millea",
-      "J. Montgomery",
-      "Y. Nakato",
-      "T. Natoli",
-      "G. I. Noble",
-      "Y. Omori",
-      "A. Ouellette",
-      "Z. Pan",
-      "P. Paschos",
-      "K. A. Phadke",
-      "A. W. Pollak",
-      "K. Prabhu",
-      "W. Quan",
-      "M. Rahimi",
-      "A. Rahlin",
-      "C. L. Reichardt",
-      "M. Rouble",
-      "J. E. Ruhl",
-      "E. Schiappucci",
-      "A. C. Silva Oliveira",
-      "A. Simpson",
-      "J. A. Sobrin",
-      "A. A. Stark",
-      "J. Stephen",
-      "C. Tandoi",
-      "B. Thorne",
-      "C. Trendafilova"
+      "Sihui Zhong",
+      "Andrew Hillier",
+      "Iñigo Arregui"
     ],
-    "link": "https://arxiv.org/abs/2602.11279",
-    "score": 0.42340922355651855
+    "link": "https://arxiv.org/abs/2602.11884",
+    "score": 0.4233095645904541
   }
 ]
