@@ -141,7 +141,7 @@
       "Ralf M. Konietzka"
     ],
     "link": "https://arxiv.org/abs/2602.16781",
-    "score": 0.48550713062286377
+    "score": 0.4859929084777832
   },
   {
     "source": "astro-ph",
@@ -162,7 +162,7 @@
       "Philippe Yao"
     ],
     "link": "https://arxiv.org/abs/2602.16776",
-    "score": 0.4837504029273987
+    "score": 0.4838104546070099
   },
   {
     "source": "astro-ph, gr-qc",
@@ -173,7 +173,7 @@
       "Ian Vega"
     ],
     "link": "https://arxiv.org/abs/2602.17154",
-    "score": 0.48371970653533936
+    "score": 0.4837338924407959
   },
   {
     "source": "astro-ph, gr-qc",
@@ -199,7 +199,7 @@
       "Andres D. Perez"
     ],
     "link": "https://arxiv.org/abs/2602.17597",
-    "score": 0.47875842452049255
+    "score": 0.4789179861545563
   },
   {
     "source": "astro-ph, gr-qc",
@@ -236,7 +236,7 @@
       "Raúl Carballo-Rubio"
     ],
     "link": "https://arxiv.org/abs/2602.16773",
-    "score": 0.46211835741996765
+    "score": 0.4621330797672272
   },
   {
     "source": "astro-ph",
@@ -264,7 +264,7 @@
       "Nadia L. Zakamska"
     ],
     "link": "https://arxiv.org/abs/2602.17039",
-    "score": 0.46122440695762634
+    "score": 0.46121835708618164
   },
   {
     "source": "gr-qc",
@@ -343,7 +343,7 @@
       "Evan N. Kirby"
     ],
     "link": "https://arxiv.org/abs/2602.17652",
-    "score": 0.44506168365478516
+    "score": 0.444978266954422
   },
   {
     "source": "astro-ph",
@@ -353,7 +353,7 @@
       "Marco Graziani"
     ],
     "link": "https://arxiv.org/abs/2602.17620",
-    "score": 0.44439634680747986
+    "score": 0.44438445568084717
   },
   {
     "source": "gr-qc",
@@ -364,7 +364,7 @@
       "Giuseppe Meluccio"
     ],
     "link": "https://arxiv.org/abs/2602.16840",
-    "score": 0.4430166780948639
+    "score": 0.44311022758483887
   },
   {
     "source": "astro-ph, gr-qc",
@@ -422,7 +422,7 @@
       "P. K. Sahoo"
     ],
     "link": "https://arxiv.org/abs/2602.16757",
-    "score": 0.4381970465183258
+    "score": 0.43819084763526917
   },
   {
     "source": "gr-qc",
@@ -528,7 +528,7 @@
       "Akash Kumar Patwa"
     ],
     "link": "https://arxiv.org/abs/2602.17304",
-    "score": 0.42347416281700134
+    "score": 0.4234852194786072
   },
   {
     "source": "astro-ph",
@@ -553,7 +553,7 @@
       "Beñat Ibarra-Uriondo"
     ],
     "link": "https://arxiv.org/abs/2602.16795",
-    "score": 0.41491028666496277
+    "score": 0.414877325296402
   },
   {
     "source": "astro-ph",
@@ -624,7 +624,7 @@
       "Roberta Tripodi"
     ],
     "link": "https://arxiv.org/abs/2602.17499",
-    "score": 0.4083133041858673
+    "score": 0.4082931876182556
   },
   {
     "source": "astro-ph",
@@ -742,6 +742,6 @@
       "James E. Owen"
     ],
     "link": "https://arxiv.org/abs/2602.16801",
-    "score": 0.40564560890197754
+    "score": 0.4056207239627838
   }
 ]
