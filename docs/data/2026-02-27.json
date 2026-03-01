@@ -62,7 +62,7 @@
       "Sandeep Kumar Kataria"
     ],
     "link": "https://arxiv.org/abs/2602.22875",
-    "score": 0.504395604133606
+    "score": 0.5043854713439941
   },
   {
     "source": "gr-qc",
@@ -89,7 +89,7 @@
       "N. Sahakyan"
     ],
     "link": "https://arxiv.org/abs/2602.23309",
-    "score": 0.49924206733703613
+    "score": 0.49931466579437256
   },
   {
     "source": "astro-ph",
@@ -116,7 +116,7 @@
       "Siba Prasad Das"
     ],
     "link": "https://arxiv.org/abs/2602.21296",
-    "score": 0.48242393136024475
+    "score": 0.4824114441871643
   },
   {
     "source": "gr-qc",
@@ -153,7 +153,7 @@
       "Yago Porto"
     ],
     "link": "https://arxiv.org/abs/2602.23348",
-    "score": 0.4789341986179352
+    "score": 0.4789104759693146
   },
   {
     "source": "astro-ph, gr-qc",
@@ -203,7 +203,7 @@
       "Zi-Gao Dai"
     ],
     "link": "https://arxiv.org/abs/2602.23299",
-    "score": 0.4713433086872101
+    "score": 0.4713434875011444
   },
   {
     "source": "astro-ph",
@@ -216,7 +216,7 @@
       "Milva G. Orsaria"
     ],
     "link": "https://arxiv.org/abs/2602.22969",
-    "score": 0.46986404061317444
+    "score": 0.4698077142238617
   },
   {
     "source": "astro-ph",
@@ -230,7 +230,7 @@
       "Zara Zaman"
     ],
     "link": "https://arxiv.org/abs/2602.22990",
-    "score": 0.46887239813804626
+    "score": 0.46887847781181335
   },
   {
     "source": "astro-ph",
@@ -290,7 +290,7 @@
       "O. Witzel"
     ],
     "link": "https://arxiv.org/abs/2602.23002",
-    "score": 0.46640118956565857
+    "score": 0.4663272500038147
   },
   {
     "source": "astro-ph",
@@ -307,7 +307,7 @@
       "Rong-Gen Cai"
     ],
     "link": "https://arxiv.org/abs/2602.22926",
-    "score": 0.465104341506958
+    "score": 0.4649546444416046
   },
   {
     "source": "astro-ph",
@@ -428,7 +428,7 @@
       "József Vinkó"
     ],
     "link": "https://arxiv.org/abs/2602.23175",
-    "score": 0.44426846504211426
+    "score": 0.4443179965019226
   },
   {
     "source": "astro-ph",
@@ -446,18 +446,6 @@
     "score": 0.4433712661266327
   },
   {
-    "source": "astro-ph",
-    "arxiv_id": "2602.23077",
-    "title": "Stochastic Evolution of Galactic Star Formation with Halo Coupling, AGN Quenching and Hopf Bifurcation Dynamics",
-    "authors": [
-      "Sanjeev Kumar",
-      "A.K. Awasthi",
-      "Mahesh Kumar"
-    ],
-    "link": "https://arxiv.org/abs/2602.23077",
-    "score": 0.4428704082965851
-  },
-  {
     "source": "gr-qc",
     "arxiv_id": "2602.22517",
     "title": "Gravitational decoherence and recoherence of a composite particle: the interplay between gravitons and a classical Newtonian potential",
@@ -467,6 +455,18 @@
     ],
     "link": "https://arxiv.org/abs/2602.22517",
     "score": 0.4425235688686371
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23077",
+    "title": "Stochastic Evolution of Galactic Star Formation with Halo Coupling, AGN Quenching and Hopf Bifurcation Dynamics",
+    "authors": [
+      "Sanjeev Kumar",
+      "A.K. Awasthi",
+      "Mahesh Kumar"
+    ],
+    "link": "https://arxiv.org/abs/2602.23077",
+    "score": 0.44210395216941833
   },
   {
     "source": "astro-ph",
@@ -500,7 +500,7 @@
       "Manoel M. Ferreira Jr"
     ],
     "link": "https://arxiv.org/abs/2602.22996",
-    "score": 0.43692532181739807
+    "score": 0.43692758679389954
   },
   {
     "source": "gr-qc",
