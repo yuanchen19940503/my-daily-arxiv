@@ -1,0 +1,598 @@
+[
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.24061",
+    "title": "A Unified Origin of Primordial Black Hole Dark Matter and Nanohertz Gravitational Waves",
+    "authors": [
+      "Guillem Domènech",
+      "Shi Pi",
+      "Ao Wang"
+    ],
+    "link": "https://arxiv.org/abs/2602.24061",
+    "score": 0.6397726535797119
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23429",
+    "title": "Gravitational waves from primordial black holes passing by neutron stars: observational prospects for the Galactic center",
+    "authors": [
+      "Nicolas Esser",
+      "Juan García-Bellido",
+      "Peter Tinyakov"
+    ],
+    "link": "https://arxiv.org/abs/2602.23429",
+    "score": 0.6250761151313782
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23415",
+    "title": "Black hole scalar sirens in the Milky Way",
+    "authors": [
+      "Daniel Gavilan-Martin",
+      "Olivier Simon",
+      "Dhashin Krishna",
+      "Derek F. Jackson Kimball",
+      "Dmitry Budker",
+      "Arne Wickenbrock"
+    ],
+    "link": "https://arxiv.org/abs/2602.23415",
+    "score": 0.5574029088020325
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.22688",
+    "title": "Relativistic Tidal Dissipation and the Gravitational-wave Signal of a White Dwarf Orbiting an Intermediate-Mass Black Hole",
+    "authors": [
+      "Yang Yang",
+      "Leif Lui",
+      "Alejandro Torres-Orjuela",
+      "Xian Chen"
+    ],
+    "link": "https://arxiv.org/abs/2602.22688",
+    "score": 0.5519614815711975
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23431",
+    "title": "Survival Analysis of Intermediate-Mass Black Holes in Dense Star Clusters",
+    "authors": [
+      "Miguel A.S. Martinez",
+      "Elena González Prieto",
+      "Frederic A. Rasio"
+    ],
+    "link": "https://arxiv.org/abs/2602.23431",
+    "score": 0.5284104943275452
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.23646",
+    "title": "Realistic Equations of State Informing Neutron Star Post-Merger Gravitational-Wave Frequencies",
+    "authors": [
+      "Spencer J. Magnall",
+      "Nilaksha Barman",
+      "Debarati Chatterjee",
+      "Paul D. Lasky",
+      "Simon Goode"
+    ],
+    "link": "https://arxiv.org/abs/2602.23646",
+    "score": 0.5151346325874329
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.23425",
+    "title": "Polarisation Singularities of Gravitational Waves",
+    "authors": [
+      "Claire Rigouzzo",
+      "Sebastian Golat",
+      "Alex J. Vernon",
+      "Kyan Louisia",
+      "Eugene Lim",
+      "Francisco J. Rodriguez-Fortuno"
+    ],
+    "link": "https://arxiv.org/abs/2602.23425",
+    "score": 0.5131257176399231
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24035",
+    "title": "A Quality Framework for Testing Gravity with Wide Binaries: No Evidence for MOND",
+    "authors": [
+      "Stephen A. Cookson",
+      "Indranil Banik",
+      "Kareem El-Badry",
+      "Will Sutherland",
+      "Zephyr Penoyre",
+      "Charalambos Pittordis",
+      "Cathie J. Clarke"
+    ],
+    "link": "https://arxiv.org/abs/2602.24035",
+    "score": 0.5066091418266296
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23531",
+    "title": "Extending Ground-Based Gravitational-Wave Sensitivity to 5 Hz",
+    "authors": [
+      "Amit Singh Ubhi",
+      "Lari Koponen",
+      "Jiri Smetana",
+      "Yulin Xia",
+      "Haixing Miao",
+      "Emilia Chick",
+      "John Bryant",
+      "Geraint Pratten",
+      "Teng Zhang",
+      "Richard Mittleman",
+      "Peter Fritschel",
+      "Alan V. Cumming",
+      "Giles Hammond",
+      "Denis Marynov"
+    ],
+    "link": "https://arxiv.org/abs/2602.23531",
+    "score": 0.5009008646011353
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24154",
+    "title": "Weak lensing higher-order statistics to disentangle modified gravity and massive neutrinos",
+    "authors": [
+      "Alessandro Vadalà",
+      "Vincenzo Fabrizio Cardone",
+      "Simone Vinciguerra",
+      "Filippo Bouchè",
+      "Marco Baldi",
+      "Carlo Giocoli"
+    ],
+    "link": "https://arxiv.org/abs/2602.24154",
+    "score": 0.49775373935699463
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.23657",
+    "title": "Photon rings, gravitational lensing, and ISCOs of exotic compact objects in Einstein-scalar-Maxwell theories",
+    "authors": [
+      "Antonio De Felice",
+      "Shinji Tsujikawa"
+    ],
+    "link": "https://arxiv.org/abs/2602.23657",
+    "score": 0.4969809055328369
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24120",
+    "title": "A New Window into the Baryon Cycle at Cosmic Noon with Line Intensity Mapping: Forecasts for auto- and cross-correlations in [CII]-158$μ$m, HI 21 cm, CO$_{J+1\\rightarrow J}$, and H$α$ galaxies",
+    "authors": [
+      "Shubh Agrawal",
+      "James E. Aguirre",
+      "Justin S. Bracks",
+      "Ryan P. Keenan",
+      "Charles M. Bradford",
+      "Brockton S. Brendal",
+      "Peter Dow",
+      "Jeffrey P. Filippini",
+      "Jianyang Fu",
+      "Karolina Garcia",
+      "Reinier M.J. Janssen",
+      "Bradley R. Johnson",
+      "Wooseok Kang",
+      "Christos Karoumpis",
+      "Garrett K. Keating",
+      "Adam Lidz",
+      "Lun-Jun Liu",
+      "Ian Lowe",
+      "Alexander Manduca",
+      "Aashrita Mangu",
+      "Daniel P. Marrone",
+      "Evan C. Mayer",
+      "Sydnee O'Donnell",
+      "Talia Saeid",
+      "Mathilde Van Cuyck",
+      "Joaquin Vieira",
+      "Jessica A. Zebrowski"
+    ],
+    "link": "https://arxiv.org/abs/2602.24120",
+    "score": 0.49656105041503906
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.23755",
+    "title": "Acoustic Black Hole in Hayward Spacetime: Shadow, Quasinormal Modes and Analogue Hawking Radiation",
+    "authors": [
+      "Zhong-Yi Hui",
+      "Yu-Ye Cheng",
+      "Jia-Rui Sun"
+    ],
+    "link": "https://arxiv.org/abs/2602.23755",
+    "score": 0.4939519464969635
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.23432",
+    "title": "A Menagerie of Wormholes and Cosmologies in the Gravitational Path Integral",
+    "authors": [
+      "Panos Betzios",
+      "Paul Ghiringhelli",
+      "Ioannis D. Gialamas",
+      "Olga Papadoulaki"
+    ],
+    "link": "https://arxiv.org/abs/2602.23432",
+    "score": 0.49071428179740906
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.24079",
+    "title": "The Shape of Eccentricity: Rapid Classification of Eccentric Binaries with the Wavelet Scattering Transform",
+    "authors": [
+      "Priscilla Canizares",
+      "Seppe J. Staelens",
+      "Isobel Romero-Shaw"
+    ],
+    "link": "https://arxiv.org/abs/2602.24079",
+    "score": 0.4843074381351471
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.21407",
+    "title": "Metastrings, Metaparticles and Black Hole Thermodynamics: On the Road Towards a Non-singular Black Hole Remnant",
+    "authors": [
+      "Paul-Robert Chouha"
+    ],
+    "link": "https://arxiv.org/abs/2602.21407",
+    "score": 0.47685950994491577
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.24267",
+    "title": "Dynamics of spinning particles in pp-wave spacetimes",
+    "authors": [
+      "K. Andrzejewski"
+    ],
+    "link": "https://arxiv.org/abs/2602.24267",
+    "score": 0.47531911730766296
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.23538",
+    "title": "Mimetic gravity in the extended objects framework",
+    "authors": [
+      "Efraín Rojas"
+    ],
+    "link": "https://arxiv.org/abs/2602.23538",
+    "score": 0.46970006823539734
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.23661",
+    "title": "A 3BF model of quantum gravity coupled to Standard Model matter",
+    "authors": [
+      "Pavle Stipsic",
+      "Marko Vojinovic"
+    ],
+    "link": "https://arxiv.org/abs/2602.23661",
+    "score": 0.4659741222858429
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.23417",
+    "title": "Universality of the Blandford-Znajek emission in stationary and axisymmetric spacetimes",
+    "authors": [
+      "Filippo Camilloni",
+      "Luciano Rezzolla"
+    ],
+    "link": "https://arxiv.org/abs/2602.23417",
+    "score": 0.4634401202201843
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23743",
+    "title": "A NICER View of PSR J0030+0451: Updated Constraints from Six Years of NICER Observations",
+    "authors": [
+      "Yves Kini",
+      "Lucien Mauviard",
+      "Tuomo Salmi",
+      "Anna L. Watts",
+      "Sebastien Guillot",
+      "Bas Dorsman",
+      "Devarshi Choudhury",
+      "Denis González-Caniulef",
+      "Mariska Hoogkamer",
+      "Daniela Huppenkothen",
+      "Christine Kazantsev",
+      "Matthew Kerr",
+      "Samaya Nissanke",
+      "Paul S. Ray",
+      "Pierre Stammler",
+      "Serena Vinciguerra"
+    ],
+    "link": "https://arxiv.org/abs/2602.23743",
+    "score": 0.4631209075450897
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23416",
+    "title": "Zooming in on the circumgalactic medium with GIBLE: Cloud-scale simulations with cosmological initial conditions",
+    "authors": [
+      "Rahul Ramesh",
+      "Dylan Nelson",
+      "Drummond Fielding",
+      "Marcus Brüggen"
+    ],
+    "link": "https://arxiv.org/abs/2602.23416",
+    "score": 0.4619162976741791
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2602.23460",
+    "title": "OmegaNeuron: Applying GravitySpy Similarity Methods to the Search for LIGO Glitch Witnesses",
+    "authors": [
+      "Bri Aleman",
+      "Derek Davis"
+    ],
+    "link": "https://arxiv.org/abs/2602.23460",
+    "score": 0.4617808163166046
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23749",
+    "title": "Constraining the mass of the M31 ionized baryon Halo using CHIME/FRB Catalog 2",
+    "authors": [
+      "Lordrick A. Kahinga",
+      "J. Xavier Prochaska",
+      "Sunil Simha",
+      "Calvin Leung",
+      "Radu V. Craiu",
+      "Gwendolyn Eadie",
+      "Emmanuel Fonseca",
+      "B. M. Gaensler",
+      "Vicky Kaspi",
+      "Afrokk Khan",
+      "Bikash Kharel",
+      "Adam E. Lanman",
+      "Robert A. Main",
+      "Lluis Mas-Ribas",
+      "Kiyoshi W. Masui",
+      "Paul Scholz",
+      "Swarali Shivraj Patil",
+      "Aaron B. Pearlman",
+      "K. Shin",
+      "Seth R. Siegel",
+      "Kendrick Smith",
+      "Michele Woodland"
+    ],
+    "link": "https://arxiv.org/abs/2602.23749",
+    "score": 0.45532938838005066
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23445",
+    "title": "Starbursts hiding in the main sequence: a pathway toward quenching?",
+    "authors": [
+      "Florent Renaud",
+      "Katarina Kraljic",
+      "Jonathan Freundlich",
+      "Benjamin Magnelli",
+      "Matthieu Béthermin",
+      "Cédric Accard",
+      "Diana Ismail",
+      "Emanuele Daddi",
+      "David Elbaz",
+      "Laure Ciesla",
+      "Gareth Martin",
+      "Yohan Dubois",
+      "Sébastien Peirani"
+    ],
+    "link": "https://arxiv.org/abs/2602.23445",
+    "score": 0.4535999000072479
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2602.23519",
+    "title": "Scalar Bosons with Coulomb Potentials in a Space with Dual Topological Defects in Rainbow Gravity",
+    "authors": [
+      "L. G. Barbosa",
+      "J. V. Zamperlini",
+      "L. C. N. Santos"
+    ],
+    "link": "https://arxiv.org/abs/2602.23519",
+    "score": 0.4534764587879181
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23724",
+    "title": "X-ray Quasi-Periodic Oscillations in Active Galactic Nuclei and Their Implications for the Changing Look Phenomenon",
+    "authors": [
+      "Mouyuan Sun",
+      "Shuying Zhou",
+      "Jihong Liu",
+      "Ning Jiang",
+      "Zhen-Yi Cai",
+      "Hai-Cheng Feng",
+      "Hengxiao Guo",
+      "Zhi-Xiang Zhang",
+      "Qinbo Han",
+      "Juan Li",
+      "Linyue Jiang",
+      "Yu-Jing Xu",
+      "Junfeng Wang",
+      "Jun-Xian Wang",
+      "Yongquan Xue"
+    ],
+    "link": "https://arxiv.org/abs/2602.23724",
+    "score": 0.4500151574611664
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24085",
+    "title": "The hydrodynamics of stratified ultra-relativistic outflows and the origin of GRB X-ray plateaus",
+    "authors": [
+      "Gilad Sadeh",
+      "Kenta Hotokezaka",
+      "Masaru Shibata"
+    ],
+    "link": "https://arxiv.org/abs/2602.24085",
+    "score": 0.44780871272087097
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23850",
+    "title": "Magnetic Flux Tubes Illuminated by Pulsar Winds",
+    "authors": [
+      "Yifan Sun",
+      "C.-Y. Ng",
+      "Siming Liu"
+    ],
+    "link": "https://arxiv.org/abs/2602.23850",
+    "score": 0.44330301880836487
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23458",
+    "title": "Modeling individual nearby radio galaxies as ultra-high-energy cosmic-ray accelerators",
+    "authors": [
+      "Andressa Colaço",
+      "Gabriel Azeredo",
+      "Isadora Parillo",
+      "Cainã de Oliveira",
+      "Vitor de Souza"
+    ],
+    "link": "https://arxiv.org/abs/2602.23458",
+    "score": 0.44306808710098267
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24217",
+    "title": "Weak emission line quasar SDSS J101353.45+492758.1 I. Continuum fitting",
+    "authors": [
+      "Laetitia Gibaud",
+      "Marek Nikołajuk",
+      "Piotr Życki",
+      "Agata Różańska",
+      "Krzysztof Hryniewicz",
+      "Rafał Wojaczyński"
+    ],
+    "link": "https://arxiv.org/abs/2602.24217",
+    "score": 0.4428647458553314
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23414",
+    "title": "Hydrodynamical simulations of helium-ignited binary white dwarf mergers",
+    "authors": [
+      "Vrutant Mehta",
+      "Vishal Tiwari",
+      "Ruediger Pakmor",
+      "Divyanshu Singh",
+      "Robert Fisher"
+    ],
+    "link": "https://arxiv.org/abs/2602.23414",
+    "score": 0.43782615661621094
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23915",
+    "title": "Impact of non-standard neutrino-electron interactions on Big Bang Nucleosynthesis",
+    "authors": [
+      "Stefano Gariazzo",
+      "Jaume Moncho",
+      "Sergio Pastor",
+      "Ofelia Pisanti"
+    ],
+    "link": "https://arxiv.org/abs/2602.23915",
+    "score": 0.43446794152259827
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24250",
+    "title": "The First Four Ground-Level Enhancements in the 1940s: Investigation, Digitisation, and Analysis of Forgotten Data",
+    "authors": [
+      "Hisashi Hayakawa",
+      "Stepan Poluianov",
+      "Sergey Koldobskiy",
+      "Alexander Mishev",
+      "Nicholas Larsen",
+      "Inna Usoskina",
+      "Ilya Usoskin"
+    ],
+    "link": "https://arxiv.org/abs/2602.24250",
+    "score": 0.43296030163764954
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23855",
+    "title": "Timing and scintillation of a young Galactic halo pulsar",
+    "authors": [
+      "J. M. Yao",
+      "F. F. Kou",
+      "J. P. Yuan",
+      "Y. Wei",
+      "William A. Coles",
+      "Richard N. Manchester",
+      "N. Wang",
+      "S. Q. Wang",
+      "W. M. Yan"
+    ],
+    "link": "https://arxiv.org/abs/2602.23855",
+    "score": 0.4314030110836029
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23740",
+    "title": "An investigation on the FWHM of absorption features of type Ia supernovae",
+    "authors": [
+      "Xulin Zhao",
+      "Keiichi Maeda",
+      "Xiaofeng Wang"
+    ],
+    "link": "https://arxiv.org/abs/2602.23740",
+    "score": 0.42842766642570496
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.23913",
+    "title": "Probing inflationary features with galaxy ultraviolet luminosity function observables",
+    "authors": [
+      "Sandeep Kumar Acharya"
+    ],
+    "link": "https://arxiv.org/abs/2602.23913",
+    "score": 0.427823007106781
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24088",
+    "title": "Multi-messenger emission derived from relativistic magnetized jet dynamics using a multi-zone framework",
+    "authors": [
+      "Harshita Bhuyan",
+      "Bhargav Vaidya",
+      "Christian Fendt",
+      "Aditya Sharma"
+    ],
+    "link": "https://arxiv.org/abs/2602.24088",
+    "score": 0.4270560145378113
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24117",
+    "title": "Probing power spectrum enhancement at small scales with SKA",
+    "authors": [
+      "Hourui Zhu",
+      "Bin Yue",
+      "Yidong Xu",
+      "Xuelei Chen",
+      "Zhiqi Huang"
+    ],
+    "link": "https://arxiv.org/abs/2602.24117",
+    "score": 0.42657914757728577
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.24255",
+    "title": "Direct VLBI Detection of Interstellar Turbulence Imprint on a Quasar: TXS 2005+403",
+    "authors": [
+      "Alexander Plavin",
+      "Alexander Pushkarev",
+      "Yuri Kovalev"
+    ],
+    "link": "https://arxiv.org/abs/2602.24255",
+    "score": 0.4264170825481415
+  }
+]
