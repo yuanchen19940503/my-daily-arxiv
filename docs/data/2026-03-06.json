@@ -10,7 +10,7 @@
       "Xin Zhang"
     ],
     "link": "https://arxiv.org/abs/2603.05191",
-    "score": 0.6298558712005615
+    "score": 0.6298559308052063
   },
   {
     "source": "gr-qc",
@@ -37,7 +37,7 @@
       "Bei You"
     ],
     "link": "https://arxiv.org/abs/2603.04462",
-    "score": 0.5588927865028381
+    "score": 0.5588927268981934
   },
   {
     "source": "gr-qc",
@@ -60,7 +60,7 @@
       "Jeremy Mould"
     ],
     "link": "https://arxiv.org/abs/2603.04784",
-    "score": 0.5226960778236389
+    "score": 0.5227270722389221
   },
   {
     "source": "astro-ph",
@@ -109,7 +109,7 @@
       "Karl Wette"
     ],
     "link": "https://arxiv.org/abs/2603.04792",
-    "score": 0.4925350546836853
+    "score": 0.4925350248813629
   },
   {
     "source": "gr-qc",
@@ -135,7 +135,7 @@
       "Lina Necib"
     ],
     "link": "https://arxiv.org/abs/2603.04490",
-    "score": 0.4857892394065857
+    "score": 0.4857933819293976
   },
   {
     "source": "gr-qc",
@@ -158,7 +158,7 @@
       "Lidia Marino"
     ],
     "link": "https://arxiv.org/abs/2603.05064",
-    "score": 0.4691939949989319
+    "score": 0.4691939353942871
   },
   {
     "source": "astro-ph",
@@ -192,7 +192,18 @@
       "Andrew Mummery"
     ],
     "link": "https://arxiv.org/abs/2603.05412",
-    "score": 0.46662333607673645
+    "score": 0.46664848923683167
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.04527",
+    "title": "Coexistence of Chromatic Flares and an Achromatic QPO in the Gamma-ray Blazar PG 1553+113",
+    "authors": [
+      "Elena Madero",
+      "Alberto Domínguez"
+    ],
+    "link": "https://arxiv.org/abs/2603.04527",
+    "score": 0.4632631838321686
   },
   {
     "source": "astro-ph",
@@ -223,18 +234,7 @@
       "T. Zafar"
     ],
     "link": "https://arxiv.org/abs/2603.05265",
-    "score": 0.46373894810676575
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2603.04527",
-    "title": "Coexistence of Chromatic Flares and an Achromatic QPO in the Gamma-ray Blazar PG 1553+113",
-    "authors": [
-      "Elena Madero",
-      "Alberto Domínguez"
-    ],
-    "link": "https://arxiv.org/abs/2603.04527",
-    "score": 0.4632631838321686
+    "score": 0.46320879459381104
   },
   {
     "source": "astro-ph",
@@ -415,7 +415,7 @@
       "L. Moscardini"
     ],
     "link": "https://arxiv.org/abs/2603.04960",
-    "score": 0.4498272240161896
+    "score": 0.4497939646244049
   },
   {
     "source": "astro-ph",
@@ -506,7 +506,7 @@
       "R. Zylka"
     ],
     "link": "https://arxiv.org/abs/2603.05351",
-    "score": 0.44282659888267517
+    "score": 0.4427624046802521
   },
   {
     "source": "gr-qc",
@@ -545,7 +545,7 @@
       "Rafael Martínez-Galarza"
     ],
     "link": "https://arxiv.org/abs/2603.04516",
-    "score": 0.43465057015419006
+    "score": 0.43438073992729187
   },
   {
     "source": "astro-ph",
@@ -557,7 +557,7 @@
       "Darin Ragozzine"
     ],
     "link": "https://arxiv.org/abs/2603.05394",
-    "score": 0.4339085519313812
+    "score": 0.4339559078216553
   },
   {
     "source": "astro-ph",
@@ -569,7 +569,7 @@
       "Will Handley"
     ],
     "link": "https://arxiv.org/abs/2603.05472",
-    "score": 0.4324565827846527
+    "score": 0.43247079849243164
   },
   {
     "source": "gr-qc",
@@ -579,7 +579,7 @@
       "José M. M. Senovilla"
     ],
     "link": "https://arxiv.org/abs/2603.04645",
-    "score": 0.4274291396141052
+    "score": 0.42742910981178284
   },
   {
     "source": "astro-ph",
@@ -589,7 +589,7 @@
       "A.G.G.M. Tielens"
     ],
     "link": "https://arxiv.org/abs/2603.04536",
-    "score": 0.4248467981815338
+    "score": 0.4248889982700348
   },
   {
     "source": "gr-qc",
@@ -619,7 +619,7 @@
       "Stéphane Udry"
     ],
     "link": "https://arxiv.org/abs/2603.04554",
-    "score": 0.42269662022590637
+    "score": 0.42269665002822876
   },
   {
     "source": "astro-ph",
@@ -629,7 +629,7 @@
       "Ji-Hoon Ha"
     ],
     "link": "https://arxiv.org/abs/2603.05032",
-    "score": 0.42165878415107727
+    "score": 0.4216287434101105
   },
   {
     "source": "astro-ph, gr-qc",
@@ -665,6 +665,6 @@
       "Oli L. Dors"
     ],
     "link": "https://arxiv.org/abs/2603.04577",
-    "score": 0.41884544491767883
+    "score": 0.4188454747200012
   }
 ]
