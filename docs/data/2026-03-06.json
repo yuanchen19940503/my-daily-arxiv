@@ -50,7 +50,7 @@
       "Fa Peng Huang"
     ],
     "link": "https://arxiv.org/abs/2603.05182",
-    "score": 0.5485437512397766
+    "score": 0.5486497282981873
   },
   {
     "source": "astro-ph",
@@ -60,7 +60,7 @@
       "Jeremy Mould"
     ],
     "link": "https://arxiv.org/abs/2603.04784",
-    "score": 0.5227270722389221
+    "score": 0.5226960778236389
   },
   {
     "source": "astro-ph",
@@ -73,7 +73,7 @@
       "Xiao-Jun Bi"
     ],
     "link": "https://arxiv.org/abs/2603.04821",
-    "score": 0.5164543390274048
+    "score": 0.5164862275123596
   },
   {
     "source": "astro-ph",
@@ -170,7 +170,18 @@
       "Pearl Sandick"
     ],
     "link": "https://arxiv.org/abs/2603.05457",
-    "score": 0.4683251976966858
+    "score": 0.468382865190506
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.05412",
+    "title": "Resolving the sub-parsec circumnuclear density profiles of quiescent galaxies: Evidence for Bondi accretion flows in tidal disruption event hosts",
+    "authors": [
+      "Adelle J. Goodwin",
+      "Andrew Mummery"
+    ],
+    "link": "https://arxiv.org/abs/2603.05412",
+    "score": 0.4683402180671692
   },
   {
     "source": "astro-ph",
@@ -182,28 +193,6 @@
     ],
     "link": "https://arxiv.org/abs/2603.04508",
     "score": 0.46761631965637207
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2603.05412",
-    "title": "Resolving the sub-parsec circumnuclear density profiles of quiescent galaxies: Evidence for Bondi accretion flows in tidal disruption event hosts",
-    "authors": [
-      "Adelle J. Goodwin",
-      "Andrew Mummery"
-    ],
-    "link": "https://arxiv.org/abs/2603.05412",
-    "score": 0.46664848923683167
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2603.04527",
-    "title": "Coexistence of Chromatic Flares and an Achromatic QPO in the Gamma-ray Blazar PG 1553+113",
-    "authors": [
-      "Elena Madero",
-      "Alberto Domínguez"
-    ],
-    "link": "https://arxiv.org/abs/2603.04527",
-    "score": 0.4632631838321686
   },
   {
     "source": "astro-ph",
@@ -234,7 +223,18 @@
       "T. Zafar"
     ],
     "link": "https://arxiv.org/abs/2603.05265",
-    "score": 0.46320879459381104
+    "score": 0.46378785371780396
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.04527",
+    "title": "Coexistence of Chromatic Flares and an Achromatic QPO in the Gamma-ray Blazar PG 1553+113",
+    "authors": [
+      "Elena Madero",
+      "Alberto Domínguez"
+    ],
+    "link": "https://arxiv.org/abs/2603.04527",
+    "score": 0.4632631838321686
   },
   {
     "source": "astro-ph",
@@ -415,7 +415,7 @@
       "L. Moscardini"
     ],
     "link": "https://arxiv.org/abs/2603.04960",
-    "score": 0.4497939646244049
+    "score": 0.44973617792129517
   },
   {
     "source": "astro-ph",
@@ -506,7 +506,7 @@
       "R. Zylka"
     ],
     "link": "https://arxiv.org/abs/2603.05351",
-    "score": 0.4427624046802521
+    "score": 0.44282469153404236
   },
   {
     "source": "gr-qc",
@@ -545,7 +545,7 @@
       "Rafael Martínez-Galarza"
     ],
     "link": "https://arxiv.org/abs/2603.04516",
-    "score": 0.43438073992729187
+    "score": 0.43465057015419006
   },
   {
     "source": "astro-ph",
@@ -557,7 +557,7 @@
       "Darin Ragozzine"
     ],
     "link": "https://arxiv.org/abs/2603.05394",
-    "score": 0.4339559078216553
+    "score": 0.4339965283870697
   },
   {
     "source": "astro-ph",
@@ -569,7 +569,7 @@
       "Will Handley"
     ],
     "link": "https://arxiv.org/abs/2603.05472",
-    "score": 0.43247079849243164
+    "score": 0.4324566125869751
   },
   {
     "source": "gr-qc",
