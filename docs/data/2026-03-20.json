@@ -106,7 +106,7 @@
       "B. C. Barish"
     ],
     "link": "https://arxiv.org/abs/2603.19019",
-    "score": 0.5857095718383789
+    "score": 0.5856217741966248
   },
   {
     "source": "astro-ph",
@@ -117,7 +117,7 @@
       "Stefano Profumo"
     ],
     "link": "https://arxiv.org/abs/2603.19083",
-    "score": 0.5783858895301819
+    "score": 0.5781994462013245
   },
   {
     "source": "astro-ph, gr-qc",
@@ -226,7 +226,7 @@
       "B. C. Barish"
     ],
     "link": "https://arxiv.org/abs/2603.19020",
-    "score": 0.5698058009147644
+    "score": 0.5697295665740967
   },
   {
     "source": "astro-ph, gr-qc",
@@ -335,7 +335,7 @@
       "D. Barker"
     ],
     "link": "https://arxiv.org/abs/2603.19021",
-    "score": 0.5548940300941467
+    "score": 0.5549337267875671
   },
   {
     "source": "astro-ph",
@@ -349,7 +349,7 @@
       "Xuelei Chen"
     ],
     "link": "https://arxiv.org/abs/2603.18884",
-    "score": 0.5404172539710999
+    "score": 0.5402729511260986
   },
   {
     "source": "astro-ph",
@@ -359,7 +359,7 @@
       "Zacharias Roupas"
     ],
     "link": "https://arxiv.org/abs/2603.18857",
-    "score": 0.5337601900100708
+    "score": 0.5336162447929382
   },
   {
     "source": "astro-ph, gr-qc",
@@ -372,7 +372,7 @@
       "Tao Zhu"
     ],
     "link": "https://arxiv.org/abs/2603.18129",
-    "score": 0.51267009973526
+    "score": 0.5126621127128601
   },
   {
     "source": "astro-ph, gr-qc",
@@ -385,7 +385,7 @@
       "Jorinde van de Vis"
     ],
     "link": "https://arxiv.org/abs/2603.18153",
-    "score": 0.504275918006897
+    "score": 0.5043061971664429
   },
   {
     "source": "gr-qc",
@@ -397,7 +397,7 @@
       "Julio Oliva"
     ],
     "link": "https://arxiv.org/abs/2603.18072",
-    "score": 0.5020703673362732
+    "score": 0.5022139549255371
   },
   {
     "source": "astro-ph",
@@ -413,7 +413,7 @@
       "Radek Stompor"
     ],
     "link": "https://arxiv.org/abs/2603.19154",
-    "score": 0.49178022146224976
+    "score": 0.4916781485080719
   },
   {
     "source": "astro-ph",
@@ -424,7 +424,7 @@
       "Archil Kobakhidze"
     ],
     "link": "https://arxiv.org/abs/2603.18406",
-    "score": 0.4914655387401581
+    "score": 0.491548627614975
   },
   {
     "source": "astro-ph, gr-qc",
@@ -435,7 +435,7 @@
       "Wen-Biao Han"
     ],
     "link": "https://arxiv.org/abs/2603.18075",
-    "score": 0.4900074005126953
+    "score": 0.4899197220802307
   },
   {
     "source": "gr-qc",
@@ -445,7 +445,7 @@
       "Masato Minamitsuji"
     ],
     "link": "https://arxiv.org/abs/2603.18794",
-    "score": 0.4856855869293213
+    "score": 0.4853014647960663
   },
   {
     "source": "astro-ph",
@@ -458,7 +458,7 @@
       "Aion Viana"
     ],
     "link": "https://arxiv.org/abs/2603.19103",
-    "score": 0.48497170209884644
+    "score": 0.48511457443237305
   },
   {
     "source": "astro-ph, gr-qc",
@@ -469,7 +469,7 @@
       "Y. Jack Ng"
     ],
     "link": "https://arxiv.org/abs/2603.18277",
-    "score": 0.483224481344223
+    "score": 0.4834023714065552
   },
   {
     "source": "gr-qc",
@@ -479,7 +479,7 @@
       "Raya V. Mancheva"
     ],
     "link": "https://arxiv.org/abs/2603.18340",
-    "score": 0.48049691319465637
+    "score": 0.4803831875324249
   },
   {
     "source": "astro-ph",
@@ -495,7 +495,7 @@
       "Zhong-Xiao Man"
     ],
     "link": "https://arxiv.org/abs/2603.18150",
-    "score": 0.47753095626831055
+    "score": 0.4775906205177307
   },
   {
     "source": "gr-qc",
@@ -508,7 +508,7 @@
       "Shu-Min Wu"
     ],
     "link": "https://arxiv.org/abs/2603.18439",
-    "score": 0.4773047864437103
+    "score": 0.47736096382141113
   },
   {
     "source": "astro-ph",
@@ -526,19 +526,7 @@
       "Gaetano Lambiase"
     ],
     "link": "https://arxiv.org/abs/2603.18223",
-    "score": 0.4758867025375366
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2603.18963",
-    "title": "Observational Signatures of Rotating Ayón-Beato-García Black Holes: Shadows, Accretion Disks and Images",
-    "authors": [
-      "Zhenglong Ban",
-      "Meng Chen",
-      "Rong-Jia Yang"
-    ],
-    "link": "https://arxiv.org/abs/2603.18963",
-    "score": 0.47550806403160095
+    "score": 0.4767024517059326
   },
   {
     "source": "astro-ph",
@@ -553,7 +541,19 @@
       "Amâncio C. S. Friaça"
     ],
     "link": "https://arxiv.org/abs/2603.18901",
-    "score": 0.47544610500335693
+    "score": 0.4754606783390045
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2603.18963",
+    "title": "Observational Signatures of Rotating Ayón-Beato-García Black Holes: Shadows, Accretion Disks and Images",
+    "authors": [
+      "Zhenglong Ban",
+      "Meng Chen",
+      "Rong-Jia Yang"
+    ],
+    "link": "https://arxiv.org/abs/2603.18963",
+    "score": 0.47535011172294617
   },
   {
     "source": "gr-qc",
@@ -563,7 +563,7 @@
       "Henry Maxfield"
     ],
     "link": "https://arxiv.org/abs/2603.18154",
-    "score": 0.4734460115432739
+    "score": 0.4735139310359955
   },
   {
     "source": "astro-ph",
@@ -587,7 +587,7 @@
       "Zhuyun Zhuang"
     ],
     "link": "https://arxiv.org/abs/2603.18499",
-    "score": 0.4729967713356018
+    "score": 0.4730869233608246
   },
   {
     "source": "astro-ph, gr-qc",
@@ -598,7 +598,7 @@
       "Jorge Gigante Valcarcel"
     ],
     "link": "https://arxiv.org/abs/2603.19140",
-    "score": 0.46626919507980347
+    "score": 0.4664281904697418
   },
   {
     "source": "gr-qc",
@@ -609,7 +609,7 @@
       "G. P. Singh"
     ],
     "link": "https://arxiv.org/abs/2603.18971",
-    "score": 0.4648730158805847
+    "score": 0.4648052752017975
   },
   {
     "source": "astro-ph",
@@ -646,7 +646,7 @@
       "R. Serafinelli"
     ],
     "link": "https://arxiv.org/abs/2603.18156",
-    "score": 0.4637727737426758
+    "score": 0.463199257850647
   },
   {
     "source": "astro-ph",
@@ -659,7 +659,7 @@
       "L.Y. Aaron Yung"
     ],
     "link": "https://arxiv.org/abs/2603.18379",
-    "score": 0.4604354798793793
+    "score": 0.4603438973426819
   },
   {
     "source": "astro-ph",
@@ -679,7 +679,7 @@
       "Zi-Xuan Feng"
     ],
     "link": "https://arxiv.org/abs/2603.18738",
-    "score": 0.4548526406288147
+    "score": 0.45473596453666687
   },
   {
     "source": "gr-qc",
@@ -689,7 +689,7 @@
       "Zainab Malik"
     ],
     "link": "https://arxiv.org/abs/2603.18887",
-    "score": 0.45107924938201904
+    "score": 0.45106738805770874
   },
   {
     "source": "astro-ph",
@@ -798,7 +798,7 @@
       "H.S. Zhao"
     ],
     "link": "https://arxiv.org/abs/2603.18956",
-    "score": 0.44568943977355957
+    "score": 0.4459470510482788
   },
   {
     "source": "astro-ph",
@@ -809,7 +809,7 @@
       "Daniel J. Eisenstein"
     ],
     "link": "https://arxiv.org/abs/2603.18234",
-    "score": 0.4440404772758484
+    "score": 0.44390663504600525
   },
   {
     "source": "astro-ph",
@@ -819,7 +819,7 @@
       "Zachary J. Weiner"
     ],
     "link": "https://arxiv.org/abs/2603.18131",
-    "score": 0.44126391410827637
+    "score": 0.4407040774822235
   },
   {
     "source": "astro-ph",
@@ -846,7 +846,7 @@
       "Peter J. Wheatley. Maria Zamyatina"
     ],
     "link": "https://arxiv.org/abs/2603.18332",
-    "score": 0.4406794309616089
+    "score": 0.44051945209503174
   },
   {
     "source": "gr-qc",
@@ -858,7 +858,7 @@
       "Kilar Zhang"
     ],
     "link": "https://arxiv.org/abs/2603.19168",
-    "score": 0.4398088753223419
+    "score": 0.4397960901260376
   },
   {
     "source": "astro-ph",
@@ -869,7 +869,7 @@
       "José Abdalla Helayël-Neto"
     ],
     "link": "https://arxiv.org/abs/2603.18169",
-    "score": 0.43894004821777344
+    "score": 0.4391762316226959
   },
   {
     "source": "astro-ph",
@@ -919,7 +919,7 @@
       "Alfredo Zenteno"
     ],
     "link": "https://arxiv.org/abs/2603.18376",
-    "score": 0.43775272369384766
+    "score": 0.4377293884754181
   },
   {
     "source": "astro-ph",
@@ -930,7 +930,7 @@
       "Cheng Li"
     ],
     "link": "https://arxiv.org/abs/2603.18926",
-    "score": 0.43731266260147095
+    "score": 0.43739959597587585
   },
   {
     "source": "astro-ph",
@@ -960,7 +960,7 @@
       "Su-Yang Xu"
     ],
     "link": "https://arxiv.org/abs/2603.18167",
-    "score": 0.4349657893180847
+    "score": 0.43522605299949646
   },
   {
     "source": "astro-ph",
@@ -978,7 +978,7 @@
       "Zahra Sattari"
     ],
     "link": "https://arxiv.org/abs/2603.18357",
-    "score": 0.4317081868648529
+    "score": 0.4317795932292938
   },
   {
     "source": "gr-qc",
@@ -989,6 +989,6 @@
       "Edilberto O. Silva"
     ],
     "link": "https://arxiv.org/abs/2603.19034",
-    "score": 0.4311462938785553
+    "score": 0.43104588985443115
   }
 ]
