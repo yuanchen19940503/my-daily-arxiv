@@ -106,7 +106,7 @@
       "B. C. Barish"
     ],
     "link": "https://arxiv.org/abs/2603.19019",
-    "score": 0.5856217741966248
+    "score": 0.585691511631012
   },
   {
     "source": "astro-ph",
@@ -117,7 +117,7 @@
       "Stefano Profumo"
     ],
     "link": "https://arxiv.org/abs/2603.19083",
-    "score": 0.5781994462013245
+    "score": 0.5781744122505188
   },
   {
     "source": "astro-ph, gr-qc",
@@ -226,7 +226,7 @@
       "B. C. Barish"
     ],
     "link": "https://arxiv.org/abs/2603.19020",
-    "score": 0.5697295665740967
+    "score": 0.5697582960128784
   },
   {
     "source": "astro-ph, gr-qc",
@@ -335,7 +335,7 @@
       "D. Barker"
     ],
     "link": "https://arxiv.org/abs/2603.19021",
-    "score": 0.5549337267875671
+    "score": 0.5548463463783264
   },
   {
     "source": "astro-ph",
@@ -349,7 +349,7 @@
       "Xuelei Chen"
     ],
     "link": "https://arxiv.org/abs/2603.18884",
-    "score": 0.5402729511260986
+    "score": 0.5402705669403076
   },
   {
     "source": "astro-ph",
@@ -359,7 +359,7 @@
       "Zacharias Roupas"
     ],
     "link": "https://arxiv.org/abs/2603.18857",
-    "score": 0.5336162447929382
+    "score": 0.5336421728134155
   },
   {
     "source": "astro-ph, gr-qc",
@@ -372,7 +372,7 @@
       "Tao Zhu"
     ],
     "link": "https://arxiv.org/abs/2603.18129",
-    "score": 0.5126621127128601
+    "score": 0.5126168131828308
   },
   {
     "source": "astro-ph, gr-qc",
@@ -385,7 +385,7 @@
       "Jorinde van de Vis"
     ],
     "link": "https://arxiv.org/abs/2603.18153",
-    "score": 0.5043061971664429
+    "score": 0.5043219923973083
   },
   {
     "source": "gr-qc",
@@ -397,7 +397,18 @@
       "Julio Oliva"
     ],
     "link": "https://arxiv.org/abs/2603.18072",
-    "score": 0.5022139549255371
+    "score": 0.501983642578125
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2603.18406",
+    "title": "QCD and electroweak phase transitions with hidden scale invariance: implications for primordial black holes, quark-lepton nuggets and gravitational waves",
+    "authors": [
+      "Joshua Cesca",
+      "Archil Kobakhidze"
+    ],
+    "link": "https://arxiv.org/abs/2603.18406",
+    "score": 0.4916015565395355
   },
   {
     "source": "astro-ph",
@@ -413,18 +424,7 @@
       "Radek Stompor"
     ],
     "link": "https://arxiv.org/abs/2603.19154",
-    "score": 0.4916781485080719
-  },
-  {
-    "source": "astro-ph",
-    "arxiv_id": "2603.18406",
-    "title": "QCD and electroweak phase transitions with hidden scale invariance: implications for primordial black holes, quark-lepton nuggets and gravitational waves",
-    "authors": [
-      "Joshua Cesca",
-      "Archil Kobakhidze"
-    ],
-    "link": "https://arxiv.org/abs/2603.18406",
-    "score": 0.491548627614975
+    "score": 0.491523802280426
   },
   {
     "source": "astro-ph, gr-qc",
@@ -435,7 +435,7 @@
       "Wen-Biao Han"
     ],
     "link": "https://arxiv.org/abs/2603.18075",
-    "score": 0.4899197220802307
+    "score": 0.49014002084732056
   },
   {
     "source": "gr-qc",
@@ -445,7 +445,7 @@
       "Masato Minamitsuji"
     ],
     "link": "https://arxiv.org/abs/2603.18794",
-    "score": 0.4853014647960663
+    "score": 0.48562946915626526
   },
   {
     "source": "astro-ph",
@@ -458,7 +458,7 @@
       "Aion Viana"
     ],
     "link": "https://arxiv.org/abs/2603.19103",
-    "score": 0.48511457443237305
+    "score": 0.48503658175468445
   },
   {
     "source": "astro-ph, gr-qc",
@@ -469,7 +469,7 @@
       "Y. Jack Ng"
     ],
     "link": "https://arxiv.org/abs/2603.18277",
-    "score": 0.4834023714065552
+    "score": 0.48330819606781006
   },
   {
     "source": "gr-qc",
@@ -479,7 +479,7 @@
       "Raya V. Mancheva"
     ],
     "link": "https://arxiv.org/abs/2603.18340",
-    "score": 0.4803831875324249
+    "score": 0.4804503321647644
   },
   {
     "source": "astro-ph",
@@ -495,7 +495,7 @@
       "Zhong-Xiao Man"
     ],
     "link": "https://arxiv.org/abs/2603.18150",
-    "score": 0.4775906205177307
+    "score": 0.477683961391449
   },
   {
     "source": "gr-qc",
@@ -508,7 +508,7 @@
       "Shu-Min Wu"
     ],
     "link": "https://arxiv.org/abs/2603.18439",
-    "score": 0.47736096382141113
+    "score": 0.4773835241794586
   },
   {
     "source": "astro-ph",
@@ -526,7 +526,7 @@
       "Gaetano Lambiase"
     ],
     "link": "https://arxiv.org/abs/2603.18223",
-    "score": 0.4767024517059326
+    "score": 0.47606727480888367
   },
   {
     "source": "astro-ph",
@@ -541,7 +541,7 @@
       "Amâncio C. S. Friaça"
     ],
     "link": "https://arxiv.org/abs/2603.18901",
-    "score": 0.4754606783390045
+    "score": 0.4753807783126831
   },
   {
     "source": "gr-qc",
@@ -553,7 +553,7 @@
       "Rong-Jia Yang"
     ],
     "link": "https://arxiv.org/abs/2603.18963",
-    "score": 0.47535011172294617
+    "score": 0.4753091037273407
   },
   {
     "source": "gr-qc",
@@ -563,7 +563,7 @@
       "Henry Maxfield"
     ],
     "link": "https://arxiv.org/abs/2603.18154",
-    "score": 0.4735139310359955
+    "score": 0.4735521376132965
   },
   {
     "source": "astro-ph",
@@ -587,7 +587,7 @@
       "Zhuyun Zhuang"
     ],
     "link": "https://arxiv.org/abs/2603.18499",
-    "score": 0.4730869233608246
+    "score": 0.47305843234062195
   },
   {
     "source": "astro-ph, gr-qc",
@@ -598,7 +598,7 @@
       "Jorge Gigante Valcarcel"
     ],
     "link": "https://arxiv.org/abs/2603.19140",
-    "score": 0.4664281904697418
+    "score": 0.46644917130470276
   },
   {
     "source": "gr-qc",
@@ -609,7 +609,7 @@
       "G. P. Singh"
     ],
     "link": "https://arxiv.org/abs/2603.18971",
-    "score": 0.4648052752017975
+    "score": 0.4648588001728058
   },
   {
     "source": "astro-ph",
@@ -646,7 +646,7 @@
       "R. Serafinelli"
     ],
     "link": "https://arxiv.org/abs/2603.18156",
-    "score": 0.463199257850647
+    "score": 0.4638903737068176
   },
   {
     "source": "astro-ph",
@@ -659,7 +659,7 @@
       "L.Y. Aaron Yung"
     ],
     "link": "https://arxiv.org/abs/2603.18379",
-    "score": 0.4603438973426819
+    "score": 0.46038269996643066
   },
   {
     "source": "astro-ph",
@@ -679,7 +679,7 @@
       "Zi-Xuan Feng"
     ],
     "link": "https://arxiv.org/abs/2603.18738",
-    "score": 0.45473596453666687
+    "score": 0.45472466945648193
   },
   {
     "source": "gr-qc",
@@ -689,7 +689,7 @@
       "Zainab Malik"
     ],
     "link": "https://arxiv.org/abs/2603.18887",
-    "score": 0.45106738805770874
+    "score": 0.451023131608963
   },
   {
     "source": "astro-ph",
@@ -798,7 +798,7 @@
       "H.S. Zhao"
     ],
     "link": "https://arxiv.org/abs/2603.18956",
-    "score": 0.4459470510482788
+    "score": 0.4459845721721649
   },
   {
     "source": "astro-ph",
@@ -809,7 +809,7 @@
       "Daniel J. Eisenstein"
     ],
     "link": "https://arxiv.org/abs/2603.18234",
-    "score": 0.44390663504600525
+    "score": 0.44394388794898987
   },
   {
     "source": "astro-ph",
@@ -819,7 +819,7 @@
       "Zachary J. Weiner"
     ],
     "link": "https://arxiv.org/abs/2603.18131",
-    "score": 0.4407040774822235
+    "score": 0.44115692377090454
   },
   {
     "source": "astro-ph",
@@ -846,7 +846,7 @@
       "Peter J. Wheatley. Maria Zamyatina"
     ],
     "link": "https://arxiv.org/abs/2603.18332",
-    "score": 0.44051945209503174
+    "score": 0.4404785633087158
   },
   {
     "source": "gr-qc",
@@ -858,7 +858,7 @@
       "Kilar Zhang"
     ],
     "link": "https://arxiv.org/abs/2603.19168",
-    "score": 0.4397960901260376
+    "score": 0.4398711919784546
   },
   {
     "source": "astro-ph",
@@ -869,7 +869,7 @@
       "José Abdalla Helayël-Neto"
     ],
     "link": "https://arxiv.org/abs/2603.18169",
-    "score": 0.4391762316226959
+    "score": 0.4390963315963745
   },
   {
     "source": "astro-ph",
@@ -919,7 +919,7 @@
       "Alfredo Zenteno"
     ],
     "link": "https://arxiv.org/abs/2603.18376",
-    "score": 0.4377293884754181
+    "score": 0.43773162364959717
   },
   {
     "source": "astro-ph",
@@ -930,7 +930,7 @@
       "Cheng Li"
     ],
     "link": "https://arxiv.org/abs/2603.18926",
-    "score": 0.43739959597587585
+    "score": 0.4373147785663605
   },
   {
     "source": "astro-ph",
@@ -960,7 +960,7 @@
       "Su-Yang Xu"
     ],
     "link": "https://arxiv.org/abs/2603.18167",
-    "score": 0.43522605299949646
+    "score": 0.4352620840072632
   },
   {
     "source": "astro-ph",
@@ -978,7 +978,7 @@
       "Zahra Sattari"
     ],
     "link": "https://arxiv.org/abs/2603.18357",
-    "score": 0.4317795932292938
+    "score": 0.43178316950798035
   },
   {
     "source": "gr-qc",
@@ -989,6 +989,6 @@
       "Edilberto O. Silva"
     ],
     "link": "https://arxiv.org/abs/2603.19034",
-    "score": 0.43104588985443115
+    "score": 0.4312345087528229
   }
 ]
