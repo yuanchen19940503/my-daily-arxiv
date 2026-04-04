@@ -56,7 +56,7 @@
       "Patricia Schmidt"
     ],
     "link": "https://arxiv.org/abs/2604.01485",
-    "score": 0.5297207832336426
+    "score": 0.5294949412345886
   },
   {
     "source": "gr-qc",
@@ -93,7 +93,7 @@
       "O. S. Sazhina"
     ],
     "link": "https://arxiv.org/abs/2604.01752",
-    "score": 0.5182594656944275
+    "score": 0.5182754397392273
   },
   {
     "source": "gr-qc",
@@ -141,7 +141,7 @@
       "Zheng-Wen Long"
     ],
     "link": "https://arxiv.org/abs/2604.02164",
-    "score": 0.5005585551261902
+    "score": 0.5005319714546204
   },
   {
     "source": "astro-ph, gr-qc",
@@ -191,6 +191,20 @@
   },
   {
     "source": "astro-ph",
+    "arxiv_id": "2604.01492",
+    "title": "Impacts of Voids, Line of Sight Interactions, and Local Emission Environment on Detectability of Gamma-Ray AGN",
+    "authors": [
+      "Ollie Jackson",
+      "Amy Furniss",
+      "Olivier Hervet",
+      "Megan Splettstoesser",
+      "David A. Williams"
+    ],
+    "link": "https://arxiv.org/abs/2604.01492",
+    "score": 0.4909414052963257
+  },
+  {
+    "source": "astro-ph",
     "arxiv_id": "2604.02111",
     "title": "Multiplicity of Massive stars in the Milky Way (M3W). I. Project description, UNWIND, application to GLS 11 448, and DIB catalog",
     "authors": [
@@ -211,20 +225,6 @@
   },
   {
     "source": "astro-ph",
-    "arxiv_id": "2604.01492",
-    "title": "Impacts of Voids, Line of Sight Interactions, and Local Emission Environment on Detectability of Gamma-Ray AGN",
-    "authors": [
-      "Ollie Jackson",
-      "Amy Furniss",
-      "Olivier Hervet",
-      "Megan Splettstoesser",
-      "David A. Williams"
-    ],
-    "link": "https://arxiv.org/abs/2604.01492",
-    "score": 0.4900175631046295
-  },
-  {
-    "source": "astro-ph",
     "arxiv_id": "2604.01297",
     "title": "Low-mass Active Galaxies in the SAMI Galaxy Survey with Spatially-resolved Spectroscopy",
     "authors": [
@@ -232,7 +232,7 @@
       "Amy Reines"
     ],
     "link": "https://arxiv.org/abs/2604.01297",
-    "score": 0.48576435446739197
+    "score": 0.48579075932502747
   },
   {
     "source": "gr-qc",
@@ -250,7 +250,7 @@
       "Nicolás Yunes"
     ],
     "link": "https://arxiv.org/abs/2604.02214",
-    "score": 0.48427635431289673
+    "score": 0.4843696057796478
   },
   {
     "source": "astro-ph, gr-qc",
@@ -262,7 +262,7 @@
       "Haipeng An"
     ],
     "link": "https://arxiv.org/abs/2604.01684",
-    "score": 0.4784024655818939
+    "score": 0.47873029112815857
   },
   {
     "source": "astro-ph",
@@ -274,7 +274,7 @@
       "Katerina Chatziioannou"
     ],
     "link": "https://arxiv.org/abs/2604.01420",
-    "score": 0.4734269380569458
+    "score": 0.4734337329864502
   },
   {
     "source": "astro-ph",
@@ -313,7 +313,7 @@
       "Andronikos Paliathanasis"
     ],
     "link": "https://arxiv.org/abs/2604.01713",
-    "score": 0.46391037106513977
+    "score": 0.46390199661254883
   },
   {
     "source": "astro-ph",
@@ -372,7 +372,7 @@
       "Stefano Valenti"
     ],
     "link": "https://arxiv.org/abs/2604.01405",
-    "score": 0.4512844383716583
+    "score": 0.4513583481311798
   },
   {
     "source": "astro-ph, gr-qc",
@@ -393,7 +393,7 @@
       "Teruaki Suyama"
     ],
     "link": "https://arxiv.org/abs/2604.02216",
-    "score": 0.4468609392642975
+    "score": 0.446787029504776
   },
   {
     "source": "astro-ph, gr-qc",
@@ -426,7 +426,7 @@
       "Jessica L. Aguayo"
     ],
     "link": "https://arxiv.org/abs/2604.01271",
-    "score": 0.4362514913082123
+    "score": 0.43624258041381836
   },
   {
     "source": "gr-qc",
@@ -437,7 +437,7 @@
       "Josh Kirklin"
     ],
     "link": "https://arxiv.org/abs/2604.02228",
-    "score": 0.43370407819747925
+    "score": 0.43384769558906555
   },
   {
     "source": "astro-ph",
@@ -489,7 +489,7 @@
       "Antonio Pepe"
     ],
     "link": "https://arxiv.org/abs/2604.01828",
-    "score": 0.4327097535133362
+    "score": 0.4329296946525574
   },
   {
     "source": "gr-qc",
@@ -586,7 +586,7 @@
       "Hu Zou"
     ],
     "link": "https://arxiv.org/abs/2604.01628",
-    "score": 0.42716678977012634
+    "score": 0.4272002875804901
   },
   {
     "source": "gr-qc",
@@ -599,7 +599,7 @@
       "Alberto Roper Pol"
     ],
     "link": "https://arxiv.org/abs/2604.02240",
-    "score": 0.42498311400413513
+    "score": 0.4250897467136383
   },
   {
     "source": "astro-ph",
@@ -630,6 +630,6 @@
       "Xin Zhang"
     ],
     "link": "https://arxiv.org/abs/2604.02204",
-    "score": 0.42140743136405945
+    "score": 0.4214087724685669
   }
 ]
