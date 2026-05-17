@@ -8,7 +8,7 @@
       "Debaprasad Maity"
     ],
     "link": "https://arxiv.org/abs/2605.14044",
-    "score": 0.6112019419670105
+    "score": 0.6111716628074646
   },
   {
     "source": "astro-ph",
@@ -30,7 +30,7 @@
       "Abraham Loeb"
     ],
     "link": "https://arxiv.org/abs/2605.10976",
-    "score": 0.5479340553283691
+    "score": 0.5479231476783752
   },
   {
     "source": "gr-qc",
@@ -46,7 +46,7 @@
       "Petrus J. van der Walt"
     ],
     "link": "https://arxiv.org/abs/2605.14956",
-    "score": 0.5277332663536072
+    "score": 0.5277138948440552
   },
   {
     "source": "astro-ph",
@@ -63,7 +63,7 @@
       "Angelo Ricarte"
     ],
     "link": "https://arxiv.org/abs/2605.13949",
-    "score": 0.5105360746383667
+    "score": 0.5105361342430115
   },
   {
     "source": "gr-qc",
@@ -75,7 +75,7 @@
       "R. Prix"
     ],
     "link": "https://arxiv.org/abs/2605.14728",
-    "score": 0.49637240171432495
+    "score": 0.49629753828048706
   },
   {
     "source": "astro-ph",
@@ -100,7 +100,7 @@
       "J. Mitchell"
     ],
     "link": "https://arxiv.org/abs/2605.14279",
-    "score": 0.4919145703315735
+    "score": 0.49191462993621826
   },
   {
     "source": "astro-ph, gr-qc",
@@ -113,7 +113,7 @@
       "Sotirios-Neilos Vlachos"
     ],
     "link": "https://arxiv.org/abs/2605.14797",
-    "score": 0.49167290329933167
+    "score": 0.4917649030685425
   },
   {
     "source": "gr-qc",
@@ -126,7 +126,7 @@
       "M. Zeyauddin"
     ],
     "link": "https://arxiv.org/abs/2605.14541",
-    "score": 0.48648157715797424
+    "score": 0.486481636762619
   },
   {
     "source": "astro-ph",
@@ -136,7 +136,7 @@
       "Adi Zitrin"
     ],
     "link": "https://arxiv.org/abs/2605.15189",
-    "score": 0.48423299193382263
+    "score": 0.4842330515384674
   },
   {
     "source": "astro-ph, gr-qc",
@@ -178,7 +178,7 @@
       "A. Pérez-Garrido"
     ],
     "link": "https://arxiv.org/abs/2605.14887",
-    "score": 0.472863107919693
+    "score": 0.4728412330150604
   },
   {
     "source": "gr-qc",
@@ -202,7 +202,7 @@
       "Cora Prather"
     ],
     "link": "https://arxiv.org/abs/2605.15166",
-    "score": 0.4672384560108185
+    "score": 0.4672383964061737
   },
   {
     "source": "gr-qc",
@@ -217,7 +217,7 @@
       "Rui-Hong Yue"
     ],
     "link": "https://arxiv.org/abs/2605.14528",
-    "score": 0.46541696786880493
+    "score": 0.46541693806648254
   },
   {
     "source": "gr-qc",
@@ -232,7 +232,7 @@
       "Hongwei Yu"
     ],
     "link": "https://arxiv.org/abs/2605.14711",
-    "score": 0.46429091691970825
+    "score": 0.4642268121242523
   },
   {
     "source": "astro-ph",
@@ -244,7 +244,7 @@
       "Sean M. Ressler"
     ],
     "link": "https://arxiv.org/abs/2605.14017",
-    "score": 0.4570152759552002
+    "score": 0.4569205641746521
   },
   {
     "source": "astro-ph",
@@ -269,17 +269,7 @@
       "Kelly Whalen"
     ],
     "link": "https://arxiv.org/abs/2605.13946",
-    "score": 0.4549752473831177
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2605.14410",
-    "title": "Dyonic black holes supporting nearly-black self-gravitating thin shells",
-    "authors": [
-      "Shahar Hod"
-    ],
-    "link": "https://arxiv.org/abs/2605.14410",
-    "score": 0.45418739318847656
+    "score": 0.45497527718544006
   },
   {
     "source": "gr-qc",
@@ -292,7 +282,17 @@
       "Mengyang Zhang"
     ],
     "link": "https://arxiv.org/abs/2605.13970",
-    "score": 0.45394018292427063
+    "score": 0.45428773760795593
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2605.14410",
+    "title": "Dyonic black holes supporting nearly-black self-gravitating thin shells",
+    "authors": [
+      "Shahar Hod"
+    ],
+    "link": "https://arxiv.org/abs/2605.14410",
+    "score": 0.4541873633861542
   },
   {
     "source": "gr-qc",
@@ -305,7 +305,7 @@
       "Kazuharu Bamba"
     ],
     "link": "https://arxiv.org/abs/2605.13908",
-    "score": 0.4538005590438843
+    "score": 0.4538004994392395
   },
   {
     "source": "astro-ph, gr-qc",
@@ -330,7 +330,7 @@
       "Jan Harms"
     ],
     "link": "https://arxiv.org/abs/2605.13960",
-    "score": 0.4517906606197357
+    "score": 0.4518013000488281
   },
   {
     "source": "gr-qc",
@@ -343,7 +343,7 @@
       "Alena Pravdová"
     ],
     "link": "https://arxiv.org/abs/2605.14658",
-    "score": 0.45155489444732666
+    "score": 0.45150136947631836
   },
   {
     "source": "astro-ph, gr-qc",
@@ -355,7 +355,7 @@
       "Abraham I. Harte"
     ],
     "link": "https://arxiv.org/abs/2605.14958",
-    "score": 0.449398398399353
+    "score": 0.4493984282016754
   },
   {
     "source": "gr-qc",
@@ -366,7 +366,7 @@
       "Lionel London"
     ],
     "link": "https://arxiv.org/abs/2605.14078",
-    "score": 0.44710493087768555
+    "score": 0.4471049904823303
   },
   {
     "source": "astro-ph",
@@ -379,7 +379,7 @@
       "Siming Liu"
     ],
     "link": "https://arxiv.org/abs/2605.14623",
-    "score": 0.446147620677948
+    "score": 0.4461476802825928
   },
   {
     "source": "astro-ph",
@@ -397,7 +397,7 @@
       "Samaya Nissanke"
     ],
     "link": "https://arxiv.org/abs/2605.13983",
-    "score": 0.4452739655971527
+    "score": 0.44526222348213196
   },
   {
     "source": "gr-qc",
@@ -418,7 +418,7 @@
       "Michal Zajaček"
     ],
     "link": "https://arxiv.org/abs/2605.15145",
-    "score": 0.4449838697910309
+    "score": 0.44498392939567566
   },
   {
     "source": "astro-ph, gr-qc",
@@ -429,7 +429,7 @@
       "Ruijing Tang"
     ],
     "link": "https://arxiv.org/abs/2605.13890",
-    "score": 0.4443461298942566
+    "score": 0.444346159696579
   },
   {
     "source": "astro-ph",
@@ -441,7 +441,7 @@
       "David F. Mota"
     ],
     "link": "https://arxiv.org/abs/2605.13937",
-    "score": 0.4442591667175293
+    "score": 0.4442591071128845
   },
   {
     "source": "gr-qc",
@@ -452,7 +452,7 @@
       "H.Lu"
     ],
     "link": "https://arxiv.org/abs/2605.13963",
-    "score": 0.44341081380844116
+    "score": 0.4434107840061188
   },
   {
     "source": "astro-ph",
@@ -503,6 +503,6 @@
       "Rodrigo Maier"
     ],
     "link": "https://arxiv.org/abs/2605.14027",
-    "score": 0.437368780374527
+    "score": 0.43736881017684937
   }
 ]
