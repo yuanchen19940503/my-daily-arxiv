@@ -1,9 +1,10 @@
-name: my-daily-arxiv
+name: gw-arxiv-daily
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 9 * * *'
+    - cron: '30 20 * * 0-4'
+      timezone: "America/New_York"
 
 permissions:
   contents: write
