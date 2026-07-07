@@ -1,0 +1,579 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.05208",
+    "title": "Comparing gravitational wave background predictions from cosmological simulations to pulsar timing observations",
+    "authors": [
+      "Stephanie Buttigieg",
+      "Debora Sijacki",
+      "Christopher J. Moore",
+      "Martin A. Bourne",
+      "Alberto Sesana"
+    ],
+    "link": "https://arxiv.org/abs/2607.05208",
+    "score": 0.6281616687774658
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03533",
+    "title": "Pulsar Timing Sensitivity to Dark Matter Substructure in the Presence of a Stochastic Gravitational-Wave Background",
+    "authors": [
+      "Abhiram Cherukupalli",
+      "Vincent S. H. Lee",
+      "Kim Berghaus",
+      "Kathryn M. Zurek"
+    ],
+    "link": "https://arxiv.org/abs/2607.03533",
+    "score": 0.5941030383110046
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.04663",
+    "title": "Exploring Hierarchical Merger Scenarios for GW241011 and GW241110",
+    "authors": [
+      "Lei He",
+      "Liang-Gui Zhu",
+      "Zheng-Yan Liu",
+      "Rui Niu",
+      "Chao Wei",
+      "Ken Chen",
+      "Wen Zhao"
+    ],
+    "link": "https://arxiv.org/abs/2607.04663",
+    "score": 0.5698853731155396
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.02935",
+    "title": "Decoherence Effects on Primordial Black Holes and Scalar-Induced Gravitational Waves",
+    "authors": [
+      "Waqas Ahmed"
+    ],
+    "link": "https://arxiv.org/abs/2607.02935",
+    "score": 0.5676723718643188
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03674",
+    "title": "A population of LIGO-Virgo-KAGRA mergers happening inside active galactic nuclei",
+    "authors": [
+      "Dhruv Kumar",
+      "Alejandro Torres-Orjuela"
+    ],
+    "link": "https://arxiv.org/abs/2607.03674",
+    "score": 0.5632771849632263
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03560",
+    "title": "Black Hole Memory Burden and its Signatures in Gravitational Waves from Mergers",
+    "authors": [
+      "Gia Dvali",
+      "Michael Zantedeschi",
+      "Sebastian Zell"
+    ],
+    "link": "https://arxiv.org/abs/2607.03560",
+    "score": 0.5565061569213867
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.05331",
+    "title": "Modeling Uncertainties in Modified Gravity Predictions for the Stochastic Gravitational-Wave Background",
+    "authors": [
+      "Rodrigo Fraga",
+      "Rafael C. Nunes"
+    ],
+    "link": "https://arxiv.org/abs/2607.05331",
+    "score": 0.5558556914329529
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03714",
+    "title": "Equatorial periodic orbits and gravitational waveforms in Bardeen black holes surrounded by perfect fluid dark matter",
+    "authors": [
+      "Sohan Kumar Jha"
+    ],
+    "link": "https://arxiv.org/abs/2607.03714",
+    "score": 0.5508657693862915
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03138",
+    "title": "Evading the CMB $μ$-distortion bound on Supermassive Primordial Black Hole seeds with Non-Gaussian tails",
+    "authors": [
+      "Sanket Dave",
+      "Sheng-Feng Yan",
+      "Amara Ilyas",
+      "Yi-Fu Cai"
+    ],
+    "link": "https://arxiv.org/abs/2607.03138",
+    "score": 0.5496921539306641
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03904",
+    "title": "Transformers with Physics-Informed Encodings and Simulation-Based Inference for Robust Detection of Eccentric Binary Black Holes in Pulsar Timing Array Data",
+    "authors": [
+      "Subhajit Dandapat",
+      "Alvin J. K. Chua"
+    ],
+    "link": "https://arxiv.org/abs/2607.03904",
+    "score": 0.5398299098014832
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04909",
+    "title": "A stepping stone toward detecting gravitational wave memory: a cumulative analysis with the full $(\\ell=2, m=0)$ spherical harmonic using events from GWTC-4.0 and GWTC-5.0",
+    "authors": [
+      "Maria Rosselló-Sastre",
+      "Sascha Husa",
+      "Yumeng Xu",
+      "Jorge Valencia",
+      "Joan Llobera-Querol",
+      "Antoni Ramos-Buades"
+    ],
+    "link": "https://arxiv.org/abs/2607.04909",
+    "score": 0.5318660736083984
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03536",
+    "title": "Pebbles to Gems: Intermediate-mass black holes in the first star clusters",
+    "authors": [
+      "Benedetta Mestichelli",
+      "Manuel Arca Sedda",
+      "Marta Volonteri",
+      "Michela Mapelli",
+      "Stefano Torniamenti",
+      "Alessandro Lupi",
+      "Marica Branchesi",
+      "Shingo Hirano",
+      "Tomoaki Ishiyama",
+      "Ralf S. Klessen",
+      "Veronika Lipatova",
+      "Boyuan Liu"
+    ],
+    "link": "https://arxiv.org/abs/2607.03536",
+    "score": 0.5231630206108093
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03885",
+    "title": "Identifying lensed gravitational waves with physics-informed posterior learning",
+    "authors": [
+      "Tian-Yang Sun",
+      "Xiao Guo",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2607.03885",
+    "score": 0.5115618109703064
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04762",
+    "title": "Measurability of Quadrupole Deviations from Kerr in Binary black hole Mergers",
+    "authors": [
+      "Song Li",
+      "Wen-Biao Han"
+    ],
+    "link": "https://arxiv.org/abs/2607.04762",
+    "score": 0.5115432143211365
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03514",
+    "title": "Disentangling modified gravity and galaxy bias with field-level inference",
+    "authors": [
+      "Sophie Hoyland",
+      "Daniela Saadeh",
+      "Kazuya Koyama",
+      "Harry Desmond"
+    ],
+    "link": "https://arxiv.org/abs/2607.03514",
+    "score": 0.5114772915840149
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03345",
+    "title": "Strong-lensing effects in high-redshift massive black-hole binary population inference",
+    "authors": [
+      "Yan-Heng Jin",
+      "Wen-Biao Han"
+    ],
+    "link": "https://arxiv.org/abs/2607.03345",
+    "score": 0.509615421295166
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03147",
+    "title": "A steep mass transition for bar-driven ISM structuring revealed by PHANGS-JWST",
+    "authors": [
+      "Eric Emsellem",
+      "Jessica Sutter",
+      "Ryan Chown",
+      "Adam Leroy",
+      "Debosmita Pathak",
+      "Eva Schinnerer",
+      "Thomas Williams",
+      "Karin Sandstrom",
+      "Oscar Agertz",
+      "Francesco Belfiore",
+      "Amelia Fraser-McKelvie",
+      "Kirsten Larson",
+      "Janice Lee",
+      "Jay Gonzàlez Lobos",
+      "Sharon Meidt",
+      "Miguel Querejeta",
+      "Sophia Stuber",
+      "Pierrick Verwilghen",
+      "Oleg Egorov",
+      "Damian Gleis",
+      "Jonathan Henshaw",
+      "Justus Neumann",
+      "Yixian Cao",
+      "Daniel Dale",
+      "Daizhong Liu",
+      "Elias Oakes",
+      "Marina Ruiz Garcìa",
+      "Dave Thilker",
+      "Elizabeth Watkins"
+    ],
+    "link": "https://arxiv.org/abs/2607.03147",
+    "score": 0.5072143077850342
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03673",
+    "title": "Additional Observational Signatures of Asymmetric Thin-Shell Wormholes within 4D Einstein-Gauss-Bonnet Gravity",
+    "authors": [
+      "J. Song",
+      "X.G.Lan"
+    ],
+    "link": "https://arxiv.org/abs/2607.03673",
+    "score": 0.5071196556091309
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03231",
+    "title": "Odd-parity ringdown gravitational waves of a spherically symmetric black hole with perfect fluid accretion",
+    "authors": [
+      "Rikuto Ohashi",
+      "Yasutaka Koga",
+      "Hiroyuki Nakano",
+      "Kota Ogasawara",
+      "Chul-Moon Yoo"
+    ],
+    "link": "https://arxiv.org/abs/2607.03231",
+    "score": 0.4960920512676239
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04238",
+    "title": "Tests of general relativity using analytic derivatives of parametrized post-Einsteinian gravitational waveforms within the Fisher-matrix framework",
+    "authors": [
+      "Jie Wu",
+      "Mengfei Sun",
+      "Jin Li"
+    ],
+    "link": "https://arxiv.org/abs/2607.04238",
+    "score": 0.4932848811149597
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.02792",
+    "title": "Interacting Holographic Dark Energy in $f(Q)$ Gravity: Cosmological Evolution and Gravitational Wave Signatures",
+    "authors": [
+      "N. Amiriborkhani",
+      "Alireza Amani",
+      "M. A. Ramzanpour"
+    ],
+    "link": "https://arxiv.org/abs/2607.02792",
+    "score": 0.49092337489128113
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03879",
+    "title": "Radiated Energy Spectrum, Radiated Angular Distribution and Non-linear Memory from the One-loop Gravitational Bremsstrahlung Waveform",
+    "authors": [
+      "Donato Bini",
+      "Thibault Damour",
+      "Stefano De Angelis",
+      "Andrea Geralico"
+    ],
+    "link": "https://arxiv.org/abs/2607.03879",
+    "score": 0.49036332964897156
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03045",
+    "title": "nmma: An extended Bayesian framework for Nuclear Multimessenger Astronomy in the Era of Next-Generation Detectors",
+    "authors": [
+      "Henrik Rose",
+      "Hauke Koehn",
+      "Thibeau Wouters",
+      "Peter T. H. Pang",
+      "Mattia Bulla",
+      "Michael W. Coughlin",
+      "Tim Dietrich"
+    ],
+    "link": "https://arxiv.org/abs/2607.03045",
+    "score": 0.4898417592048645
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03434",
+    "title": "Berry Picking: Random Wave Chaos Hierarchy for BPS Microstate Geometries",
+    "authors": [
+      "Vladan Djukić",
+      "Milica Stepanović",
+      "Mihailo Čubrović"
+    ],
+    "link": "https://arxiv.org/abs/2607.03434",
+    "score": 0.4885430335998535
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03840",
+    "title": "Neutron stars with an agnostic Dark sector: Core and Halo configurations from a two-fluid approach",
+    "authors": [
+      "Asit karan",
+      "Asim Kumar Saha",
+      "Tuhin Malik",
+      "Constança Providência",
+      "Ritam Mallick"
+    ],
+    "link": "https://arxiv.org/abs/2607.03840",
+    "score": 0.4863923490047455
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.02597",
+    "title": "Probing Neutron Star Interiors and the Properties of Cold Ultra-dense Matter with the SKAO",
+    "authors": [
+      "Avishek Basu",
+      "Vanessa Graber",
+      "Marcus E. Lower",
+      "Marco Antonelli",
+      "Danai Antonopoulou",
+      "Manjari Bagchi",
+      "Prasanta Char",
+      "Paulo C. C. Freire",
+      "Brynmor Haskell",
+      "Huanchen Hu",
+      "David I. Jones",
+      "Banibrata Mukhopadhyay",
+      "Micaela Oertel",
+      "Nanda Rea",
+      "Violetta Sagun",
+      "Benjamin Shaw",
+      "Jaikhomba Singha",
+      "Benjamin W. Stappers",
+      "Tinn Thongmeearkom",
+      "Anna L. Watts",
+      "Patrick Weltevrede",
+      "SKA Pulsar Science Working Group"
+    ],
+    "link": "https://arxiv.org/abs/2607.02597",
+    "score": 0.48265311121940613
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03938",
+    "title": "On the structure of black hole interior in a model of scalar quasi-particles within the GR framework",
+    "authors": [
+      "S.Bondarenko"
+    ],
+    "link": "https://arxiv.org/abs/2607.03938",
+    "score": 0.4824094772338867
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.05367",
+    "title": "Investigating a Possible Variation of the Gravitational Constant Through Gas Mass Fraction Measurements and Type Ia Supernovae Observations",
+    "authors": [
+      "L. R. Colaço",
+      "R. F. L. Holanda",
+      "Marcelo Ferreira"
+    ],
+    "link": "https://arxiv.org/abs/2607.05367",
+    "score": 0.4795653522014618
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04799",
+    "title": "Chaotic particle dynamics near a traversable wormhole throat",
+    "authors": [
+      "Xin Zhao",
+      "Xing-Kun Zhang",
+      "Ya-Peng Hu",
+      "Yu-Sen An"
+    ],
+    "link": "https://arxiv.org/abs/2607.04799",
+    "score": 0.47910240292549133
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03619",
+    "title": "Archival Diagnostics for Potential Background Contaminantsof Project Hephaistos Dyson Sphere Candidates",
+    "authors": [
+      "Tongtian Ren",
+      "Michael A. Garrett",
+      "Erik Zackrisson",
+      "Andreas J. Korn",
+      "Andrew P. V. Siemion",
+      "Jason T. Wright",
+      "Alexis Brandeker"
+    ],
+    "link": "https://arxiv.org/abs/2607.03619",
+    "score": 0.47732657194137573
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.02641",
+    "title": "A Shock-based Interpretation of Radio and X-ray Emission in Active Galactic Nuclei",
+    "authors": [
+      "Fan Wu",
+      "Benzhong Dai"
+    ],
+    "link": "https://arxiv.org/abs/2607.02641",
+    "score": 0.47483816742897034
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.02889",
+    "title": "Distinguishing wormholes via Einstein rings and global curvature",
+    "authors": [
+      "M. B. Cruz",
+      "C. R. Muniz",
+      "R. M. P. Neves",
+      "Jonathan A. Rebouças"
+    ],
+    "link": "https://arxiv.org/abs/2607.02889",
+    "score": 0.4743351936340332
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.03344",
+    "title": "Falling through the horizon of a quantum black hole",
+    "authors": [
+      "Victor Franken",
+      "Thomas G. Mertens",
+      "Bruno de S. L. Torres"
+    ],
+    "link": "https://arxiv.org/abs/2607.03344",
+    "score": 0.47259414196014404
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.05182",
+    "title": "Spectropolarimetric detection of baryonic mass loading in a transient relativistic jet: application to the black hole X-ray binary Swift J1727.8$-$1613",
+    "authors": [
+      "A. K. Hughes",
+      "R. P. Fender",
+      "G. R. Sivakoff",
+      "F. J. Cowie",
+      "I. Heywood",
+      "J. H. Matthews",
+      "K. Savard",
+      "F. Carotenuto",
+      "T. D. Russell",
+      "C. M. Wood",
+      "M. C. Baglio",
+      "S. Corbel",
+      "S. E. Motta"
+    ],
+    "link": "https://arxiv.org/abs/2607.05182",
+    "score": 0.46837395429611206
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.02651",
+    "title": "First Search for Kaluza-Klein Gravitons and Radion Using Planck Data",
+    "authors": [
+      "Alexander P. Cassem",
+      "Soubhik Kumar"
+    ],
+    "link": "https://arxiv.org/abs/2607.02651",
+    "score": 0.4639151394367218
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.04642",
+    "title": "Beyond the Bounce: Multiple Tidal Sign Reversals and Turning-Point Bifurcations in Multi-Horizon Black Holes",
+    "authors": [
+      "Mohammad Ali S. Afshar",
+      "J. Sadeghi"
+    ],
+    "link": "https://arxiv.org/abs/2607.04642",
+    "score": 0.46249693632125854
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.04893",
+    "title": "Collisionless damping of the gravitational instability in fuzzy dark matter: spectral shape and quantum-to-thermal crossover",
+    "authors": [
+      "Yosuke Matsumoto",
+      "Kohji Yoshikawa",
+      "Naoki Yoshida"
+    ],
+    "link": "https://arxiv.org/abs/2607.04893",
+    "score": 0.46085983514785767
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03059",
+    "title": "The SKAO Pulsar Timing Array",
+    "authors": [
+      "Ryan M. Shannon",
+      "N. D. Ramesh Bhat",
+      "Aurélien Chalumeau",
+      "Siyuan Chen",
+      "H. Thankful Cromartie",
+      "A. Gopakumar",
+      "Kathrin Grunthal",
+      "Jeffrey S. Hazboun",
+      "Francesco Iraci",
+      "Bhal Chandra Joshi",
+      "Ryo Kato",
+      "Michael J. Keith",
+      "Kejia Lee",
+      "Kuo Liu",
+      "Hannah Middleton",
+      "Matthew T. Miles",
+      "Chiara M. F. Mingarelli",
+      "Aditya Parthasarathy",
+      "Daniel J. Reardon",
+      "Golam M. Shaifullah",
+      "Keitaro Takahashi",
+      "Caterina Tiburzi",
+      "Riccardo J. Truant",
+      "Xiao Xue",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2607.03059",
+    "score": 0.4606773555278778
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.03537",
+    "title": "Gravitational Wave Signatures of Cosmological Stasis: A Unified Spectral Template",
+    "authors": [
+      "Gabriela Barenboim",
+      "Anne-Katherine Burns"
+    ],
+    "link": "https://arxiv.org/abs/2607.03537",
+    "score": 0.459297239780426
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.03291",
+    "title": "Physically motivated AGN emissivity profiles and their effects on quasar microlensing signatures. 1. Multi-epoch accretion disc size inference",
+    "authors": [
+      "Scott Hagen",
+      "Carina Fian"
+    ],
+    "link": "https://arxiv.org/abs/2607.03291",
+    "score": 0.4585804343223572
+  }
+]
