@@ -1,0 +1,742 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20423",
+    "title": "Primordial black holes forming during kination: the trapped, the overdense, and the void",
+    "authors": [
+      "Cristian Joana"
+    ],
+    "link": "https://arxiv.org/abs/2607.20423",
+    "score": 0.5550621151924133
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19805",
+    "title": "Circular-orbit dynamics and QPO constraints in static Einstein--scalar--Gauss--Bonnet black holes",
+    "authors": [
+      "Sardor Murodov",
+      "Bekzod Rahmatov",
+      "Otabek Umarov",
+      "Anvar Kurbaniyazov",
+      "Faisal Javed",
+      "Javlon Rayimbaev"
+    ],
+    "link": "https://arxiv.org/abs/2607.19805",
+    "score": 0.5322132706642151
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20413",
+    "title": "The road towards precision measurements of $H_0$ with bright sirens in the Einstein Telescope era",
+    "authors": [
+      "Chiara De Leo",
+      "Elsa M. Teixeira",
+      "Vivian Poulin"
+    ],
+    "link": "https://arxiv.org/abs/2607.20413",
+    "score": 0.5153352618217468
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20340",
+    "title": "Monopoles, Strings, Walls and Gravitational waves",
+    "authors": [
+      "Rinku Maji",
+      "Qaisar Shafi"
+    ],
+    "link": "https://arxiv.org/abs/2607.20340",
+    "score": 0.5111390352249146
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19492",
+    "title": "Schrödinger perturbation theory for black hole quasinormal modes",
+    "authors": [
+      "Jacopo Lestingi",
+      "Laura Sberna",
+      "Stephen R. Green"
+    ],
+    "link": "https://arxiv.org/abs/2607.19492",
+    "score": 0.4991966485977173
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19958",
+    "title": "What may come beyond the Wheeler-DeWitt approach?",
+    "authors": [
+      "T. P. Shestakova"
+    ],
+    "link": "https://arxiv.org/abs/2607.19958",
+    "score": 0.494640976190567
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20006",
+    "title": "LMC-induced Perturbations in the Milky Way Halo II: Bridging Field-level Inference and Summary-level Simulation-Based Inference",
+    "authors": [
+      "Yanjun Sheng",
+      "Yuan-Sen Ting",
+      "Tomasz Różański",
+      "Xiang-Xiang Xue",
+      "Roland M. Crocker",
+      "Jiashu Pan"
+    ],
+    "link": "https://arxiv.org/abs/2607.20006",
+    "score": 0.49381765723228455
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19972",
+    "title": "Constraints on the VHE counterpart of two binary black hole mergers observed by the MAGIC and CTAO LST-1 telescopes",
+    "authors": [
+      "K. Abe",
+      "S. Abe",
+      "J. Abhir",
+      "A. Abhishek",
+      "V. A. Acciari",
+      "F. Acero",
+      "A. Aguasca-Cabot",
+      "I. Agudo",
+      "I. Albanese",
+      "D. Ambrosino",
+      "F. Ambrosino",
+      "T. Aniello",
+      "S. Ansoldi",
+      "L. A. Antonelli",
+      "C. Aramo",
+      "C. Arauner",
+      "A. Arbet-Engels",
+      "C. Arcaro",
+      "T.T.H. Arnesen",
+      "P. Aubert",
+      "A. Babić",
+      "C. Bakshi",
+      "A. Baktash",
+      "M. Balbo",
+      "A. Bamba",
+      "A. Baquero Larriva",
+      "U. Barres de Almeida",
+      "J. A. Barrio",
+      "L. Barrios Jiménez",
+      "I. Batkovic",
+      "J. Baxter",
+      "J. Becerra González",
+      "W. Bednarek",
+      "E. Bernardini",
+      "J. Bernete",
+      "A. Berti",
+      "J. Besenrieder",
+      "C. Bigongiari",
+      "A. Biland",
+      "E. Bissaldi",
+      "O. Blanch",
+      "Ž",
+      ". Bošnjak",
+      "G. Bonnoli",
+      "P. Bordas",
+      "L. Breton-Zaourat",
+      "A. Briscioli",
+      "E. Bronzini",
+      "G. Brunelli",
+      "J. Buces",
+      "A. Bulgarelli",
+      "I. Burelli",
+      "L. Burmistrov",
+      "C. Campa",
+      "A. Campoy-Ordaz",
+      "M. Cardillo",
+      "S. Caroff",
+      "A. Carosi",
+      "R. Carosi",
+      "R. Carraro",
+      "M. Carretero-Castrillo",
+      "F. Cassol",
+      "A. J. Castro-Tirado",
+      "D. Cerasole",
+      "G. Ceribella",
+      "A. Cerviño Cortínez",
+      "Y. Chai",
+      "A. Chiavassa",
+      "A. Chilingarian",
+      "G. Chon",
+      "L. Chytka",
+      "G. M. Cicciari",
+      "A. Cifuentes Santos",
+      "J. L. Contreras",
+      "J. Cortina",
+      "H. Costantini",
+      "S. Covino",
+      "M. Croisonnier",
+      "G. D'Amico",
+      "P. Da Vela",
+      "M. Dalchenko",
+      "F. Dazzi",
+      "A. De Angelis",
+      "M. de Bony de Lavergne",
+      "B. De Lotto",
+      "R. de Menezes",
+      "G. De Palma",
+      "V. de Souza",
+      "R. Del Burgo",
+      "L. Del Peral",
+      "M. Delfino",
+      "C. Delgado Mendez",
+      "J. Delgado Mengual",
+      "D. della Volpe",
+      "L. Di Bella",
+      "C. Di Domenico",
+      "A. Di Piano",
+      "F. Di Pierro",
+      "R. Di Tria",
+      "L. Di Venere"
+    ],
+    "link": "https://arxiv.org/abs/2607.19972",
+    "score": 0.4817497134208679
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20262",
+    "title": "Testing dark matter density profiles based on Padé approximants of different orders",
+    "authors": [
+      "Talgar Konysbayev",
+      "Orlando Luongo",
+      "Marco Muccino",
+      "Yergali Kurmanov",
+      "Kuantay Boshkayev",
+      "Gulnara Suliyeva",
+      "Ainur Urazalina",
+      "Guldana Rabigulova"
+    ],
+    "link": "https://arxiv.org/abs/2607.20262",
+    "score": 0.47632279992103577
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19598",
+    "title": "Shock cooling emission from late-time mass loss in low-mass He star binaries",
+    "authors": [
+      "Samantha C. Wu",
+      "Anthony L. Piro"
+    ],
+    "link": "https://arxiv.org/abs/2607.19598",
+    "score": 0.4750368893146515
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.20312",
+    "title": "Higher Superspace Supergravity and its IR-Completions",
+    "authors": [
+      "Grigorios Giotopoulos",
+      "Hisham Sati",
+      "Urs Schreiber"
+    ],
+    "link": "https://arxiv.org/abs/2607.20312",
+    "score": 0.47165539860725403
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19915",
+    "title": "QCD CP-violation scenario for a revised cosmological dynamics: analysis of the binned Pantheon Sample of Super Novae Ia",
+    "authors": [
+      "Giovanni Montani",
+      "Nakia Carlevaro",
+      "Maria Giovanna Dainotti",
+      "Eleonora Giovannetti"
+    ],
+    "link": "https://arxiv.org/abs/2607.19915",
+    "score": 0.4713045358657837
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19657",
+    "title": "On the geometrical and dynamical distinction between Unimodular and General Relativistic wormholes",
+    "authors": [
+      "Marco Bosquez",
+      "Erick Pastén",
+      "Mauricio Cataldo",
+      "Norman Cruz"
+    ],
+    "link": "https://arxiv.org/abs/2607.19657",
+    "score": 0.46910959482192993
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19748",
+    "title": "Resolved Maxwell-Boundary Normal Forms and Exact Reentrant Scaling in Accelerating AdS Black Holes",
+    "authors": [
+      "Ruiliang Li"
+    ],
+    "link": "https://arxiv.org/abs/2607.19748",
+    "score": 0.46205195784568787
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19491",
+    "title": "Rapid growth in a dual AGN during a gas-rich merger at z~4.5",
+    "authors": [
+      "Hyewon Suh",
+      "Roberto Decarli",
+      "Emanuele Paolo Farina",
+      "Julia Scharwächter",
+      "Mar Mezcua",
+      "Giorgio Lanzuisi",
+      "Federica Loiacono",
+      "Brian C. Lemaux",
+      "Sukyoung K. Yi",
+      "Stefano Marchesi",
+      "Marta Volonteri",
+      "Günther Hasinger",
+      "Francesca Civano",
+      "Anniek Gloudemans",
+      "Ena Choi",
+      "Yeonwoo Nam",
+      "Adi Foord",
+      "Silvia Onorato"
+    ],
+    "link": "https://arxiv.org/abs/2607.19491",
+    "score": 0.45697134733200073
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.20348",
+    "title": "Beyond $j=1$: Observational Constraints on Almost-$Λ$CDM Cosmologies",
+    "authors": [
+      "Jess Worsley",
+      "Saikat Chakraborty",
+      "Peter Dunsby"
+    ],
+    "link": "https://arxiv.org/abs/2607.20348",
+    "score": 0.4530501365661621
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.20320",
+    "title": "Interacting Dark Energy and Dark Matter in O(3) No-Scale Gravity",
+    "authors": [
+      "Lincoln da S. Pereira",
+      "Muzi Hong",
+      "Elisa G. M. Ferreira",
+      "Tsutomu T. Yanagida"
+    ],
+    "link": "https://arxiv.org/abs/2607.20320",
+    "score": 0.45068851113319397
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20394",
+    "title": "Gas accretion onto the Milky Way: high-velocity cloud survival and the revival of the terminal-velocity paradigm",
+    "authors": [
+      "Michael M. Schulreich",
+      "Dieter Breitschwerdt",
+      "Jürgen Kerp"
+    ],
+    "link": "https://arxiv.org/abs/2607.20394",
+    "score": 0.4488160312175751
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.20112",
+    "title": "Cosmological horizon thermodynamics in Gauss-Bonnet quasi-dilaton Massive Gravity",
+    "authors": [
+      "Sobhan Kazempour",
+      "Orlando Luongo",
+      "Sabahat",
+      "Sichun Sun",
+      "Chengye Yu"
+    ],
+    "link": "https://arxiv.org/abs/2607.20112",
+    "score": 0.44605252146720886
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19501",
+    "title": "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia",
+    "authors": [
+      "Ilija Medan",
+      "Keivan G. Stassun",
+      "Zachary Way",
+      "Guy S. Stringfellow",
+      "Alexandre Roman-Lopes",
+      "Jiadong Li",
+      "Madeline Lucey",
+      "Andrew R. Casey",
+      "Bárbara Rojas-Ayala",
+      "Ricardo López-Valdivia",
+      "José G. Fernández-Trincado"
+    ],
+    "link": "https://arxiv.org/abs/2607.19501",
+    "score": 0.44486889243125916
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20080",
+    "title": "Galactic Science with the LiteBIRD satellite: Spectral characterization of diffuse Galactic polarized emission at the angular power spectrum level",
+    "authors": [
+      "S. Vinzl",
+      "J. Aumont",
+      "L. Vacher",
+      "R. T. Génova-Santos",
+      "D. Adak",
+      "A. Rizzieri",
+      "H. Akamatsu",
+      "E. Allys",
+      "A. Anand",
+      "C. Baccigalupi",
+      "M. Ballardini",
+      "A. J. Banday",
+      "R. B. Barreiro",
+      "N. Bartolo",
+      "S. Basak",
+      "A. Basyrov",
+      "M. Bersanelli",
+      "N. Brancadori",
+      "T. Brinckmann",
+      "E. Calabrese",
+      "P. Campeti",
+      "A. Carones",
+      "F. Carralot",
+      "F. J. Casas",
+      "J. Chandran",
+      "M. Citran",
+      "F. Columbro",
+      "A. Coppolecchia",
+      "P. de Bernardis",
+      "E. de la Hoz",
+      "M. De Lucia",
+      "S. Della Torre",
+      "C. Dickinson",
+      "P. Diego-Palazuelos",
+      "K. Ebisawa",
+      "H. K. Eriksen",
+      "J. Errard",
+      "F. Finelli",
+      "C. Franceschet",
+      "U. Fuskeland",
+      "G. Galloni",
+      "M. Galloway",
+      "M. Gerbino",
+      "M. Gervasi",
+      "T. Ghigna",
+      "S. Giardiello",
+      "E. Gjerløw",
+      "M. Gomes",
+      "S. E. Harper",
+      "L. T. Hergt",
+      "E. Hivon",
+      "H. Ishino",
+      "K. Kikuno",
+      "K. Kohri",
+      "N. Krachmalnicoff",
+      "L. Lamagna",
+      "M. Lattanzi",
+      "C. Leloup",
+      "F. Levrier",
+      "A. I. Lonappan",
+      "M. López-Caniego",
+      "G. Luzzi",
+      "D. Maino",
+      "V. Maranchery",
+      "S. Masi",
+      "S. Matarrese",
+      "T. Matsumura",
+      "S. Micheli",
+      "M. Migliaccio",
+      "M. Monelli",
+      "L. Montier",
+      "G. Morgante",
+      "L. Mousset",
+      "R. Nagata",
+      "T. Namikawa",
+      "P. Natoli",
+      "A. Occhiuzzi",
+      "L. Pagano",
+      "A. Paiella",
+      "D. Paoletti",
+      "G. Pascual-Cisneros",
+      "G. Patanchon",
+      "V. Pavlidou",
+      "V. Pelgrims",
+      "F. Piacentini",
+      "G. Piccirilli",
+      "M. Pinchera",
+      "G. Polenta",
+      "L. Porcelli",
+      "M. Remazeilles",
+      "J. A. Rubiño-Martín",
+      "M. Ruiz-Granda",
+      "Y. Sakurai",
+      "L. Salvati",
+      "J. Sanghavi",
+      "V. Sauvage",
+      "Y. Sekimoto",
+      "M. Shiraishi",
+      "S. Stellati",
+      "R. M. Sullivan"
+    ],
+    "link": "https://arxiv.org/abs/2607.20080",
+    "score": 0.44432955980300903
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20375",
+    "title": "Probing the High-Energy Emission of the VHE-emitting Changing-Look Blazar B2 1420+32",
+    "authors": [
+      "Anjum Peer",
+      "Zahir Shah",
+      "Sikandar Akbar",
+      "Bari Maqbool",
+      "Ranjeev Misra"
+    ],
+    "link": "https://arxiv.org/abs/2607.20375",
+    "score": 0.44346848130226135
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19471",
+    "title": "The first dusty galaxies across $6 \\lesssim z \\lesssim 14$: Blue monsters, red monsters, and the bimodality of dust content in early galaxies",
+    "authors": [
+      "Sergio Martínez-González",
+      "Casiana Muñoz-Tuñón",
+      "Santiago Jiménez"
+    ],
+    "link": "https://arxiv.org/abs/2607.19471",
+    "score": 0.4423765242099762
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19540",
+    "title": "Swing amplification in star-gas disks",
+    "authors": [
+      "Abhishek Hegade K. R.",
+      "Chris Hamilton"
+    ],
+    "link": "https://arxiv.org/abs/2607.19540",
+    "score": 0.4409407079219818
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19602",
+    "title": "Quantum Gravity Simulation: Quantum simulation with a minimum length based on the generalised uncertainty principle",
+    "authors": [
+      "Jack Keable-Elliott",
+      "David J. Bacon",
+      "Andrew Burbanks",
+      "Jaewoo Joo"
+    ],
+    "link": "https://arxiv.org/abs/2607.19602",
+    "score": 0.4399781823158264
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19473",
+    "title": "The GOLIATH Survey: OVI Absorption Reveals CGM Evolution through the Starburst-to-Quiescent Transition in Massive Galaxies",
+    "authors": [
+      "Derick Flores",
+      "Rongmon Bordoloi",
+      "Jason Tumlinson",
+      "J. Christopher Howk",
+      "Nicolas Lehner",
+      "Mary Rickel",
+      "Benjamin Oppenheimer",
+      "Joseph Burchett",
+      "Ahmed Shaban",
+      "John O'Meara",
+      "Andrew Fox",
+      "J. Xavier Prochaska",
+      "Simon Xinlin Wu",
+      "Jack Higginson",
+      "Robert A. Simcoe"
+    ],
+    "link": "https://arxiv.org/abs/2607.19473",
+    "score": 0.4393426775932312
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19478",
+    "title": "A pilot sample of Planck-selected strongly lensed sub-mm galaxies: NOEMA observations and physical characterisation",
+    "authors": [
+      "Leonardo Trobbiani",
+      "Matteo Bonato",
+      "Ivano Baronchelli",
+      "Gianfranco De Zotti",
+      "Mattia Negrello",
+      "Marika Giulietti",
+      "Cristian Vignali",
+      "Marcella Massardi"
+    ],
+    "link": "https://arxiv.org/abs/2607.19478",
+    "score": 0.43794214725494385
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20123",
+    "title": "Modeling the HI-Halo Connection: Evolution, Scatter, and a Halo-based Prescription for 21-cm Mock Catalogs",
+    "authors": [
+      "Mohd Kamran",
+      "Gabriella De Lucia",
+      "Marta Spinelli",
+      "Lizhi Xie",
+      "Fabio Fontanot",
+      "Michaela Hirschmann"
+    ],
+    "link": "https://arxiv.org/abs/2607.20123",
+    "score": 0.43782535195350647
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19428",
+    "title": "Clarifying Dead Quasars and Downsizing through the Evolution of Star-Forming Galaxies and Active Galactic Nuclei",
+    "authors": [
+      "Shingo Sumie"
+    ],
+    "link": "https://arxiv.org/abs/2607.19428",
+    "score": 0.4355301558971405
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19459",
+    "title": "Strong Gravitational Lensing Posterior Sampling in Pixel-Space Using Diffusion Models and Recurrent Inference Machines",
+    "authors": [
+      "Guillaume Payeur",
+      "Laurence Perreault-Levasseur",
+      "Gabriel Missael Barco",
+      "Yashar Hezaveh"
+    ],
+    "link": "https://arxiv.org/abs/2607.19459",
+    "score": 0.4353848397731781
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.20107",
+    "title": "Intermittency in Quantum Graviton-Phonon Conversion",
+    "authors": [
+      "Yuna Gouin",
+      "Sugumi Kanno",
+      "Jiro Soda"
+    ],
+    "link": "https://arxiv.org/abs/2607.20107",
+    "score": 0.4348532557487488
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2607.19983",
+    "title": "Noise reduction in suspension control with photon-pressure actuator for CHRONOS gravitational wave detector",
+    "authors": [
+      "Daiki Tanabe",
+      "Yuki Inoue",
+      "Mario Juvenal S. Onglao III"
+    ],
+    "link": "https://arxiv.org/abs/2607.19983",
+    "score": 0.434736430644989
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20314",
+    "title": "Long-lived intermittent accretion disks in the jittering jets explosion mechanism (JJEM) of core-collapse supernovae",
+    "authors": [
+      "Noam Soker"
+    ],
+    "link": "https://arxiv.org/abs/2607.20314",
+    "score": 0.433739572763443
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.20233",
+    "title": "Identifying Kilonovae in the Presence of Optical Afterglow for the Wide-Field Survey Telescope",
+    "authors": [
+      "Huan Yang",
+      "Zhengyan Liu",
+      "Liang-Duan Liu",
+      "Wen Zhao",
+      "Zigao Dai"
+    ],
+    "link": "https://arxiv.org/abs/2607.20233",
+    "score": 0.43284738063812256
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19869",
+    "title": "Peculiar Behavior of Optical Polarization in Blazar 1ES 1959+650: Role of Jet Magnetic Field and Geometry",
+    "authors": [
+      "A. Singh",
+      "A. Tolamatti",
+      "K. K. Singh",
+      "A. C. Gupta",
+      "K. K. Yadav"
+    ],
+    "link": "https://arxiv.org/abs/2607.19869",
+    "score": 0.43168389797210693
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19970",
+    "title": "Nebular continuum in high-redshift galaxies with JWST",
+    "authors": [
+      "Henrique Miranda",
+      "Ciro Pappalardo",
+      "José Afonso",
+      "Polychronis Papaderos",
+      "Rodrigo Carvajal"
+    ],
+    "link": "https://arxiv.org/abs/2607.19970",
+    "score": 0.43067681789398193
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2607.19755",
+    "title": "Instability of regular black holes in non-minimally coupled scalar field theories: an analytical approach",
+    "authors": [
+      "Majid Karimabadi",
+      "Davood Mahdavian Yekta",
+      "S. A. Alavi"
+    ],
+    "link": "https://arxiv.org/abs/2607.19755",
+    "score": 0.43066591024398804
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19494",
+    "title": "The silent dark sector: a field-theory approach to unified dark fluids with vanishing speed of sound",
+    "authors": [
+      "Javier de Cruz Pérez",
+      "Darío Jaramillo-Garrido",
+      "Antonio L. Maroto",
+      "Prado Martín-Moruno"
+    ],
+    "link": "https://arxiv.org/abs/2607.19494",
+    "score": 0.4301975667476654
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19735",
+    "title": "One cluster, two clusters, no cluster? -- The curious case of HSC 2686 and Lynga 3",
+    "authors": [
+      "Andreas Ritter",
+      "Quentin A. Parker",
+      "Xizhe Xie",
+      "Xingyi Guo"
+    ],
+    "link": "https://arxiv.org/abs/2607.19735",
+    "score": 0.43008410930633545
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2607.19640",
+    "title": "AGNFormer I: Reconstruction of AGN spectra using a probabilistic transformer model",
+    "authors": [
+      "Benedict L. Rouse",
+      "Franz E. Bauer",
+      "Tomasz Różański",
+      "Guillermo Cabrera-Vives",
+      "Patricia Arévalo",
+      "Cristóbal Rodrigo Donoso Oliva",
+      "Pavlos Protopapas",
+      "Gordon T. Richards",
+      "Paula Sánchez-Sáez",
+      "Ezequiel Treister",
+      "Christian Wolf"
+    ],
+    "link": "https://arxiv.org/abs/2607.19640",
+    "score": 0.4267018735408783
+  }
+]
