@@ -9,7 +9,7 @@
       "Richard Easther"
     ],
     "link": "https://arxiv.org/abs/2608.06709",
-    "score": 0.6280732154846191
+    "score": 0.6280827522277832
   },
   {
     "source": "astro-ph",
@@ -31,7 +31,7 @@
       "Jin Li"
     ],
     "link": "https://arxiv.org/abs/2608.07095",
-    "score": 0.5431669354438782
+    "score": 0.5431313514709473
   },
   {
     "source": "astro-ph",
@@ -55,7 +55,7 @@
       "Howard Isaacson"
     ],
     "link": "https://arxiv.org/abs/2608.06453",
-    "score": 0.5298915505409241
+    "score": 0.5299137830734253
   },
   {
     "source": "gr-qc",
@@ -68,7 +68,7 @@
       "Zhaoyi Xu"
     ],
     "link": "https://arxiv.org/abs/2608.07229",
-    "score": 0.5102441906929016
+    "score": 0.510255753993988
   },
   {
     "source": "gr-qc",
@@ -78,7 +78,7 @@
       "Mattia Villani"
     ],
     "link": "https://arxiv.org/abs/2608.06487",
-    "score": 0.5051371455192566
+    "score": 0.5051795244216919
   },
   {
     "source": "astro-ph, gr-qc",
@@ -91,7 +91,7 @@
       "Jan Steinhoff"
     ],
     "link": "https://arxiv.org/abs/2608.07237",
-    "score": 0.49361568689346313
+    "score": 0.4936508536338806
   },
   {
     "source": "astro-ph, gr-qc",
@@ -103,7 +103,7 @@
       "Ling Sun"
     ],
     "link": "https://arxiv.org/abs/2608.07312",
-    "score": 0.49102848768234253
+    "score": 0.4910109341144562
   },
   {
     "source": "astro-ph, gr-qc",
@@ -115,7 +115,7 @@
       "Mubasher Jamil"
     ],
     "link": "https://arxiv.org/abs/2608.06924",
-    "score": 0.48603200912475586
+    "score": 0.48619917035102844
   },
   {
     "source": "gr-qc",
@@ -130,7 +130,7 @@
       "Yingjie Yang"
     ],
     "link": "https://arxiv.org/abs/2608.06627",
-    "score": 0.4845402240753174
+    "score": 0.4844682812690735
   },
   {
     "source": "astro-ph, gr-qc",
@@ -143,7 +143,7 @@
       "Andrew Rhys Counsell"
     ],
     "link": "https://arxiv.org/abs/2608.07311",
-    "score": 0.4835239350795746
+    "score": 0.48370254039764404
   },
   {
     "source": "astro-ph",
@@ -263,7 +263,7 @@
       "W. Si Said"
     ],
     "link": "https://arxiv.org/abs/2608.07234",
-    "score": 0.4743703007698059
+    "score": 0.4743768274784088
   },
   {
     "source": "gr-qc",
@@ -273,7 +273,7 @@
       "Mahdis Ghodrati"
     ],
     "link": "https://arxiv.org/abs/2608.06887",
-    "score": 0.4726370871067047
+    "score": 0.4726460576057434
   },
   {
     "source": "gr-qc",
@@ -283,7 +283,7 @@
       "S. X. Tian"
     ],
     "link": "https://arxiv.org/abs/2608.07318",
-    "score": 0.469468891620636
+    "score": 0.4694559574127197
   },
   {
     "source": "gr-qc",
@@ -315,7 +315,7 @@
       "Ioana Zelko"
     ],
     "link": "https://arxiv.org/abs/2608.07470",
-    "score": 0.4631591737270355
+    "score": 0.4631212651729584
   },
   {
     "source": "astro-ph, gr-qc",
@@ -330,7 +330,7 @@
       "Ghulam Mustafa"
     ],
     "link": "https://arxiv.org/abs/2608.07313",
-    "score": 0.4627186059951782
+    "score": 0.46280843019485474
   },
   {
     "source": "astro-ph",
@@ -386,7 +386,7 @@
       "Marko Toroš"
     ],
     "link": "https://arxiv.org/abs/2608.07257",
-    "score": 0.4598295986652374
+    "score": 0.4598013460636139
   },
   {
     "source": "astro-ph",
@@ -416,7 +416,7 @@
       "Baojiu Li"
     ],
     "link": "https://arxiv.org/abs/2608.06499",
-    "score": 0.450787216424942
+    "score": 0.4508998990058899
   },
   {
     "source": "astro-ph",
@@ -434,7 +434,7 @@
       "M. Della Valle"
     ],
     "link": "https://arxiv.org/abs/2608.07391",
-    "score": 0.44759324193000793
+    "score": 0.4475867748260498
   },
   {
     "source": "astro-ph",
@@ -444,7 +444,7 @@
       "Asa F. L. Bluck"
     ],
     "link": "https://arxiv.org/abs/2608.07247",
-    "score": 0.443705677986145
+    "score": 0.44365906715393066
   },
   {
     "source": "astro-ph, gr-qc",
@@ -455,7 +455,7 @@
       "Giovanni Marozzi"
     ],
     "link": "https://arxiv.org/abs/2608.07264",
-    "score": 0.4435919523239136
+    "score": 0.4434801936149597
   },
   {
     "source": "astro-ph, gr-qc",
@@ -465,7 +465,7 @@
       "Teppei Okumura"
     ],
     "link": "https://arxiv.org/abs/2608.06927",
-    "score": 0.4434208571910858
+    "score": 0.4433942139148712
   },
   {
     "source": "astro-ph",
@@ -503,6 +503,23 @@
   },
   {
     "source": "astro-ph",
+    "arxiv_id": "2608.06527",
+    "title": "A Search for GeV Emission from Magnetar Giant Flare Candidates with Fermi-LAT",
+    "authors": [
+      "Vikas Chand",
+      "Michela Negro",
+      "Nicola Omodei",
+      "Niccol`o Di Lalla",
+      "Eric Burns",
+      "Soebur Razzaque",
+      "Aaron C. Trigg",
+      "Giacomo Principe"
+    ],
+    "link": "https://arxiv.org/abs/2608.06527",
+    "score": 0.4400090277194977
+  },
+  {
+    "source": "astro-ph",
     "arxiv_id": "2608.06721",
     "title": "Evolution of low-mass He stars and implications for electron-capture supernova formation in close binaries",
     "authors": [
@@ -517,23 +534,6 @@
     "score": 0.4395963251590729
   },
   {
-    "source": "astro-ph",
-    "arxiv_id": "2608.06527",
-    "title": "A Search for GeV Emission from Magnetar Giant Flare Candidates with Fermi-LAT",
-    "authors": [
-      "Vikas Chand",
-      "Michela Negro",
-      "Nicola Omodei",
-      "Niccol`o Di Lalla",
-      "Eric Burns",
-      "Soebur Razzaque",
-      "Aaron C. Trigg",
-      "Giacomo Principe"
-    ],
-    "link": "https://arxiv.org/abs/2608.06527",
-    "score": 0.4390135407447815
-  },
-  {
     "source": "astro-ph, gr-qc",
     "arxiv_id": "2608.07142",
     "title": "Enlightening dark moments of neutrino with superradiance",
@@ -543,7 +543,7 @@
       "Anna John"
     ],
     "link": "https://arxiv.org/abs/2608.07142",
-    "score": 0.43423977494239807
+    "score": 0.43370479345321655
   },
   {
     "source": "astro-ph",
@@ -636,7 +636,7 @@
       "Margus Saal"
     ],
     "link": "https://arxiv.org/abs/2608.07386",
-    "score": 0.4258860945701599
+    "score": 0.4258424937725067
   },
   {
     "source": "gr-qc",
@@ -647,7 +647,7 @@
       "Kenneth Blakey"
     ],
     "link": "https://arxiv.org/abs/2608.07467",
-    "score": 0.42464569211006165
+    "score": 0.42466992139816284
   },
   {
     "source": "astro-ph",
