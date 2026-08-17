@@ -1,0 +1,577 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13656",
+    "title": "Abundant Heavy Black Hole Seeds from Moderate Lyman-Werner Radiation",
+    "authors": [
+      "Ryan Hazlett",
+      "Eli Visbal",
+      "Greg L. Bryan",
+      "Mihir Kulkarni"
+    ],
+    "link": "https://arxiv.org/abs/2608.13656",
+    "score": 0.5621808171272278
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13641",
+    "title": "Orbital Migration of Interacting Stellar Mass Black Holes in Disks around Supermassive Black Holes. III. Mass Distribution of Hierarchical Mergers",
+    "authors": [
+      "Katherine L. Gonglewski",
+      "Amy Secunda",
+      "Mordecai-Mark Mac Low",
+      "K. E. Saavik Ford",
+      "Barry McKernan",
+      "Fabian R. N. Schneider"
+    ],
+    "link": "https://arxiv.org/abs/2608.13641",
+    "score": 0.5563194751739502
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13645",
+    "title": "Observational Constraints on Horizonless Compact Objects from Thermal Emission in AGNs",
+    "authors": [
+      "Ekin Oran",
+      "Avery Broderick",
+      "Kiana Salehi"
+    ],
+    "link": "https://arxiv.org/abs/2608.13645",
+    "score": 0.52968829870224
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13692",
+    "title": "Gravitational Waves from Dimension-6 Assisted Peccei - Quinn Phase Transitions",
+    "authors": [
+      "Nico Benincasa",
+      "Kristjan Müürsepp"
+    ],
+    "link": "https://arxiv.org/abs/2608.13692",
+    "score": 0.5093993544578552
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14170",
+    "title": "Constraining Primordial Power Asymmetry from Galaxy Clustering and Peculiar Velocity Information",
+    "authors": [
+      "Keita Minato",
+      "Atsushi Taruya",
+      "Teppei Okumura",
+      "Maresuke Shiraishi"
+    ],
+    "link": "https://arxiv.org/abs/2608.14170",
+    "score": 0.4917851388454437
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14267",
+    "title": "Classical gravitational scattering with a massive scalar mediator",
+    "authors": [
+      "Birgitta Biendarra",
+      "Kays Haddad",
+      "Jan Plefka"
+    ],
+    "link": "https://arxiv.org/abs/2608.14267",
+    "score": 0.48709121346473694
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.13619",
+    "title": "Regular Black Holes from Collapsing Dust in a Dark Energy Background",
+    "authors": [
+      "Qazi Abdul Ghafoor"
+    ],
+    "link": "https://arxiv.org/abs/2608.13619",
+    "score": 0.4813542068004608
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13680",
+    "title": "High-Energy Neutrinos from Supernova Shock Breakouts in Circumstellar Media: Light Curves, Spectra, and Contribution to the Extragalactic Neutrino Background",
+    "authors": [
+      "Tal Wasserman",
+      "Eli Waxman",
+      "Kohta Murase"
+    ],
+    "link": "https://arxiv.org/abs/2608.13680",
+    "score": 0.48132824897766113
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.13643",
+    "title": "Quasinormal modes as exterior probes of black hole interiors in our Universe",
+    "authors": [
+      "Sašo Grozdanov",
+      "Vita Movrin",
+      "Samuel Valach"
+    ],
+    "link": "https://arxiv.org/abs/2608.13643",
+    "score": 0.47647348046302795
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14463",
+    "title": "Static and Dynamic perturbations of scalar DBI analogue of a black hole",
+    "authors": [
+      "Pedro Meert",
+      "Horatiu Nastase"
+    ],
+    "link": "https://arxiv.org/abs/2608.14463",
+    "score": 0.46575191617012024
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14204",
+    "title": "Asymptotic flatness beyond General Relativity",
+    "authors": [
+      "David Maibach"
+    ],
+    "link": "https://arxiv.org/abs/2608.14204",
+    "score": 0.4620370864868164
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13648",
+    "title": "A binary black hole merger rate comparison within the same metallicity - star formation rate framework",
+    "authors": [
+      "Lumen Boco",
+      "Michele Bosi",
+      "Cecilia Sgalletta",
+      "Amedeo Romagnolo",
+      "Michela Mapelli"
+    ],
+    "link": "https://arxiv.org/abs/2608.13648",
+    "score": 0.45938581228256226
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.13943",
+    "title": "Investigation of the black-hole quantum atmosphere from the effective proper temperature",
+    "authors": [
+      "Sojeong Cheong",
+      "Wontae Kim"
+    ],
+    "link": "https://arxiv.org/abs/2608.13943",
+    "score": 0.45784398913383484
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14012",
+    "title": "The SAMI Galaxy Survey: Linking Tidal Features and Orbit Populations Using Schwarzschild Modelling",
+    "authors": [
+      "T. H. Rutherford",
+      "J. van de Sande",
+      "S. M. Croom",
+      "A. Fraser-McKelvie",
+      "G. Santucci",
+      "G. van de Ven",
+      "S. M. Sweet",
+      "S. Brough",
+      "Y. Mai",
+      "J. Bryant",
+      "J. Bland-Hawthorn",
+      "M. Goodwin",
+      "J. Lawrence",
+      "N. P. F. Lorente"
+    ],
+    "link": "https://arxiv.org/abs/2608.14012",
+    "score": 0.45317190885543823
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14449",
+    "title": "The Phase Space of Gravity on Null Hypersurfaces",
+    "authors": [
+      "Luca Ciambelli",
+      "Laurent Freidel",
+      "Robert G. Leigh"
+    ],
+    "link": "https://arxiv.org/abs/2608.14449",
+    "score": 0.4508945643901825
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14549",
+    "title": "Blazar Boosted Dark Matter in IceCube",
+    "authors": [
+      "Alberto M. Gago",
+      "Jaime Hoefken Zink",
+      "Joel Jones-Pérez",
+      "Gabriel D. Zapata"
+    ],
+    "link": "https://arxiv.org/abs/2608.14549",
+    "score": 0.4501899778842926
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14151",
+    "title": "Physics of Circular Polarized Ion-Scale Waves in Hybrid Simulations of Alfvénic Fluctuations",
+    "authors": [
+      "Hai Yang Harry Qian",
+      "Trevor A. Bowen",
+      "Carlos A. Gonzalez",
+      "Nikos Sioulas",
+      "Alfred Mallet",
+      "Kristopher G. Klein",
+      "Daniel Verscharen",
+      "Stuart D. Bale"
+    ],
+    "link": "https://arxiv.org/abs/2608.14151",
+    "score": 0.4490937292575836
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13737",
+    "title": "Performance Analysis of the Asgard/NOTT Nulling Interferometer: Optimizing Observing Modes for High-contrast Detection",
+    "authors": [
+      "J. P. Scott",
+      "S. Ertela",
+      "T. A. Stuber",
+      "D. Defr`ere",
+      "R. Laugier",
+      "J. C. Augereau",
+      "P. Chingaipe",
+      "G. Garreau",
+      "X. Haubois",
+      "M. Ireland",
+      "F. Kirchschlager",
+      "S. Kraus",
+      "F. Martinache",
+      "M-A. Martinod",
+      "K. Missiaen",
+      "S. Morel",
+      "J. Morren",
+      "K. Ollmann",
+      "P. Priolet",
+      "G. Raskin",
+      "M. Salman",
+      "N. Schuhler",
+      "W. Verstraeten",
+      "S. Wolf"
+    ],
+    "link": "https://arxiv.org/abs/2608.13737",
+    "score": 0.4489853084087372
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.14183",
+    "title": "Cosmographic Reconstruction of the Quintessence Potential in Scalar-Tensor Gravity",
+    "authors": [
+      "G. Antonopoulos",
+      "L. Perivolaropoulos"
+    ],
+    "link": "https://arxiv.org/abs/2608.14183",
+    "score": 0.4403751790523529
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13955",
+    "title": "Evidence for Dynamical Filtering: High Binary Fraction, Hard-binary Excess, and Unresolved Triples in the Surviving Core of NGC 6791",
+    "authors": [
+      "Huanbin Chi",
+      "Zhi Li",
+      "Feng Wang",
+      "Xuefen Tian",
+      "Linfeng Chang",
+      "Hongbo Liu",
+      "Yiqin Liu"
+    ],
+    "link": "https://arxiv.org/abs/2608.13955",
+    "score": 0.43605366349220276
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13843",
+    "title": "Energy Partitioning in Dust-catalyzed $\\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects",
+    "authors": [
+      "Xiaolong Yang",
+      "Lile Wang",
+      "Di Li",
+      "Shenzhen Xu"
+    ],
+    "link": "https://arxiv.org/abs/2608.13843",
+    "score": 0.4283927381038666
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.13642",
+    "title": "Explosions from Rotating Very Massive Star Collapses to Black Holes: Effects of Nuclear Burning",
+    "authors": [
+      "Sho Fujibayashi",
+      "Alan Tsz-Lok Lam",
+      "Yuichiro Sekiguchi",
+      "Masaru Shibata"
+    ],
+    "link": "https://arxiv.org/abs/2608.13642",
+    "score": 0.424378901720047
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13633",
+    "title": "Unknown Unknowns: Model Misspecification in Machine Learning for Physics",
+    "authors": [
+      "Juan Cruz-Martinez",
+      "Carolina Cuesta-Lazaro",
+      "Alexander Held",
+      "Michael Kagan"
+    ],
+    "link": "https://arxiv.org/abs/2608.13633",
+    "score": 0.42094358801841736
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13991",
+    "title": "On the Acceleration of Pulsar Timing computations using Normalising Flows and Parallelisation",
+    "authors": [
+      "Churchil Dwivedi",
+      "Hiya Shah",
+      "Hemanga Tahbildar"
+    ],
+    "link": "https://arxiv.org/abs/2608.13991",
+    "score": 0.4207898676395416
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13814",
+    "title": "Time-dependent multi-energy neutrino emission from symbiotic recurrent novae: the role of accretion disks",
+    "authors": [
+      "Rui Xu",
+      "Yudong Cui",
+      "Yihan Shi",
+      "Lili Yang"
+    ],
+    "link": "https://arxiv.org/abs/2608.13814",
+    "score": 0.41904428601264954
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.13634",
+    "title": "Radiative Matching Across a Projector Bridge",
+    "authors": [
+      "Medeu E. Abishev",
+      "Daulet Z. Berkimbayev"
+    ],
+    "link": "https://arxiv.org/abs/2608.13634",
+    "score": 0.4149840772151947
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14534",
+    "title": "ATLAS. IV. A JWST+MUSE Demographic Study of Ly$α$ Profiles in Little Red Dots",
+    "authors": [
+      "Yuta Kageura",
+      "Masami Ouchi",
+      "Hiroto Yanagisawa",
+      "Makoto Ando",
+      "Yuichi Harikane",
+      "Tomokazu Kiyota",
+      "Minami Nakane",
+      "Yoshiaki Ono",
+      "Yui Takeda"
+    ],
+    "link": "https://arxiv.org/abs/2608.14534",
+    "score": 0.41446980834007263
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13639",
+    "title": "Effects of Pebble Accretion Isolation Mass on Observable Exoplanet Properties",
+    "authors": [
+      "Lucas Brefka",
+      "Rebekah I. Dawson",
+      "Mariah G. MacDonald",
+      "Phoebe Sandhaus",
+      "Eric B. Ford"
+    ],
+    "link": "https://arxiv.org/abs/2608.13639",
+    "score": 0.4139432907104492
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13718",
+    "title": "Old Disks Die Hard: How Does AGN Feedback Suppress Disk Formation in Milky Way Mass Galaxies?",
+    "authors": [
+      "Patricia Fofie",
+      "James S. Bullock",
+      "Sarah Wellons",
+      "Jorge Moreno",
+      "Francisco J. Mercado",
+      "Andrew Wetzel"
+    ],
+    "link": "https://arxiv.org/abs/2608.13718",
+    "score": 0.41150611639022827
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13650",
+    "title": "Axion Isocurvature Perturbations Survive the Scaling Evolution of Axion Domain Walls",
+    "authors": [
+      "Naoya Kitajima",
+      "Junseok Lee",
+      "Kai Murai",
+      "Fuminobu Takahashi",
+      "Wen Yin"
+    ],
+    "link": "https://arxiv.org/abs/2608.13650",
+    "score": 0.41143718361854553
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14259",
+    "title": "C-infinity Compact-Support Wormholes with Exact Schwarzschild Exterior in Trace-Coupled Gravity",
+    "authors": [
+      "Mushtaq Ahmad",
+      "M. Farasat Shamir",
+      "Ahdab K. Althukair"
+    ],
+    "link": "https://arxiv.org/abs/2608.14259",
+    "score": 0.41136935353279114
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14547",
+    "title": "Cosmic Ray Diffusion and the Origin of Very High Energy Gamma-Ray Emission in Young Massive Stellar Clusters",
+    "authors": [
+      "Lucas Barreto-Mota",
+      "Elisabete M. de Gouveia Dal Pino",
+      "Gaetano Di Marco",
+      "Rafael Alves Batista",
+      "Stela Adduci Faria"
+    ],
+    "link": "https://arxiv.org/abs/2608.14547",
+    "score": 0.4109860360622406
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14473",
+    "title": "OH Line Detections in Southern Galaxies of the IRAS Revised Bright Galaxy Sample",
+    "authors": [
+      "Han Zhao",
+      "Zhongzu Wu",
+      "Bo Zhang",
+      "Timur Mufakharov",
+      "Yongjun Chen",
+      "Zhiqiang Shen",
+      "Yulia Sotnikova"
+    ],
+    "link": "https://arxiv.org/abs/2608.14473",
+    "score": 0.40792208909988403
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13655",
+    "title": "No Evidence for Nearby Circumstellar Material in the Type Ia Supernova 2025rbs",
+    "authors": [
+      "Aravind P. Ravi",
+      "Griffin Hosseinzadeh",
+      "Stefano Valenti",
+      "Saurabh W. Jha",
+      "Jennifer Andrews",
+      "David J. Sand",
+      "Benjamin J. Fulton",
+      "William D. Vacca",
+      "Melissa L. Graham",
+      "Alexei V. Filippenko",
+      "Noah Franz",
+      "Jeniveve Pearson",
+      "Moira Andrews",
+      "K. Azalee Bostroem",
+      "Collin Christy",
+      "Yize Dong",
+      "Sebastian Gomez",
+      "Daichi Hiramatsu",
+      "Emily Hoang",
+      "D. Andrew Howell",
+      "Brian Hsu",
+      "Daryl Janzen",
+      "Lindsey A. Kwok",
+      "Michael J. Lundquist",
+      "Darshana Mehta",
+      "Nicolas Meza-Retamal",
+      "Curtis McCully",
+      "Manisha Shrestha",
+      "Bhagya Subrayan",
+      "Lauren Weiss",
+      "Weikang Zheng"
+    ],
+    "link": "https://arxiv.org/abs/2608.13655",
+    "score": 0.4078965485095978
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14381",
+    "title": "The Galactic Centre G+0.633-0.0604 Molecular Cloud: A New Gold Mine for Astrochemistry",
+    "authors": [
+      "D. San Andrés",
+      "L. Colzi",
+      "V. M. Rivilla",
+      "M. Sanz-Novo",
+      "S. Martín",
+      "I. Jiménez-Serra",
+      "S. Zeng"
+    ],
+    "link": "https://arxiv.org/abs/2608.14381",
+    "score": 0.4070790112018585
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13996",
+    "title": "How mergers shape galaxy morphology in the IllustrisTNG simulation",
+    "authors": [
+      "Guangquan Zeng",
+      "Lan Wang",
+      "Liang Gao"
+    ],
+    "link": "https://arxiv.org/abs/2608.13996",
+    "score": 0.40425148606300354
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.13895",
+    "title": "A chemo-dynamical search for planet-candidate hosts of possible extragalactic origin",
+    "authors": [
+      "Sun Tiancheng",
+      "Chen Xunzhou",
+      "Xiang Maosheng",
+      "Zhou Jianzhao",
+      "Lu Zixuan"
+    ],
+    "link": "https://arxiv.org/abs/2608.13895",
+    "score": 0.40383750200271606
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.14258",
+    "title": "Launching Jets in Tidal Disruption Events: Magnetic Flux Advection and Plasma Loading",
+    "authors": [
+      "Rin Oikawa",
+      "Yuri Sato"
+    ],
+    "link": "https://arxiv.org/abs/2608.14258",
+    "score": 0.4026220440864563
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2605.16710",
+    "title": "High-Frequency Thermal Noise in Michelson Interferometers",
+    "authors": [
+      "Daniel Grass",
+      "Sander M. Vermeulen",
+      "Ian A. O. MacMillan",
+      "Lee McCuller"
+    ],
+    "link": "https://arxiv.org/abs/2605.16710",
+    "score": 0.40125545859336853
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14512",
+    "title": "Towards a Non-Perturbative Classical Double Copy",
+    "authors": [
+      "Kymani Armstrong-Williams"
+    ],
+    "link": "https://arxiv.org/abs/2608.14512",
+    "score": 0.39537864923477173
+  }
+]
