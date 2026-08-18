@@ -48,7 +48,7 @@
       "Kristjan Müürsepp"
     ],
     "link": "https://arxiv.org/abs/2608.13692",
-    "score": 0.5093993544578552
+    "score": 0.5094505548477173
   },
   {
     "source": "astro-ph",
@@ -61,7 +61,7 @@
       "Maresuke Shiraishi"
     ],
     "link": "https://arxiv.org/abs/2608.14170",
-    "score": 0.4917851388454437
+    "score": 0.4917156398296356
   },
   {
     "source": "gr-qc",
@@ -73,17 +73,7 @@
       "Jan Plefka"
     ],
     "link": "https://arxiv.org/abs/2608.14267",
-    "score": 0.48709121346473694
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2608.13619",
-    "title": "Regular Black Holes from Collapsing Dust in a Dark Energy Background",
-    "authors": [
-      "Qazi Abdul Ghafoor"
-    ],
-    "link": "https://arxiv.org/abs/2608.13619",
-    "score": 0.4813542068004608
+    "score": 0.48701542615890503
   },
   {
     "source": "astro-ph",
@@ -98,6 +88,16 @@
     "score": 0.48132824897766113
   },
   {
+    "source": "gr-qc",
+    "arxiv_id": "2608.13619",
+    "title": "Regular Black Holes from Collapsing Dust in a Dark Energy Background",
+    "authors": [
+      "Qazi Abdul Ghafoor"
+    ],
+    "link": "https://arxiv.org/abs/2608.13619",
+    "score": 0.4813280403614044
+  },
+  {
     "source": "astro-ph, gr-qc",
     "arxiv_id": "2608.13643",
     "title": "Quasinormal modes as exterior probes of black hole interiors in our Universe",
@@ -107,7 +107,7 @@
       "Samuel Valach"
     ],
     "link": "https://arxiv.org/abs/2608.13643",
-    "score": 0.47647348046302795
+    "score": 0.4764556288719177
   },
   {
     "source": "gr-qc",
@@ -118,7 +118,7 @@
       "Horatiu Nastase"
     ],
     "link": "https://arxiv.org/abs/2608.14463",
-    "score": 0.46575191617012024
+    "score": 0.4657144844532013
   },
   {
     "source": "gr-qc",
@@ -128,7 +128,7 @@
       "David Maibach"
     ],
     "link": "https://arxiv.org/abs/2608.14204",
-    "score": 0.4620370864868164
+    "score": 0.46205833554267883
   },
   {
     "source": "astro-ph",
@@ -153,7 +153,7 @@
       "Wontae Kim"
     ],
     "link": "https://arxiv.org/abs/2608.13943",
-    "score": 0.45784398913383484
+    "score": 0.45780786871910095
   },
   {
     "source": "astro-ph",
@@ -188,7 +188,7 @@
       "Robert G. Leigh"
     ],
     "link": "https://arxiv.org/abs/2608.14449",
-    "score": 0.4508945643901825
+    "score": 0.4509172737598419
   },
   {
     "source": "astro-ph",
@@ -201,7 +201,7 @@
       "Gabriel D. Zapata"
     ],
     "link": "https://arxiv.org/abs/2608.14549",
-    "score": 0.4501899778842926
+    "score": 0.4501746594905853
   },
   {
     "source": "astro-ph",
@@ -262,7 +262,7 @@
       "L. Perivolaropoulos"
     ],
     "link": "https://arxiv.org/abs/2608.14183",
-    "score": 0.4403751790523529
+    "score": 0.44036227464675903
   },
   {
     "source": "astro-ph",
@@ -304,7 +304,7 @@
       "Masaru Shibata"
     ],
     "link": "https://arxiv.org/abs/2608.13642",
-    "score": 0.424378901720047
+    "score": 0.4244185984134674
   },
   {
     "source": "astro-ph",
@@ -353,7 +353,7 @@
       "Daulet Z. Berkimbayev"
     ],
     "link": "https://arxiv.org/abs/2608.13634",
-    "score": 0.4149840772151947
+    "score": 0.4148609936237335
   },
   {
     "source": "astro-ph",
@@ -385,7 +385,7 @@
       "Eric B. Ford"
     ],
     "link": "https://arxiv.org/abs/2608.13639",
-    "score": 0.4139432907104492
+    "score": 0.4138925075531006
   },
   {
     "source": "astro-ph",
@@ -403,6 +403,18 @@
     "score": 0.41150611639022827
   },
   {
+    "source": "gr-qc",
+    "arxiv_id": "2608.14259",
+    "title": "C-infinity Compact-Support Wormholes with Exact Schwarzschild Exterior in Trace-Coupled Gravity",
+    "authors": [
+      "Mushtaq Ahmad",
+      "M. Farasat Shamir",
+      "Ahdab K. Althukair"
+    ],
+    "link": "https://arxiv.org/abs/2608.14259",
+    "score": 0.41142165660858154
+  },
+  {
     "source": "astro-ph",
     "arxiv_id": "2608.13650",
     "title": "Axion Isocurvature Perturbations Survive the Scaling Evolution of Axion Domain Walls",
@@ -414,19 +426,7 @@
       "Wen Yin"
     ],
     "link": "https://arxiv.org/abs/2608.13650",
-    "score": 0.41143718361854553
-  },
-  {
-    "source": "gr-qc",
-    "arxiv_id": "2608.14259",
-    "title": "C-infinity Compact-Support Wormholes with Exact Schwarzschild Exterior in Trace-Coupled Gravity",
-    "authors": [
-      "Mushtaq Ahmad",
-      "M. Farasat Shamir",
-      "Ahdab K. Althukair"
-    ],
-    "link": "https://arxiv.org/abs/2608.14259",
-    "score": 0.41136935353279114
+    "score": 0.4113787114620209
   },
   {
     "source": "astro-ph",
@@ -440,7 +440,7 @@
       "Stela Adduci Faria"
     ],
     "link": "https://arxiv.org/abs/2608.14547",
-    "score": 0.4109860360622406
+    "score": 0.41098910570144653
   },
   {
     "source": "astro-ph",
@@ -456,7 +456,7 @@
       "Yulia Sotnikova"
     ],
     "link": "https://arxiv.org/abs/2608.14473",
-    "score": 0.40792208909988403
+    "score": 0.40792563557624817
   },
   {
     "source": "astro-ph",
@@ -524,7 +524,7 @@
       "Liang Gao"
     ],
     "link": "https://arxiv.org/abs/2608.13996",
-    "score": 0.40425148606300354
+    "score": 0.40427085757255554
   },
   {
     "source": "astro-ph",
@@ -549,7 +549,7 @@
       "Yuri Sato"
     ],
     "link": "https://arxiv.org/abs/2608.14258",
-    "score": 0.4026220440864563
+    "score": 0.4026661217212677
   },
   {
     "source": "astro-ph, gr-qc",
@@ -562,7 +562,7 @@
       "Lee McCuller"
     ],
     "link": "https://arxiv.org/abs/2605.16710",
-    "score": 0.40125545859336853
+    "score": 0.40113961696624756
   },
   {
     "source": "gr-qc",
@@ -572,6 +572,6 @@
       "Kymani Armstrong-Williams"
     ],
     "link": "https://arxiv.org/abs/2608.14512",
-    "score": 0.39537864923477173
+    "score": 0.39515119791030884
   }
 ]
