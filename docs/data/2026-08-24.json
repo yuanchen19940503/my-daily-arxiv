@@ -1,0 +1,590 @@
+[
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20897",
+    "title": "Probing cosmological phase transitions with SKAO through nano-Hz gravitational-wave portal",
+    "authors": [
+      "Roman Pasechnik",
+      "António P. Morais"
+    ],
+    "link": "https://arxiv.org/abs/2608.20897",
+    "score": 0.5463920831680298
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20752",
+    "title": "A Dark Matter Masquerade: Degeneracies in Black Hole and Accretion Inference from X-ray Reflection Measurements and Prospects for Compact Dark Matter Halo Constraints",
+    "authors": [
+      "Leif Lui",
+      "Zijian Zhang",
+      "Alejandro Torres-Orjuela"
+    ],
+    "link": "https://arxiv.org/abs/2608.20752",
+    "score": 0.5299658179283142
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.20581",
+    "title": "Perturbative vacuum constraints in higher-curvature gravity: Schwarzschild deformations and strong-field observables",
+    "authors": [
+      "Gustavo Melgarejo",
+      "Daniel Molano",
+      "Jonathan Ramírez"
+    ],
+    "link": "https://arxiv.org/abs/2608.20581",
+    "score": 0.5169073343276978
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21184",
+    "title": "Scalar dark matter in space-based gravitational-wave detectors: center-of-mass motion, size breathing, and TDI projection",
+    "authors": [
+      "Rui-Yang Hu",
+      "Yuan-Zhi Li",
+      "An-Qi Wang",
+      "Zong-Ru Zou",
+      "Fa-Peng Huang",
+      "Cheng-Gang Qin"
+    ],
+    "link": "https://arxiv.org/abs/2608.21184",
+    "score": 0.5106284618377686
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21353",
+    "title": "High-Energy Neutrino Constraints on memory burdened Bardeen and Kerr Primordial Black Holes",
+    "authors": [
+      "Md Riajul Haque",
+      "Suvashis Maity"
+    ],
+    "link": "https://arxiv.org/abs/2608.21353",
+    "score": 0.5097225904464722
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2602.07430",
+    "title": "Circularly polarized gravitational waves from parity-violating scalar-tensor theory",
+    "authors": [
+      "Jia-Xi Feng",
+      "Jia-Yuan Fang",
+      "Xian Gao"
+    ],
+    "link": "https://arxiv.org/abs/2602.07430",
+    "score": 0.5008279085159302
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20629",
+    "title": "Bayesian P-spline recovery of stochastic gravitational-wave backgrounds in LISA",
+    "authors": [
+      "Nazeela Aimen",
+      "Patricio Maturana-Russel",
+      "Avi Vajpeyi",
+      "Nelson Christensen",
+      "Renate Meyer"
+    ],
+    "link": "https://arxiv.org/abs/2608.20629",
+    "score": 0.4948420226573944
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20921",
+    "title": "Hyperonic compact stars with vector portal dark matter",
+    "authors": [
+      "Prafulla K. Panda",
+      "Deepak Kumar",
+      "Hiranmaya Mishra",
+      "Sudhanwa Patra"
+    ],
+    "link": "https://arxiv.org/abs/2608.20921",
+    "score": 0.4847736358642578
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20989",
+    "title": "Neutron star matter with hyperons: Bayesian comparison of nucleonic and SU(6)/SU(3) hyperonic models",
+    "authors": [
+      "Athira S.",
+      "Vishal Parmar",
+      "Monika Sinha",
+      "Ignazio Bombaci"
+    ],
+    "link": "https://arxiv.org/abs/2608.20989",
+    "score": 0.4818227291107178
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21196",
+    "title": "Constraining neutron-star properties with ensembles of thermonuclear bursts: application to SRGA J144459.2-604207",
+    "authors": [
+      "Duncan K. Galloway",
+      "Serena Jones",
+      "Luke Waterson",
+      "Tao Fu",
+      "Adelle J. Goodwin",
+      "Zhaosheng Li"
+    ],
+    "link": "https://arxiv.org/abs/2608.21196",
+    "score": 0.4773636758327484
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21266",
+    "title": "Generation of TeV Photons by PeV Neutrinos in Dense Astrophysical Environments",
+    "authors": [
+      "Jun-Chen Wang",
+      "Hanlin Song",
+      "Hao Li",
+      "Jie Zhu",
+      "Bo-Qiang Ma"
+    ],
+    "link": "https://arxiv.org/abs/2608.21266",
+    "score": 0.47701096534729004
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21118",
+    "title": "Mannheim--Kazanas Black Holes: Horizons, Temperatures and Thermodynamics",
+    "authors": [
+      "Bekir Can Lütfüoğlu"
+    ],
+    "link": "https://arxiv.org/abs/2608.21118",
+    "score": 0.47577425837516785
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20461",
+    "title": "Investigating the Multiwavelength Emission of Binary SMBH Candidate SDSS J095036.75+512838.1",
+    "authors": [
+      "Cassandra Daniele",
+      "Adi Foord",
+      "Jessie Runnoe",
+      "Michael Eracleous",
+      "Niana N. Mohammed"
+    ],
+    "link": "https://arxiv.org/abs/2608.20461",
+    "score": 0.4747467041015625
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20454",
+    "title": "On what scales does strong lensing robustly constrain the mass profile of low-mass perturbers?",
+    "authors": [
+      "Maryam Tajalli",
+      "Simona Vegetti"
+    ],
+    "link": "https://arxiv.org/abs/2608.20454",
+    "score": 0.4680057168006897
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20457",
+    "title": "One-point matter PDFs beyond TopHat filters",
+    "authors": [
+      "Anton Chudaykin",
+      "Alexander M. Kayssi",
+      "Sergey Sibiryakov"
+    ],
+    "link": "https://arxiv.org/abs/2608.20457",
+    "score": 0.4629353880882263
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20745",
+    "title": "Qubits for Dark Matter Hunting",
+    "authors": [
+      "Takeo Moroi"
+    ],
+    "link": "https://arxiv.org/abs/2608.20745",
+    "score": 0.46125712990760803
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20085",
+    "title": "Effective Field Theory for Freezing Gravity with Minimally Coupled Matter",
+    "authors": [
+      "Zhibang Yao"
+    ],
+    "link": "https://arxiv.org/abs/2608.20085",
+    "score": 0.4496641755104065
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20415",
+    "title": "A comparative study of emergent dark energy models",
+    "authors": [
+      "Andrés García-Rivera",
+      "A. Hernández-Almada",
+      "Miguel A. García-Aspeitia",
+      "V. Motta"
+    ],
+    "link": "https://arxiv.org/abs/2608.20415",
+    "score": 0.449203759431839
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.20463",
+    "title": "Spinning test particles in a weak gravitational wave and the memory effect",
+    "authors": [
+      "Ritwik Acharyya",
+      "Shailesh Kumar",
+      "Sayan Kar"
+    ],
+    "link": "https://arxiv.org/abs/2608.20463",
+    "score": 0.4468122124671936
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20876",
+    "title": "Pulse profiles of accreting neutron stars - A review of analysis methods, observations, and theoretical models",
+    "authors": [
+      "Katja Pottschmidt",
+      "Peter Kretschmar",
+      "Ekaterina Sokolova-Lapa",
+      "Elena Ambrosi",
+      "Ralf Ballhausen",
+      "Peter A. Becker",
+      "Katrin Berger",
+      "McKinley C. Brumback",
+      "Joel B. Coley",
+      "Robin H. D. Corbet",
+      "Antonino D'Aì",
+      "Megan E. DeCesar",
+      "Carlo Ferrigno",
+      "Felix Fürst",
+      "Nazma Islam",
+      "Ingo Kreykenbohm",
+      "Vicente Madurga-Favieres",
+      "Pragati Pradhan",
+      "Jakob Stierhof",
+      "Philipp Thalhammer",
+      "Brent F. West",
+      "Michael T. Wolff",
+      "Aafia Zainab",
+      "Nicolas Zalot",
+      "Christian Malacaria",
+      "Richard E. Rothschild",
+      "Jörn Wilms",
+      "Kent S. Wood"
+    ],
+    "link": "https://arxiv.org/abs/2608.20876",
+    "score": 0.4447042644023895
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21318",
+    "title": "Inclusive Radiation and Backreaction from the Phase-Space S-Matrix",
+    "authors": [
+      "Nathan Moynihan"
+    ],
+    "link": "https://arxiv.org/abs/2608.21318",
+    "score": 0.4433536231517792
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21283",
+    "title": "Static electric and magnetic traversable wormholes in $(2+1)$-dimensional nonlinear electrodynamics",
+    "authors": [
+      "Mauricio Cataldo"
+    ],
+    "link": "https://arxiv.org/abs/2608.21283",
+    "score": 0.44303634762763977
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.21323",
+    "title": "Diversity of Galaxy Centers from Small-Scale Isocurvature",
+    "authors": [
+      "Jessica N. Lopez-Sanchez",
+      "Wen Yin"
+    ],
+    "link": "https://arxiv.org/abs/2608.21323",
+    "score": 0.4418242573738098
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20460",
+    "title": "Trace Anomaly and Effective Topological Sources in Neutron Stars",
+    "authors": [
+      "Federico Nola"
+    ],
+    "link": "https://arxiv.org/abs/2608.20460",
+    "score": 0.43547722697257996
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21280",
+    "title": "The [Ne V] AGN Diagnostic in SDSS-IV/eBOSS: An Anticorrelation Between Ionization State and AGN Luminosity in Low-Redshift Coronal-Line Galaxies",
+    "authors": [
+      "Owen S. Matthews Acuña",
+      "Christy A. Tremonti",
+      "Nikko J. Cleri",
+      "Kyle B. Westfall",
+      "Bee R. Erena",
+      "Jacob B. Stimac",
+      "Britt Lundgren",
+      "Drake Miller III",
+      "Aleksandar M. Diamond-Stanic"
+    ],
+    "link": "https://arxiv.org/abs/2608.21280",
+    "score": 0.43526491522789
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21018",
+    "title": "Optical-area minimum method for static spherical black hole shadows",
+    "authors": [
+      "Vitalii Vertogradov",
+      "Nikko John Leo S. Lobos",
+      "Ali Ovgun",
+      "Reggie C. Pantig"
+    ],
+    "link": "https://arxiv.org/abs/2608.21018",
+    "score": 0.4339941442012787
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20450",
+    "title": "Leveraging Impact Parameter to Mitigate the Transit Light Source Effect: Early Insights from TRAPPIST-1",
+    "authors": [
+      "Ana Glidden",
+      "Alexander I. Shapiro",
+      "Sara Seager",
+      "Nadiia Kostogryz",
+      "Valeriy Vasilyev",
+      "Roeland P. van der Marel",
+      "Julien de Wit",
+      "Benjamin V. Rackham",
+      "Prajwal Niraula",
+      "Natalie H. Allen",
+      "Jingcheng Huang",
+      "Nikole K. Lewis",
+      "Zifan Lin",
+      "Jacob Lustig-Yaeger",
+      "Ryan J. MacDonald",
+      "Brett M. Morris",
+      "Elijah Mullens",
+      "Kevin B. Stevenson",
+      "Jeff A. Valenti",
+      "Daniel Valentine",
+      "Hannah R. Wakeford",
+      "C. Matt Mountain"
+    ],
+    "link": "https://arxiv.org/abs/2608.20450",
+    "score": 0.43293577432632446
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20595",
+    "title": "Causal Gravitational-Wave Production Does Not Generate Infrared Adiabatic Curvature",
+    "authors": [
+      "Ruth Durrer",
+      "Alessandro Melchiorri"
+    ],
+    "link": "https://arxiv.org/abs/2608.20595",
+    "score": 0.4327927529811859
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20829",
+    "title": "GRB 220101A: a most energetic $10^{54}$ erg long GRB triggered by two supernovae 3.5 seconds apart",
+    "authors": [
+      "R. Ruffini",
+      "Y. Aimuratov",
+      "L. M. Becerra",
+      "Chris L. Fryer",
+      "Liang Li",
+      "G. J. Mathews",
+      "M. T. Mirtorabi",
+      "R. Moradi",
+      "F. Rastegarnia",
+      "J. A. Rueda",
+      "C. Sigismondi",
+      "S. S. Xue",
+      "Yu Wang"
+    ],
+    "link": "https://arxiv.org/abs/2608.20829",
+    "score": 0.42993250489234924
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21253",
+    "title": "Model independent lensing sub-structure detection with multiply-imaged star clusters constellations",
+    "authors": [
+      "Leo W.H. Fung",
+      "Tom Broadhurst",
+      "Sung Kei Li",
+      "Jeremy Lim",
+      "Giorgio Manzoni",
+      "George F. Smoot"
+    ],
+    "link": "https://arxiv.org/abs/2608.21253",
+    "score": 0.4256678819656372
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2608.21178",
+    "title": "Quantum Horizon Tadpole and Emergence of a de Sitter Interior",
+    "authors": [
+      "Chong-Sun Chu"
+    ],
+    "link": "https://arxiv.org/abs/2608.21178",
+    "score": 0.42459404468536377
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21115",
+    "title": "The GASKAP-HI Survey towards the Magellanic Clouds: Cold Atomic Gas Survival and Evolution in the Large Magellanic Cloud",
+    "authors": [
+      "Hongxing Chen",
+      "Sne{\\vz}ana Stanimirovi{ć}",
+      "James Dempsey",
+      "Jacco Th. van Loon",
+      "Yik Ki Ma",
+      "Hiep Nguyen",
+      "Nickolas M. Pingel",
+      "John M. Dickey",
+      "Min-Young Lee",
+      "N. M. McClure-Griffiths",
+      "Claire E. Murray",
+      "Lister Staveley-Smith",
+      "Denis Leahy",
+      "Callum Lynn",
+      "Antoine Marchal",
+      "Daniel R. Rybarczyk",
+      "Helga D{é}nes",
+      "Steven Gibson",
+      "Katherine Jameson",
+      "Ian Kemp",
+      "Ioana A. Stelea"
+    ],
+    "link": "https://arxiv.org/abs/2608.21115",
+    "score": 0.4214857220649719
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.20451",
+    "title": "Tunneling from a Slowly Rolling Multifield Background Using Tadpole Subtraction",
+    "authors": [
+      "Masaki Yamada"
+    ],
+    "link": "https://arxiv.org/abs/2608.20451",
+    "score": 0.415044903755188
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21226",
+    "title": "Physical Calibration of a Minimal Effective Field Theory of the Three-Dimensional Lyman-$α$ Forest",
+    "authors": [
+      "Gabriele Autieri",
+      "Vid Iršič",
+      "Tomáš Šoltinsky",
+      "Matteo Viel"
+    ],
+    "link": "https://arxiv.org/abs/2608.21226",
+    "score": 0.41434499621391296
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21000",
+    "title": "Nucleosynthesis in the Accretion-induced Collapse of magnetised, Rotating White Dwarfs",
+    "authors": [
+      "Laurenz Thümmler",
+      "Takami Kuroda",
+      "Masaru Shibata"
+    ],
+    "link": "https://arxiv.org/abs/2608.21000",
+    "score": 0.4140389859676361
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2608.21193",
+    "title": "Resonance crossings as entire functions of the Koopman operator",
+    "authors": [
+      "Priscilla Canizares"
+    ],
+    "link": "https://arxiv.org/abs/2608.21193",
+    "score": 0.41303080320358276
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20672",
+    "title": "Effects of Ambient Medium Profiles on the Evolution of Relativistic Magnetized Jets",
+    "authors": [
+      "Xufan Hu",
+      "Yosuke Mizuno"
+    ],
+    "link": "https://arxiv.org/abs/2608.20672",
+    "score": 0.4127596914768219
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.20609",
+    "title": "Mapping the z>=5 SiIV Column Density Distribution onto the Galaxy Stellar Mass Function Using the Cumulative Absorption Cross Section",
+    "authors": [
+      "Kristian Finlator",
+      "Sam Patterson",
+      "Nora Nava",
+      "Ayanah Cason",
+      "Samir Kušmić",
+      "Ezra Huscher",
+      "Farhanul Hasan"
+    ],
+    "link": "https://arxiv.org/abs/2608.20609",
+    "score": 0.4111262261867523
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21001",
+    "title": "NAIR-APREXIS: Enabling photonics-based instruments for long-baseline interferometry and integral-field spectroscopy",
+    "authors": [
+      "L. Labadie",
+      "R. J. Harris",
+      "K. Madhav",
+      "A. Dinkelaker",
+      "K. Barjot",
+      "A. Benoît",
+      "N. J. Scott",
+      "N. Anugu",
+      "S. Mahdizadeh",
+      "V. Kutnohorsky",
+      "A. Calcines Rosario",
+      "E. Ronson",
+      "A. Magniez",
+      "R. R. Thomson",
+      "T. K. Sharma",
+      "A. V. Mayer",
+      "G. Schaefer"
+    ],
+    "link": "https://arxiv.org/abs/2608.21001",
+    "score": 0.4042782187461853
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2608.21076",
+    "title": "EWOCS VII : Unveiling the faint diffuse X-ray emission in Westerlund 1",
+    "authors": [
+      "Albacete-Colombo J.F.",
+      "Andersen M.",
+      "De Becker M.",
+      "Mackey J.",
+      "Larkin C.J.K.",
+      "Guarcello M.G.",
+      "Anastasopoulou K.",
+      "Sciortino S.",
+      "Greco E.",
+      "Miceli M.",
+      "Sapienza V.",
+      "Flaccomio E.",
+      "Filócomo A.",
+      "Stevens I.A.",
+      "Bayo A.",
+      "Drake J.J.",
+      "Gennaro M.",
+      "Gunderson S.J.",
+      "Fraschetti F"
+    ],
+    "link": "https://arxiv.org/abs/2608.21076",
+    "score": 0.403919517993927
+  }
+]
