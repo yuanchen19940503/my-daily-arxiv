@@ -1,0 +1,633 @@
+[
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01568",
+    "title": "Enabling gravitational-wave astronomy with spin-precessing black holes on generic orbits",
+    "authors": [
+      "Aldo Gamboa",
+      "Lorenzo Pompili",
+      "Alessandra Buonanno",
+      "Luca Sebastiani",
+      "Raffi Enficiaud",
+      "Michael Boyle",
+      "Lawrence E. Kidder",
+      "Harald P. Pfeiffer",
+      "Antoni Ramos-Buades",
+      "Mark A. Scheel"
+    ],
+    "link": "https://arxiv.org/abs/2609.01568",
+    "score": 0.5586691498756409
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00945",
+    "title": "Constraining AGN Disk Properties with Gravitational Waves from Inspiraling Stellar-Mass Binary Black Holes in Hierarchical Triple Systems",
+    "authors": [
+      "Jie Wu",
+      "Mengfei Sun",
+      "Jin Li",
+      "Zhoujian Cao"
+    ],
+    "link": "https://arxiv.org/abs/2609.00945",
+    "score": 0.5479328632354736
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.01331",
+    "title": "Gravitational-wave signatures of primordial black hole clusters and the imprint of an early dense-core collapse",
+    "authors": [
+      "Marc Barceló-Sastre",
+      "Juan García-Bellido"
+    ],
+    "link": "https://arxiv.org/abs/2609.01331",
+    "score": 0.5446000099182129
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00613",
+    "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
+    "authors": [
+      "Yiqin Chen",
+      "Shi-Yi Zhao",
+      "Xingjiang Zhu",
+      "N. D. Ramesh Bhat",
+      "Jacob Cardinal Tremblay",
+      "Małgorzata Curyło",
+      "Valentina Di Marco",
+      "George Hobbs",
+      "Wenhua Ling",
+      "Rami F. Mandow",
+      "Richard N. Manchester",
+      "Saurav Mishra",
+      "Daniel J. Reardon",
+      "Sparrow Roch",
+      "Christopher J. Russell",
+      "Ryan M. Shannon",
+      "Jingbo Wang",
+      "Shuangqiang Wang",
+      "Andrew Zic"
+    ],
+    "link": "https://arxiv.org/abs/2609.00613",
+    "score": 0.5366423726081848
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.01153",
+    "title": "Constraints on Buchdahl-Inspired Gravity from Future Pulsar Timing near Sgr A*",
+    "authors": [
+      "Jian-Ming Yan",
+      "Tao Zhu",
+      "Zong-Kuan Guo",
+      "Zhao Li"
+    ],
+    "link": "https://arxiv.org/abs/2609.01153",
+    "score": 0.5071269273757935
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00113",
+    "title": "Weighing Little Red Dots with Transient Events",
+    "authors": [
+      "Vinh Tran",
+      "Xuejian Shen",
+      "Oliver Zier",
+      "Anna de Graaff",
+      "Rohan P. Naidu",
+      "Mark Vogelsberger"
+    ],
+    "link": "https://arxiv.org/abs/2609.00113",
+    "score": 0.5055368542671204
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00115",
+    "title": "Early Supermassive Black Holes and Little Red Dots Require Free-Fall Growth",
+    "authors": [
+      "Junehyoung Jeon",
+      "Volker Bromm",
+      "Michael Boylan-Kolchin",
+      "Julian B. Muñoz"
+    ],
+    "link": "https://arxiv.org/abs/2609.00115",
+    "score": 0.4921116530895233
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00130",
+    "title": "Exploring stellar evolution with Luminous Red Novae and Interacting Gap Transients",
+    "authors": [
+      "Nadejda Blagorodnova"
+    ],
+    "link": "https://arxiv.org/abs/2609.00130",
+    "score": 0.4801557958126068
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00841",
+    "title": "Combining Systematic Effects in CMB Polarization Experiments through map-based simulations: application to LiteBIRD's HWP non-idealities and detectors non-linearity",
+    "authors": [
+      "Silvia Micheli",
+      "Francesco Piacentini",
+      "Tommaso Ghigna",
+      "Alessandro Carones",
+      "Alessandro Novelli",
+      "Giampaolo Pisano",
+      "Giulia Barbieri Ripamonti",
+      "Alessandro Coppolecchia",
+      "Paolo de Bernardis",
+      "Silvia Masi",
+      "Andrea Occhiuzzi",
+      "Alessandro Paiella",
+      "Simone Stellati"
+    ],
+    "link": "https://arxiv.org/abs/2609.00841",
+    "score": 0.478561133146286
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00989",
+    "title": "The Missing MeV Window for Identifying Galactic PeVatrons: the need for a dedicated MeV Observatory",
+    "authors": [
+      "Martina Cardillo",
+      "Riccardo Campana",
+      "Yuri Evangelista",
+      "Fabio Muleri"
+    ],
+    "link": "https://arxiv.org/abs/2609.00989",
+    "score": 0.47647297382354736
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00174",
+    "title": "GRMHD Simulations of Accreting Proto-Magnetars I. Implications for Gamma-Ray Burst Jets and Energetic Explosions",
+    "authors": [
+      "Tejas Prasanna",
+      "Kyle Parfrey",
+      "Brian D. Metzger",
+      "Ore Gottlieb",
+      "Andrei Beloborodov",
+      "Koushik Chatterjee"
+    ],
+    "link": "https://arxiv.org/abs/2609.00174",
+    "score": 0.476156622171402
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00437",
+    "title": "Formation of Heavy Seed Black Holes and Little Red Dots-like Compact Clusters in Metal-enriched Star-forming Regions",
+    "authors": [
+      "Sunmyon Chon",
+      "Shingo Hirano",
+      "Ke-Jung Chen",
+      "Volker Springel"
+    ],
+    "link": "https://arxiv.org/abs/2609.00437",
+    "score": 0.4705493152141571
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00962",
+    "title": "Connecting radio pulsars, magnetars, and XDINSs in a unified evolutionary framework using simulation-based inference",
+    "authors": [
+      "Michele Ronchi",
+      "Celsa Pardo-Araujo",
+      "Vanessa Graber",
+      "Nanda Rea",
+      "Clara Dehman",
+      "Davide De Grandis",
+      "Alessio Marino",
+      "Francesco Coti Zelati",
+      "Joeri van Leeuwen",
+      "José A. Pons"
+    ],
+    "link": "https://arxiv.org/abs/2609.00962",
+    "score": 0.46997901797294617
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00095",
+    "title": "Detectability-Aware Screening of Post-Merger Gravitational-Wave Damping Anomalies in Real Detector Noise: A Graph-Spectral Approach with Empirical Null Calibration",
+    "authors": [
+      "Ruslan Alaskarov"
+    ],
+    "link": "https://arxiv.org/abs/2609.00095",
+    "score": 0.46912461519241333
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.00589",
+    "title": "Directional Response Optimization through Linear Recombination of Time-Delay Interferometry Channels in Space-based Gravitational Wave Detection",
+    "authors": [
+      "Heng-Sen Jiao",
+      "Jing-Rui Zhang",
+      "Hong-Bo Jin",
+      "Yun-Long Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2609.00589",
+    "score": 0.4659115970134735
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.01193",
+    "title": "Angular power spectrum of induced gravitational waves: breaking model and parameter degeneracies in PTA observations",
+    "authors": [
+      "Peng-Yu Wu",
+      "Di Wu",
+      "Jing-Zhi Zhou"
+    ],
+    "link": "https://arxiv.org/abs/2609.01193",
+    "score": 0.4622872769832611
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00190",
+    "title": "GRMHD Simulations of Accreting Proto-Magnetars II. Implications for r-process Nucleosynthesis",
+    "authors": [
+      "Tejas Prasanna",
+      "Kyle Parfrey",
+      "Brian D. Metzger",
+      "Ore Gottlieb",
+      "Andrei Beloborodov",
+      "Koushik Chatterjee"
+    ],
+    "link": "https://arxiv.org/abs/2609.00190",
+    "score": 0.4592081606388092
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01391",
+    "title": "Scalar wave scattering by black holes embedded in dark matter halos",
+    "authors": [
+      "Shi-Qian Hu",
+      "Federico Piazza"
+    ],
+    "link": "https://arxiv.org/abs/2609.01391",
+    "score": 0.4574611485004425
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00013",
+    "title": "Efficient searches of small signals across two-channel noisy data: a challenge in Big Data observations",
+    "authors": [
+      "Maryam Aghaei Abchouyeh",
+      "Maurice H.P.M. van Putten"
+    ],
+    "link": "https://arxiv.org/abs/2609.00013",
+    "score": 0.4566881060600281
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01265",
+    "title": "AGN X-ray coronae at high luminosity: A broadband study of RBS 229 and PG 1407+265",
+    "authors": [
+      "Alessandro Leonardo Lai",
+      "Stefano Bianchi",
+      "Andrea Marinucci",
+      "Enrico Piconcelli",
+      "Francesco Ursini",
+      "Elena Bertola",
+      "Giorgio Lanzuisi",
+      "Pierre-Olivier Petrucci",
+      "Daniel Stern",
+      "Cristian Vignali",
+      "Luca Zappacosta"
+    ],
+    "link": "https://arxiv.org/abs/2609.01265",
+    "score": 0.44881218671798706
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01205",
+    "title": "The Physical Conditions of Low-Mass Galaxies at z=3.5-7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness",
+    "authors": [
+      "Ryan A. Cooper",
+      "Karina I. Caputi",
+      "Alessandro Marconi",
+      "Anna Feltre",
+      "Edoardo Iani",
+      "Pierluigi Rinaldi",
+      "Guillaume Desprez",
+      "Harley Katz"
+    ],
+    "link": "https://arxiv.org/abs/2609.01205",
+    "score": 0.44402843713760376
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01134",
+    "title": "Relative-Phase Control of Common-Bridge Survival in Collisions of Radially Excited Boson Stars",
+    "authors": [
+      "Bo-Xuan Ge"
+    ],
+    "link": "https://arxiv.org/abs/2609.01134",
+    "score": 0.44376832246780396
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.00980",
+    "title": "Near-extremal asymptotics and strong cosmic censorship for black holes immersed in a Chaplygin-like dark fluid",
+    "authors": [
+      "Hao-Peng Yan",
+      "Zeng-Yi Zhang",
+      "Xiang-Qian Li",
+      "Xiao-Jun Yue"
+    ],
+    "link": "https://arxiv.org/abs/2609.00980",
+    "score": 0.4436386227607727
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00114",
+    "title": "Reconciling Galactic rotation curve constraints with stellar stream modeling",
+    "authors": [
+      "Mingyu Chang",
+      "Francois Hammer",
+      "Yanbin Yang"
+    ],
+    "link": "https://arxiv.org/abs/2609.00114",
+    "score": 0.4430455267429352
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00766",
+    "title": "$\\texttt{BilbyFlow}$: user-friendly neural posterior estimation for gravitational-wave astronomy",
+    "authors": [
+      "Liam Pinchbeck",
+      "Eric Thrane",
+      "Csaba Balazs",
+      "Paul Lasky"
+    ],
+    "link": "https://arxiv.org/abs/2609.00766",
+    "score": 0.4423466622829437
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00339",
+    "title": "A Fast and Scalable Transformer Pipeline for Binary Black Hole Detection",
+    "authors": [
+      "Chayan Chatterjee",
+      "Abigail Petulante",
+      "Haowei Fu",
+      "Yang Hu",
+      "Roy Lau",
+      "Karan Jani"
+    ],
+    "link": "https://arxiv.org/abs/2609.00339",
+    "score": 0.44183146953582764
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00990",
+    "title": "A Galactic microblazar as a potential accelerator of ultra-high-energy particles",
+    "authors": [
+      "Josep Martí",
+      "Pedro L. Luque-Escamilla",
+      "Benito Marcote",
+      "Leandro Abaroa",
+      "Arnau Aguasca-Cabot",
+      "Jorge A. Combi",
+      "Gustavo E. Romero",
+      "Josep M. Paredes",
+      "Federico García",
+      "Federico Fogantini",
+      "Enzo A. Saavedra",
+      "Daniel del Ser",
+      "Jakob van den Eijnden"
+    ],
+    "link": "https://arxiv.org/abs/2609.00990",
+    "score": 0.44057536125183105
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01290",
+    "title": "Deviations from Kerr: Polar critical curves and photon rings in a class of separable spacetimes",
+    "authors": [
+      "Hao-Peng Yan",
+      "Xiang-Qian Li",
+      "Xiao-Jun Yue"
+    ],
+    "link": "https://arxiv.org/abs/2609.01290",
+    "score": 0.43856096267700195
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00166",
+    "title": "Redshift Identifiability from Gamma-Ray Burst Prompt Emission",
+    "authors": [
+      "Shu-Xu Yi"
+    ],
+    "link": "https://arxiv.org/abs/2609.00166",
+    "score": 0.43711158633232117
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00112",
+    "title": "Skyfire: A Spectroscopic Census of Little Red Dots and Broad-Line AGN in the CEERS Field",
+    "authors": [
+      "Dale D. Kocevski",
+      "Anthony J. Taylor",
+      "Masafusa Onoue",
+      "Kohei Inayoshi",
+      "Steven L. Finkelstein",
+      "Guillermo Barro",
+      "Jingsong Guo",
+      "Pablo Arrabal Haro",
+      "Jonathan R. Trump",
+      "Rebecca L. Larson",
+      "Mark Dickinson",
+      "Casey Papovich",
+      "Fabio Pacucci",
+      "Pablo G. Perez-Gonzalez",
+      "Michaela Hirschmann",
+      "Elizabeth J. McGrath",
+      "Brenda L. Jones",
+      "Nikko J. Cleri",
+      "Kelcey Davis",
+      "Mauro Giavalisco",
+      "Norman A. Grogin",
+      "Taylor A. Hutchison",
+      "Jeyhan S. Kartaltepe",
+      "Allison Kirkpatrick",
+      "Gene C. K. Leung",
+      "Rachel S. Somerville",
+      "Stephen M. Wilkins"
+    ],
+    "link": "https://arxiv.org/abs/2609.00112",
+    "score": 0.43709585070610046
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.00200",
+    "title": "Gravitational waves from core collapse of rotating very-massive stars: 3D numerical relativity computation",
+    "authors": [
+      "Alan Tsz-Lok Lam",
+      "Masaru Shibata",
+      "Sho Fujibayashi"
+    ],
+    "link": "https://arxiv.org/abs/2609.00200",
+    "score": 0.4365393817424774
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.00664",
+    "title": "Perturbations and stability of black holes with static scalar hair in general GLPV theories",
+    "authors": [
+      "Petarpa Boonserm",
+      "Antonio De Felice",
+      "Ratchaphat Nakarachinda",
+      "Shinji Tsujikawa",
+      "Pitayuth Wongjun"
+    ],
+    "link": "https://arxiv.org/abs/2609.00664",
+    "score": 0.4360470473766327
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00526",
+    "title": "Extragalactic Stellar Streams in Time-Dependent Cosmological Halos",
+    "authors": [
+      "Sarah Pearson",
+      "Jacob Nibauer",
+      "Emily C. Cunningham",
+      "Adrian M. Price-Whelan",
+      "Adrien C. R. Thob",
+      "Arpit Arora",
+      "Robyn E. Sanderson"
+    ],
+    "link": "https://arxiv.org/abs/2609.00526",
+    "score": 0.4353106915950775
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01109",
+    "title": "Complex Lags from Simple Physics",
+    "authors": [
+      "Benjamin Ricketts",
+      "Gregoire Marcel"
+    ],
+    "link": "https://arxiv.org/abs/2609.01109",
+    "score": 0.4336110055446625
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.01063",
+    "title": "Colored-Noise-Induced Horizon Fluctuations Near a Double Root in an Effective Black-Hole Geometry",
+    "authors": [
+      "Kashif Ammar Yasir"
+    ],
+    "link": "https://arxiv.org/abs/2609.01063",
+    "score": 0.4334803819656372
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01052",
+    "title": "Archival transients detected with the MeerLICHT telescope I: Supernovae",
+    "authors": [
+      "O.Mogawana",
+      "P.J. Groot",
+      "N. Blagorodnova",
+      "P.M. Vreeswijk",
+      "D.L.A. Pieterse",
+      "S. Bloemen",
+      "G. Leloudas",
+      "R.A.D. Wijnands",
+      "D. A. H. Buckley",
+      "P. A. Woudt",
+      "R. Fender",
+      "B. W. Stappers"
+    ],
+    "link": "https://arxiv.org/abs/2609.01052",
+    "score": 0.43171462416648865
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01347",
+    "title": "Reconstruction of anomalous air showers with SKA-Low",
+    "authors": [
+      "Vital De Henau",
+      "Sjoerd Bouma",
+      "Justin Bray",
+      "Stijn Buitink",
+      "Arthur Corstanje",
+      "Edwin Dickinson",
+      "Tjibbe Gottmer",
+      "Brian Hare",
+      "Haoning He",
+      "Jörg Hörandel",
+      "Tim Huege",
+      "Clancy James",
+      "Mrinal Jetti",
+      "Philipp Laub",
+      "Xingyu Li",
+      "Marten Lourens",
+      "Hermann-Josef Mathes",
+      "Katie Mulrey",
+      "Anna Nelles",
+      "Subhadip Saha",
+      "Felix Schlüter",
+      "Olaf Scholten",
+      "Ralph Spencer",
+      "Christopher Sterpka",
+      "Sander ter Veen",
+      "Karen Terveer",
+      "Gia Trinh",
+      "Paulina Turekova",
+      "Darko Veberič",
+      "Keito Watanabe",
+      "Marc Waterson",
+      "Chao Zhang",
+      "Pengfei Zhang",
+      "Yi Zhang"
+    ],
+    "link": "https://arxiv.org/abs/2609.01347",
+    "score": 0.43092453479766846
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.00684",
+    "title": "X-ray Flares in Gamma-Ray Bursts at High and Very-High-Energies",
+    "authors": [
+      "Pawan Tiwari",
+      "Biswajit Banerjee",
+      "Gor Oganesyan",
+      "Ansh Chopra",
+      "Annarita Ierardi",
+      "Marica Branchesi",
+      "Stefano Ascenzi",
+      "Maria Edvige Ravasio"
+    ],
+    "link": "https://arxiv.org/abs/2609.00684",
+    "score": 0.4307847023010254
+  },
+  {
+    "source": "gr-qc",
+    "arxiv_id": "2609.00642",
+    "title": "Circulation and operational sparsity of analogue Hawking radiation in rotating acoustic horizons",
+    "authors": [
+      "Fernando M. Belchior",
+      "Joao A.A.S. Reis",
+      "Edilberto O. Silva"
+    ],
+    "link": "https://arxiv.org/abs/2609.00642",
+    "score": 0.43047675490379333
+  },
+  {
+    "source": "astro-ph",
+    "arxiv_id": "2609.01421",
+    "title": "Extreme AGN Variability in WISE: Powerful Flares and Candidate Tidal Disruption Events in AGN",
+    "authors": [
+      "Satya Teja Anuraag Upadhyayula",
+      "Daniel Stern",
+      "Kishalay De",
+      "Christos Panagiotou",
+      "Matthew J. Graham",
+      "K. E. Saavik Ford",
+      "Barry McKernan",
+      "Murray Brightman",
+      "J. A. Acevedo Barroso",
+      "Daniel H. McIntosh"
+    ],
+    "link": "https://arxiv.org/abs/2609.01421",
+    "score": 0.42964932322502136
+  }
+]
