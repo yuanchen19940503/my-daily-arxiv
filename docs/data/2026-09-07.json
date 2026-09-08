@@ -11,7 +11,7 @@
       "Parameswaran Ajith"
     ],
     "link": "https://arxiv.org/abs/2609.05020",
-    "score": 0.5481001734733582
+    "score": 0.548102080821991
   },
   {
     "source": "astro-ph",
@@ -39,7 +39,7 @@
       "Xiongwei Liu"
     ],
     "link": "https://arxiv.org/abs/2609.04746",
-    "score": 0.5145131349563599
+    "score": 0.5145655274391174
   },
   {
     "source": "astro-ph",
@@ -98,7 +98,7 @@
       "David A. Nichols"
     ],
     "link": "https://arxiv.org/abs/2609.04340",
-    "score": 0.47276023030281067
+    "score": 0.4727441668510437
   },
   {
     "source": "astro-ph, gr-qc",
@@ -121,7 +121,7 @@
       "R. Ruffini"
     ],
     "link": "https://arxiv.org/abs/2609.04776",
-    "score": 0.4668661653995514
+    "score": 0.46689656376838684
   },
   {
     "source": "astro-ph",
@@ -163,7 +163,7 @@
       "Jason Surace"
     ],
     "link": "https://arxiv.org/abs/2609.04315",
-    "score": 0.46022558212280273
+    "score": 0.4602239429950714
   },
   {
     "source": "gr-qc",
@@ -292,7 +292,7 @@
       "Brad Tucker"
     ],
     "link": "https://arxiv.org/abs/2609.05053",
-    "score": 0.44095519185066223
+    "score": 0.4409942924976349
   },
   {
     "source": "astro-ph",
@@ -302,7 +302,7 @@
       "Shant Khlghatyan"
     ],
     "link": "https://arxiv.org/abs/2609.05172",
-    "score": 0.44057101011276245
+    "score": 0.4405507445335388
   },
   {
     "source": "astro-ph",
@@ -325,7 +325,17 @@
       "Bhaswati Bhattacharyya"
     ],
     "link": "https://arxiv.org/abs/2609.04731",
-    "score": 0.4355875253677368
+    "score": 0.4355994462966919
+  },
+  {
+    "source": "astro-ph, gr-qc",
+    "arxiv_id": "2609.05375",
+    "title": "Fast Bayesian Inference for Long-Duration Gravitational-Wave Signals in 3G detectors",
+    "authors": [
+      "Anand S. Sengupta"
+    ],
+    "link": "https://arxiv.org/abs/2609.05375",
+    "score": 0.4341607987880707
   },
   {
     "source": "astro-ph",
@@ -391,16 +401,6 @@
     "score": 0.4341442883014679
   },
   {
-    "source": "astro-ph, gr-qc",
-    "arxiv_id": "2609.05375",
-    "title": "Fast Bayesian Inference for Long-Duration Gravitational-Wave Signals in 3G detectors",
-    "authors": [
-      "Anand S. Sengupta"
-    ],
-    "link": "https://arxiv.org/abs/2609.05375",
-    "score": 0.4341263175010681
-  },
-  {
     "source": "astro-ph",
     "arxiv_id": "2609.04317",
     "title": "Super-Eddington Accretion and Early-Stage Feedback in Ton S180",
@@ -425,7 +425,7 @@
       "Benedetta Dalla Barba"
     ],
     "link": "https://arxiv.org/abs/2609.04317",
-    "score": 0.4323991537094116
+    "score": 0.4323484003543854
   },
   {
     "source": "astro-ph",
@@ -437,7 +437,7 @@
       "Miguel Zumalacarregui"
     ],
     "link": "https://arxiv.org/abs/2609.04308",
-    "score": 0.4322310984134674
+    "score": 0.4322991669178009
   },
   {
     "source": "gr-qc",
@@ -450,7 +450,7 @@
       "Pietro Pellecchia"
     ],
     "link": "https://arxiv.org/abs/2609.04328",
-    "score": 0.4293251633644104
+    "score": 0.42929983139038086
   },
   {
     "source": "astro-ph",
@@ -467,7 +467,7 @@
       "M. Woodland"
     ],
     "link": "https://arxiv.org/abs/2609.04765",
-    "score": 0.42892733216285706
+    "score": 0.4289287328720093
   },
   {
     "source": "astro-ph",
@@ -502,7 +502,7 @@
       "C. G. Scóccola"
     ],
     "link": "https://arxiv.org/abs/2609.04510",
-    "score": 0.4275560677051544
+    "score": 0.42782655358314514
   },
   {
     "source": "astro-ph",
@@ -515,7 +515,7 @@
       "R. Banerjee"
     ],
     "link": "https://arxiv.org/abs/2609.04892",
-    "score": 0.42547285556793213
+    "score": 0.42547571659088135
   },
   {
     "source": "gr-qc",
@@ -527,7 +527,7 @@
       "Reggie C. Pantig"
     ],
     "link": "https://arxiv.org/abs/2609.04254",
-    "score": 0.4251769483089447
+    "score": 0.42507869005203247
   },
   {
     "source": "astro-ph",
@@ -636,7 +636,7 @@
       "L. Moscardini"
     ],
     "link": "https://arxiv.org/abs/2609.05155",
-    "score": 0.42159298062324524
+    "score": 0.42151716351509094
   },
   {
     "source": "astro-ph",
@@ -685,7 +685,7 @@
       "Guozhen Hu"
     ],
     "link": "https://arxiv.org/abs/2609.04560",
-    "score": 0.41981592774391174
+    "score": 0.41981983184814453
   },
   {
     "source": "astro-ph, gr-qc",
@@ -697,7 +697,7 @@
       "K. G. Arun"
     ],
     "link": "https://arxiv.org/abs/2609.05118",
-    "score": 0.41682952642440796
+    "score": 0.4168553948402405
   },
   {
     "source": "astro-ph",
